@@ -62,7 +62,7 @@ const props = defineProps(['data'])
 }
 
 .item .title {
-    margin: 10px 0 0 0;
+    padding: 10px 0 0 0;
     margin: 0 auto;
     text-align: center;
 }
