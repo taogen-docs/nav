@@ -33,5 +33,10 @@
     "title": "InfoWorld",
     "link": "https://www.infoworld.com/",
     "img": "https://idge.staticworld.net/ifw/favicon.ico"
+  },
+  {
+    "title": "Dev",
+    "link": "https://dev.to/",
+    "img": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
   }
 ]
