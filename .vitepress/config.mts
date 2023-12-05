@@ -7,7 +7,7 @@ export default defineConfig({
     srcDir: 'src',
     srcExclude: [],
     // Whether to get the last updated timestamp for each page using Git.
-    lastUpdated: true,
+    // lastUpdated: true,
     head: [
         ['link', {rel: 'shortcut icon', type: "image/jpeg", href: '/logo.jpeg'}],
         // These two are what you want to use by default
