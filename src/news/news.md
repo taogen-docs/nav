@@ -1,11 +1,12 @@
 <script setup>
 import { ref } from 'vue';
 import NavContainer from '../components/NavContainer.vue';
-import newsData from '../assets/dev.json';
+import newsData from '../assets/news/news.json';
 
 const data = ref(newsData);
 </script>
 
-# Dev
+# News
 
 <NavContainer :data="data"/>
+

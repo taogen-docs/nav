@@ -46,13 +46,21 @@ export default defineConfig({
 function nav(): DefaultTheme.NavItem[] {
     return [
         {text: 'Home', link: '/'},
-        {text: 'News', link: '/news/'},
-        {text: 'Dev', link: '/dev/'},
+        {text: 'News', link: '/news/news.md', activeMatch: '/news/'},
+        // {text: 'Dev', link: '/dev/'},
     ];
 }
 
 function sidebarNews(): DefaultTheme.SidebarItem[] {
     return [
+        {
+            text: 'News',
+            link: '/news/news.md',
+        },
+        {
+            text: 'Dev News',
+            link: '/news/dev-news.md',
+        }
     ]
 }
 
