@@ -13,5 +13,25 @@
     "title": "Reddit",
     "link": "https://www.reddit.com/r/programming/",
     "img": "https://www.reddit.com/favicon.ico"
+  },
+  {
+    "title": "daily.dev",
+    "link": "https://app.daily.dev/",
+    "img": "https://app.daily.dev/favicon.ico"
+  },
+  {
+    "title": "DZone",
+    "link": "https://dzone.com/",
+    "img": "https://dz2cdn3.dzone.com/themes/dz20/images/favicon.png"
+  },
+  {
+    "title": "InfoQ",
+    "link": "https://www.infoq.com/",
+    "img": "https://www.infoq.com/favicon.ico"
+  },
+  {
+    "title": "InfoWorld",
+    "link": "https://www.infoworld.com/",
+    "img": "https://idge.staticworld.net/ifw/favicon.ico"
   }
 ]
