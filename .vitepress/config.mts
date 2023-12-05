@@ -26,7 +26,8 @@ export default defineConfig({
         nav: nav(),
 
         sidebar: {
-            '/example/': sidebarExample()
+            '/news/': sidebarNews(),
+            '/dev/': sidebarDev(),
         },
         logo: {src: '/logo.jpeg', width: 24, height: 24},
         search: {
@@ -45,12 +46,17 @@ export default defineConfig({
 function nav(): DefaultTheme.NavItem[] {
     return [
         {text: 'Home', link: '/'},
-        {text: 'Example', link: '/example/'},
+        {text: 'News', link: '/news/'},
+        {text: 'Dev', link: '/dev/'},
     ];
 }
 
-function sidebarExample(): DefaultTheme.SidebarItem[] {
+function sidebarNews(): DefaultTheme.SidebarItem[] {
     return [
-        {text: 'Examples', link: '/examples.md'},
+    ]
+}
+
+function sidebarDev(): DefaultTheme.SidebarItem[] {
+    return [
     ]
 }

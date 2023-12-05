@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Hacker News",
+    "link": "https://news.ycombinator.com/",
+    "img": "https://news.ycombinator.com/favicon.ico"
+  },
+  {
+    "title": "Lobsters",
+    "link": "https://lobste.rs/",
+    "img": "https://lobste.rs/favicon.ico"
+  },
+  {
+    "title": "Reddit",
+    "link": "https://www.reddit.com/r/programming/",
+    "img": "https://www.reddit.com/favicon.ico"
+  }
+]
