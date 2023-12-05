@@ -2,7 +2,7 @@
     <div :class="$style.container">
         <div :class="$style.item" v-for="item in data">
             <a :href="item.link" target="_blank">
-                <img :src="item.img">
+                <img :src="item.img" loading="lazy">
                 <div :class="$style.title">{{ item.title }}</div>
             </a>
         </div>
