@@ -30,6 +30,7 @@ export default defineConfig({
             '/work/': sidebarWork(),
             '/dev/': sidebarDev(),
             '/finance/': sidebarFinance(),
+            '/entertainment/': sidebarEntertainment(),
         },
         logo: {src: '/logo.jpeg', width: 24, height: 24},
         search: {
@@ -51,6 +52,7 @@ function nav(): DefaultTheme.NavItem[] {
         {text: 'News', link: '/news/news.md', activeMatch: '/news/'},
         {text: 'Work', link: '/work/work.md', activeMatch: '/work/'},
         {text: 'Finance', link: '/finance/crypto.md', activeMatch: '/finance/'},
+        {text: 'Entertainment', link: '/entertainment/watch-movie-online.md', activeMatch: '/entertainment/'},
         // {text: 'Dev', link: '/dev/'},
     ];
 }
@@ -86,6 +88,15 @@ function sidebarFinance(): DefaultTheme.SidebarItem[] {
         {
             text: 'Crypto',
             link: '/finance/crypto.md',
+        }
+    ]
+}
+
+function sidebarEntertainment(): DefaultTheme.SidebarItem[] {
+    return [
+        {
+            text: 'Watch Movie Online',
+            link: '/entertainment/watch-movie-online.md',
         }
     ]
 }
