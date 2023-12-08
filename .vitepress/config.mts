@@ -47,8 +47,8 @@ export default defineConfig({
 function nav(): DefaultTheme.NavItem[] {
     return [
         {text: 'Home', link: '/'},
-        {text: 'News', link: '/modules/news/news.md', activeMatch: '/news/'},
-        {text: 'Finance', link: '/modules/finance/crypto.md', activeMatch: '/finance/'},
+        {text: 'News', link: '/news/news.md', activeMatch: '/news/'},
+        {text: 'Finance', link: '/finance/crypto.md', activeMatch: '/finance/'},
         // {text: 'Dev', link: '/dev/'},
     ];
 }
@@ -57,11 +57,11 @@ function sidebarNews(): DefaultTheme.SidebarItem[] {
     return [
         {
             text: 'News',
-            link: '/modules/news/news.md',
+            link: '/news/news.md',
         },
         {
             text: 'Dev News',
-            link: '/modules/news/dev-news.md',
+            link: '/news/dev-news.md',
         }
     ]
 }
@@ -74,7 +74,7 @@ function sidebarFinance(): DefaultTheme.SidebarItem[] {
     return [
         {
             text: 'Crypto',
-            link: '/modules/finance/crypto/crypto.md',
+            link: '/finance/crypto.md',
         }
     ]
 }
