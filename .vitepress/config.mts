@@ -27,6 +27,7 @@ export default defineConfig({
 
         sidebar: {
             '/news/': sidebarNews(),
+            '/work/': sidebarWork(),
             '/dev/': sidebarDev(),
             '/finance/': sidebarFinance(),
         },
@@ -48,6 +49,7 @@ function nav(): DefaultTheme.NavItem[] {
     return [
         {text: 'Home', link: '/'},
         {text: 'News', link: '/news/news.md', activeMatch: '/news/'},
+        {text: 'Work', link: '/work/work.md', activeMatch: '/work/'},
         {text: 'Finance', link: '/finance/crypto.md', activeMatch: '/finance/'},
         // {text: 'Dev', link: '/dev/'},
     ];
@@ -62,6 +64,15 @@ function sidebarNews(): DefaultTheme.SidebarItem[] {
         {
             text: 'Dev News',
             link: '/news/dev-news.md',
+        }
+    ]
+}
+
+function sidebarWork(): DefaultTheme.SidebarItem[] {
+    return [
+        {
+            text: "Work",
+            link: '/work/work.md',
         }
     ]
 }
