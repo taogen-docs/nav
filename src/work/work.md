@@ -6,7 +6,7 @@ import newsData from '../assets/work/work.json';
 const data = ref(newsData);
 </script>
 
-# News
+# Work
 
 <NavContainer :data="data"/>
 
