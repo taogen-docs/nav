@@ -1,5 +1,10 @@
 [
   {
+    "title": "TradingView",
+    "link": "https://www.tradingview.com/",
+    "img": "https://www.tradingview.com/favicon.ico"
+  },
+  {
     "title": "CoinMarketCap",
     "link": "https://coinmarketcap.com/",
     "img": "https://coinmarketcap.com/favicon.ico"
