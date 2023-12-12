@@ -88,14 +88,18 @@ function sidebarWork(): DefaultTheme.SidebarItem[] {
 }
 
 function sidebarDev(): DefaultTheme.SidebarItem[] {
-    return [
-    ]
+    return []
 }
+
 function sidebarFinance(): DefaultTheme.SidebarItem[] {
     return [
         {
             text: 'Crypto',
             link: '/finance/crypto.md',
+        },
+        {
+            text: 'Stock',
+            link: '/finance/stock.md'
         }
     ]
 }
