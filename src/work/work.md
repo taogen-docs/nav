@@ -8,5 +8,14 @@ const data = ref(newsData);
 
 # Work
 
-<NavContainer :data="data"/>
+## Office
 
+<NavContainer :data="data.office"/>
+
+## Daily Work
+
+<NavContainer :data="data.dailyWork"/>
+
+## Dictionary
+
+<NavContainer :data="data.dict"/>

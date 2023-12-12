@@ -1,17 +1,53 @@
-[
-  {
-    "title": "CodeUp",
-    "link": "https://codeup.aliyun.com/",
-    "img": "https://img.alicdn.com/tfs/TB1t0Nlgvb2gK0jSZK9XXaEgFXa-64-64.ico"
-  },
-  {
-    "title": "蓝湖",
-    "link": "https://lanhuapp.com/",
-    "img": "https://lhcdn.lanhuapp.com/dashboard/production/favicon.ico"
-  },
-  {
-    "title": "iconfont",
-    "link": "https://www.iconfont.cn/",
-    "img": "https://www.iconfont.cn/favicon.ico"
-  }
-]
+{
+  "dailyWork": [
+    {
+      "title": "TickTick",
+      "link": "https://www.ticktick.com/",
+      "img": "https://www.ticktick.com/favicon.ico"
+    },
+    {
+      "title": "Google Calendar",
+      "link": "https://calendar.google.com/calendar/u/0/r",
+      "img": "https://calendar.google.com/googlecalendar/images/favicons_2020q4/calendar_13.ico"
+    },
+    {
+      "title": "Gmail",
+      "link": "https://mail.google.com/mail/u/0/#inbox",
+      "img": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"
+    }
+  ],
+  "dict": [
+    {
+      "title": "Cambridge Dictionary",
+      "link": "https://dictionary.cambridge.org/us/",
+      "img": "https://dictionary.cambridge.org/favicon.ico"
+    },
+    {
+      "title": "Google Translate",
+      "link": "https://translate.google.com/",
+      "img": "https://translate.google.cn/favicon.ico"
+    },
+    {
+      "title": "DeepL Translate",
+      "link": "https://www.deepl.com/translator",
+      "img": "https://static.deepl.com/img/favicon/favicon_32.png"
+    }
+  ],
+  "office": [
+    {
+      "title": "CodeUp",
+      "link": "https://codeup.aliyun.com/",
+      "img": "https://img.alicdn.com/tfs/TB1t0Nlgvb2gK0jSZK9XXaEgFXa-64-64.ico"
+    },
+    {
+      "title": "蓝湖",
+      "link": "https://lanhuapp.com/",
+      "img": "https://lhcdn.lanhuapp.com/dashboard/production/favicon.ico"
+    },
+    {
+      "title": "iconfont",
+      "link": "https://www.iconfont.cn/",
+      "img": "https://www.iconfont.cn/favicon.ico"
+    }
+  ]
+}
