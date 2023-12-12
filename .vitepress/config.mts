@@ -79,6 +79,10 @@ function sidebarWork(): DefaultTheme.SidebarItem[] {
         {
             text: "Work",
             link: '/work/work.md',
+        },
+        {
+            text: "Sytc Systems",
+            link: '/work/sytc-systems.md',
         }
     ]
 }

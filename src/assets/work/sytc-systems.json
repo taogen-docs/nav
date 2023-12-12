@@ -1,0 +1,62 @@
+[
+  {
+    "title": "舆情-测试版",
+    "link": "http://testeagle.yuwoyg.com/home",
+    "img": "https://eagle.yuwoyg.com/static/icon-pro.11aa3efa.ico"
+  },
+  {
+    "title": "舆情-eagle",
+    "link": "https://eagle.yuwoyg.com/home",
+    "img": "https://eagle.yuwoyg.com/static/icon-pro.11aa3efa.ico"
+  },
+  {
+    "title": "舆情-电信版",
+    "link": "https://yqy.yuwoyg.com/home",
+    "img": "https://yqy.yuwoyg.com/static/icon-pro.11aa3efa.ico"
+  },
+  {
+    "title": "舆情-自营版",
+    "link": "https://poi.yuwoyg.com/home",
+    "img": "https://poi.yuwoyg.com/static/icon-pro.11aa3efa.ico"
+  },
+  {
+    "title": "小视频",
+    "link": "http://video.yuwoyg.com/home",
+    "img": "http://video.yuwoyg.com/static/icon-pro.11aa3efa.ico"
+  },
+  {
+    "title": "审核",
+    "link": "https://check.yuwoyg.com/login?pageStatus=1",
+    "img": "https://check.yuwoyg.com/logo.ico"
+  },
+  {
+    "title": "智即 - AI",
+    "link": "https://ai.yuwoyg.com/login",
+    "img": "https://yuwoyg.oss-cn-hangzhou.aliyuncs.com/examine/3.gif"
+  },
+  {
+    "title": "CRM",
+    "link": "https://crm.yuwoyg.com/customer-manage-html/index.html",
+    "img": "https://crm.yuwoyg.com/customer-manage-html/crm.ico"
+  },
+  {
+    "title": "新媒体",
+    "link": "http://media.yuwoyg.com/login",
+    "img": "http://media.yuwoyg.com/logo.ico"
+  },
+  {
+    "title": "海泡泡-海安",
+    "link": "http://58.221.196.61:58080/login",
+    "img": "http://58.221.196.61:58080/haibubble.ico"
+  },
+  {
+    "title": "云泡泡-丹阳",
+    "link": "http://180.103.210.200:58080/login",
+    "img": "http://180.103.210.200:58080/bubble.ico"
+  },
+  {
+    "title": "微信群推送",
+    "link": "http://121.229.60.192:18080/index",
+    "img": "http://121.229.60.192:18080/favicon.ico"
+  }
+]
