@@ -66,7 +66,11 @@ function sidebarNews(): DefaultTheme.SidebarItem[] {
         {
             text: 'Dev News',
             link: '/news/dev-news.md',
-        }
+        },
+        {
+            text: 'Dev Blog',
+            link: '/news/dev-blog.md',
+        },
     ]
 }
 

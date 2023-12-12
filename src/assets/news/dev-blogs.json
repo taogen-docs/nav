@@ -1,0 +1,26 @@
+{
+  "general": [
+    {
+      "title": "阮一峰的网络日志",
+      "link": "https://www.ruanyifeng.com/blog/",
+      "img": "https://www.ruanyifeng.com/blog/favicon.ico"
+    },
+    {
+      "title": "MacTalk-池建强的随想录",
+      "link": "http://macshuo.com/",
+      "img": ""
+    },
+    {
+      "title": "CODING HORROR",
+      "link": "https://blog.codinghorror.com/",
+      "img": "https://blog.codinghorror.com/favicon.ico"
+    }
+  ],
+  "web-frontend": [],
+  "java": [],
+  "cpp": [],
+  "python": [],
+  "net": [],
+  "golang": [],
+  "game-development": []
+}
