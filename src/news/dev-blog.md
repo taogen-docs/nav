@@ -12,25 +12,27 @@ const data = ref(newsData);
 
 <NavContainer :data="data.general"/>
 
-## Java
-
-<NavContainer :data="data.java"/>
-
 ## Web Frontend
 
-<NavContainer :data="data.web-frontent"/>
+<NavContainer :data="data.webFrontend"/>
 
-## Python
+## C
 
-<NavContainer :data="data.python"/>
+## C++
+
+<NavContainer :data="data.cpp"/>
 
 ## Golang
 
 <NavContainer :data="data.golang"/>
 
-## C++
+## Java
 
-<NavContainer :data="data.cpp"/>
+<NavContainer :data="data.java"/>
+
+## Python
+
+<NavContainer :data="data.python"/>
 
 ## .NET
 
@@ -38,4 +40,8 @@ const data = ref(newsData);
 
 ## Game Development
 
-<NavContainer :data="data.game-development"/>
+<NavContainer :data="data.gameDevelopment"/>
+
+## Software Design
+
+<NavContainer :data="data.softwareDesign"/>

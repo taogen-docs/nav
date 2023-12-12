@@ -14,13 +14,74 @@
       "title": "CODING HORROR",
       "link": "https://blog.codinghorror.com/",
       "img": "https://blog.codinghorror.com/favicon.ico"
+    },
+    {
+      "title": "Peter Norvig",
+      "link": "https://norvig.com/",
+      "img": "https://norvig.com/favicon.ico",
+      "desc": "Teach Yourself Programming in 10 Years"
+    },
+    {
+      "title": "Dan Kegel's Web Hostel",
+      "link": "http://kegel.com/",
+      "img": "",
+      "desc": "The C10K problem"
+    },
+    {
+      "title": "酷 壳 – CoolShell",
+      "link": "https://coolshell.cn/",
+      "img": "https://coolshell.cn/favicon.png",
+      "desc": "陈皓"
     }
   ],
-  "web-frontend": [],
-  "java": [],
+  "webFrontend": [
+    {
+      "title": "Barret李靖",
+      "link": "https://www.barretlee.com/entry/",
+      "img": "https://www.barretlee.com/favicon.ico"
+    },
+    {
+      "title": "David Walsh Blog",
+      "link": "https://davidwalsh.name/",
+      "img": "https://davidwalsh.name/wp-content/themes/punky/images/favicon-32.png"
+    }
+  ],
+  "c": [],
   "cpp": [],
-  "python": [],
-  "net": [],
-  "golang": [],
-  "game-development": []
+  "golang": [
+    {
+      "title": "煎鱼",
+      "link": "https://eddycjy.com/",
+      "img": "https://eddycjy.com/favicon.ico"
+    }
+  ],
+  "java": [],
+  "python": [
+    {
+      "title": "laike9m's blog",
+      "link": "https://laike9m.com/blog/",
+      "img": "https://laike9m.com/static/css3two_blog/images/favicon2.ico"
+    }
+  ],
+  "net": [
+    {
+      "title": "Scott Hanselman",
+      "link": "https://www.hanselman.com/",
+      "img": "https://www.hanselman.com/favicon.ico"
+    }
+  ],
+  "gameDevelopment": [
+    {
+      "title": "云风的 BLOG",
+      "link": "https://blog.codingnow.com/",
+      "img": "https://blog.codingnow.com/favicon.ico"
+    }
+  ],
+  "softwareDesign": [
+    {
+      "title": "Martin Fowler",
+      "link": "https://martinfowler.com/",
+      "img": "https://martinfowler.com/favicon.ico"
+    }
+  ]
 }
