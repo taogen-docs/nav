@@ -35,7 +35,7 @@
   ],
   "office": [
     {
-      "title": "CodeUp",
+      "title": "云效 CodeUp",
       "link": "https://codeup.aliyun.com/",
       "img": "https://img.alicdn.com/tfs/TB1t0Nlgvb2gK0jSZK9XXaEgFXa-64-64.ico"
     },
@@ -48,6 +48,11 @@
       "title": "iconfont",
       "link": "https://www.iconfont.cn/",
       "img": "https://www.iconfont.cn/favicon.ico"
+    },
+    {
+      "title": "Dingtalk Docs",
+      "link": "https://docs.dingtalk.com/i/?nav=home",
+      "img": "https://g.alicdn.com/dingding/web/0.2.6/img/oldIcon.ico"
     }
   ]
 }
