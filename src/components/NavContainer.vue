@@ -1,5 +1,5 @@
 <template>
-    <div :class="$style.container">
+    <div :class="$style.container" v-if="data != null && data.length > 0">
         <div :class="$style.item" v-for="item in data">
             <a :href="item.link" target="_blank">
                 <img :src="item.img" loading="lazy">
