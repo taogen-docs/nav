@@ -38,5 +38,15 @@
     "title": "Dev",
     "link": "https://dev.to/",
     "img": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "title": "科技爱好者周刊",
+    "link": "https://www.ruanyifeng.com/blog/weekly/",
+    "img": "https://www.ruanyifeng.com/favicon.ico"
+  },
+  {
+    "title": "ThoughtWorks洞见",
+    "link": "https://insights.thoughtworks.cn/",
+    "img": "https://insights.thoughtworks.cn/wp-content/uploads/2021/07/cropped-tw-insights-new-logo-192x192.png"
   }
 ]
