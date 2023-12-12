@@ -1,17 +1,70 @@
-[
-  {
-    "title": "TradingView",
-    "link": "https://www.tradingview.com/",
-    "img": "https://www.tradingview.com/favicon.ico"
-  },
-  {
-    "title": "CoinMarketCap",
-    "link": "https://coinmarketcap.com/",
-    "img": "https://coinmarketcap.com/favicon.ico"
-  },
-  {
-    "title": "CoinGlass",
-    "link": "https://www.coinglass.com/",
-    "img": "https://cdn.coinglasscdn.com/static/app_icon.webp"
-  }
-]
+{
+  "marketAnalysis": [
+    {
+      "title": "TradingView",
+      "link": "https://www.tradingview.com/",
+      "img": "https://www.tradingview.com/favicon.ico"
+    },
+    {
+      "title": "CoinMarketCap",
+      "link": "https://coinmarketcap.com/",
+      "img": "https://coinmarketcap.com/favicon.ico"
+    },
+    {
+      "title": "CoinGlass",
+      "link": "https://www.coinglass.com/",
+      "img": "https://cdn.coinglasscdn.com/static/app_icon.webp"
+    }
+  ],
+  "exchanges": [
+    {
+      "title": "Binance",
+      "link": "https://www.binance.com/",
+      "img": "https://public.bnbstatic.com/static/images/common/favicon.ico"
+    },
+    {
+      "title": "Coinbase",
+      "link": "https://www.coinbase.com/",
+      "img": "https://www.coinbase.com/favicon.ico"
+    },
+    {
+      "title": "Kraken",
+      "link": "https://www.kraken.com/",
+      "img": "https://www.kraken.com/favicon.ico"
+    },
+    {
+      "title": "KuCoin",
+      "link": "https://www.kucoin.com/",
+      "img": "https://assets.staticimg.com/public-web/3.3.5/svg/logo-icon.d6c8e4f9.svg"
+    },
+    {
+      "title": "OKX",
+      "link": "https://www.okex.com/",
+      "img": "https://www.okex.com/favicon.ico",
+      "desc": "Chinese"
+    },
+    {
+      "title": "Bybit",
+      "link": "https://www.bybit.com/",
+      "img": "https://www.bybit.com/favicon.ico"
+    },
+    {
+      "title": "Gate.io",
+      "link": "https://www.gate.io/",
+      "img": "https://www.gate.io/favicon.ico",
+      "desc": "Chinese"
+    },
+    {
+      "title": "HTX",
+      "link": "https://www.htx.com/en-us/",
+      "img": "https://www.htx.com/favicon.ico",
+      "desc": "Chinese"
+    },
+    {
+      "title": "MEXC",
+      "link": "https://www.mexc.com/",
+      "img": "https://www.mexc.com/sites/favicon.ico",
+      "desc": "Chinese"
+    }
+  ]
+}

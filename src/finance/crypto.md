@@ -8,4 +8,10 @@ const data = ref(newsData);
 
 # Crypto
 
-<NavContainer :data="data"/>
+## Market Analysis
+
+<NavContainer :data="data.marketAnalysis"/>
+
+## Exchanges
+
+<NavContainer :data="data.exchanges"/>
