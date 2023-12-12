@@ -11,7 +11,17 @@
 </template>
 
 <script setup>
+import DefaultSiteIcon from '../assets/img/default-site-icon.jpeg';
+
 const props = defineProps(['data'])
+if (props.data != null && props.data.length > 0) {
+    props.data.forEach(item => {
+        if (item.img == null || item.img == '') {
+            item.img = DefaultSiteIcon
+        }
+    });
+}
+
 // console.log(props.data);
 </script>
 
@@ -24,12 +34,12 @@ const props = defineProps(['data'])
 .container {
     display: flex;
     flex-wrap: wrap;
-    //justify-content: center;
-    padding: 30px 0 0 0;
+//justify-content: center; padding: 30px 0 0 0;
     font-size: 16px;
     font-weight: normal;
     font-family: var(--ds-type-system-serif);
 }
+
 /*
 .container>div:first-child {
     width: auto;
@@ -39,10 +49,8 @@ const props = defineProps(['data'])
 .item {
     padding: 20px 0 20px 0;
     margin-right: 50px;
-    //width: 160px;
-    //min-width: 90px;
-    max-width: 90px;
-    //background-color: antiquewhite;
+//width: 160px; //min-width: 90px; max-width: 90px;
+//background-color: antiquewhite;
 }
 
 /*.item:first-of-type {
