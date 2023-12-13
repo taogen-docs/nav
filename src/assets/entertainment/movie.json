@@ -1,0 +1,41 @@
+{
+  "findMovie": [
+    {
+      "title": "Rotten Tomatoes",
+      "link": "https://www.rottentomatoes.com/",
+      "img": "https://www.rottentomatoes.com/assets/pizza-pie/images/icons/tomatometer/tomatometer-fresh.149b5e8adc3.svg"
+    },
+    {
+      "title": "IMDb",
+      "link": "https://www.imdb.com/",
+      "img": "https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/favicon_desktop_32x32._CB1582158068_.png"
+    },
+    {
+      "title": "Mtime时光网",
+      "link": "http://www.mtime.com/",
+      "img": "http://static1.mtime.cn/favicon.ico"
+    },
+    {
+      "title": "豆瓣电影",
+      "link": "https://movie.douban.com/",
+      "img": "https://www.douban.com/favicon.ico"
+    }
+  ],
+  "watchMovie": [
+    {
+      "title": "actvid",
+      "link": "https://actvid.rs/",
+      "img": "https://actvid.rs/images/group_5/theme_1/favicon.png"
+    },
+    {
+      "title": "soap2day",
+      "link": "https://soap2day.dog/",
+      "img": "https://soap2day.dog/favicon.ico"
+    },
+    {
+      "title": "movies123",
+      "link": "https://web.movies123.sbs/home/",
+      "img": "https://web.movies123.sbs/templates/new123/img/favicon.ico"
+    }
+  ]
+}
