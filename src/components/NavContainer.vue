@@ -16,8 +16,8 @@ import DefaultSiteIcon from '../assets/img/default-site-icon.jpeg';
 const props = defineProps(['data'])
 if (props.data != null && props.data.length > 0) {
     props.data.forEach(item => {
-        if (item.img == null || item.img == '') {
-            item.img = DefaultSiteIcon
+        if (item.icon == null || item.icon == '') {
+            item.icon = DefaultSiteIcon
         }
     });
 }

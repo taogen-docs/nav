@@ -25,7 +25,7 @@
     {
       "name": "Google Translate",
       "url": "https://translate.google.com/",
-      "icon": "https://translate.google.cn/favicon.ico"
+      "icon": "https://ssl.gstatic.com/translate/favicon.ico"
     },
     {
       "name": "DeepL Translate",
