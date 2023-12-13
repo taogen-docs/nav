@@ -1,0 +1,34 @@
+{
+  "torrentSearch": [
+    {
+      "title": "The Pirate Bay",
+      "link": "https://thepiratebay.org/",
+      "img": "https://thepiratebay.org/favicon.ico"
+    },
+    {
+      "title": "RARBG",
+      "link": "https://rargb.to/",
+      "img": "https://rargb.to/favicon.ico"
+    },
+    {
+      "title": "1377x",
+      "link": "https://www.1377x.to/",
+      "img": "https://1377x.to/favicon.ico"
+    },
+    {
+      "title": "YTS",
+      "link": "https://yts.mx/",
+      "img": "https://yts.mx/assets/images/website/favicon-32x32.png"
+    },
+    {
+      "title": "MagnetDL",
+      "link": "https://www.magnetdl.com/",
+      "img": "https://www.magnetdl.com/favicon.ico"
+    },
+    {
+      "title": "BT4G",
+      "link": "https://bt4gprx.com/",
+      "img": "https://bt4gprx.com/static/favicon.ico"
+    }
+  ]
+}

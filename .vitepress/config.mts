@@ -31,6 +31,7 @@ export default defineConfig({
             '/dev/': sidebarDev(),
             '/finance/': sidebarFinance(),
             '/entertainment/': sidebarEntertainment(),
+            '/tools/': sidebarTools(),
         },
         logo: {src: '/logo.jpeg', width: 24, height: 24},
         search: {
@@ -54,6 +55,7 @@ function nav(): DefaultTheme.NavItem[] {
         {text: 'Finance', link: '/finance/crypto.md', activeMatch: '/finance/'},
         {text: 'Entertainment', link: '/entertainment/watch-movie-online.md', activeMatch: '/entertainment/'},
         // {text: 'Dev', link: '/dev/'},
+        {text: 'Tools', link: '/tools/office-tools.md', activeMatch: '/tools/'},
     ];
 }
 
@@ -109,6 +111,23 @@ function sidebarEntertainment(): DefaultTheme.SidebarItem[] {
         {
             text: 'Watch Movie Online',
             link: '/entertainment/watch-movie-online.md',
+        }
+    ]
+}
+
+function sidebarTools(): DefaultTheme.SidebarItem[] {
+    return [
+        {
+            text: 'Office Tools',
+            link: '/tools/office-tools.md',
+        },
+        {
+            text: 'CS Tools',
+            link: '/tools/cs-tools.md',
+        },
+        {
+            text: 'Other Tools',
+            link: '/tools/other-tools.md',
         }
     ]
 }
