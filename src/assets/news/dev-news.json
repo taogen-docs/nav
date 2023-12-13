@@ -1,52 +1,52 @@
 [
   {
-    "title": "Hacker News",
-    "link": "https://news.ycombinator.com/",
-    "img": "https://news.ycombinator.com/favicon.ico"
+    "name": "Hacker News",
+    "url": "https://news.ycombinator.com/",
+    "icon": "https://news.ycombinator.com/favicon.ico"
   },
   {
-    "title": "Lobsters",
-    "link": "https://lobste.rs/",
-    "img": "https://lobste.rs/favicon.ico"
+    "name": "Lobsters",
+    "url": "https://lobste.rs/",
+    "icon": "https://lobste.rs/favicon.ico"
   },
   {
-    "title": "Reddit",
-    "link": "https://www.reddit.com/r/programming/",
-    "img": "https://www.reddit.com/favicon.ico"
+    "name": "Reddit",
+    "url": "https://www.reddit.com/r/programming/",
+    "icon": "https://www.reddit.com/favicon.ico"
   },
   {
-    "title": "daily.dev",
-    "link": "https://app.daily.dev/",
-    "img": "https://app.daily.dev/favicon.ico"
+    "name": "daily.dev",
+    "url": "https://app.daily.dev/",
+    "icon": "https://app.daily.dev/favicon.ico"
   },
   {
-    "title": "DZone",
-    "link": "https://dzone.com/",
-    "img": "https://dz2cdn3.dzone.com/themes/dz20/images/favicon.png"
+    "name": "DZone",
+    "url": "https://dzone.com/",
+    "icon": "https://dz2cdn3.dzone.com/themes/dz20/images/favicon.png"
   },
   {
-    "title": "InfoQ",
-    "link": "https://www.infoq.com/",
-    "img": "https://www.infoq.com/favicon.ico"
+    "name": "InfoQ",
+    "url": "https://www.infoq.com/",
+    "icon": "https://www.infoq.com/favicon.ico"
   },
   {
-    "title": "InfoWorld",
-    "link": "https://www.infoworld.com/",
-    "img": "https://idge.staticworld.net/ifw/favicon.ico"
+    "name": "InfoWorld",
+    "url": "https://www.infoworld.com/",
+    "icon": "https://idge.staticworld.net/ifw/favicon.ico"
   },
   {
-    "title": "Dev",
-    "link": "https://dev.to/",
-    "img": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+    "name": "Dev",
+    "url": "https://dev.to/",
+    "icon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
   },
   {
-    "title": "科技爱好者周刊",
-    "link": "https://www.ruanyifeng.com/blog/weekly/",
-    "img": "https://www.ruanyifeng.com/favicon.ico"
+    "name": "科技爱好者周刊",
+    "url": "https://www.ruanyifeng.com/blog/weekly/",
+    "icon": "https://www.ruanyifeng.com/favicon.ico"
   },
   {
-    "title": "ThoughtWorks洞见",
-    "link": "https://insights.thoughtworks.cn/",
-    "img": "https://insights.thoughtworks.cn/wp-content/uploads/2021/07/cropped-tw-insights-new-logo-192x192.png"
+    "name": "ThoughtWorks洞见",
+    "url": "https://insights.thoughtworks.cn/",
+    "icon": "https://insights.thoughtworks.cn/wp-content/uploads/2021/07/cropped-tw-insights-new-logo-192x192.png"
   }
 ]

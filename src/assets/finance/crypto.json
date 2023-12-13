@@ -1,69 +1,69 @@
 {
   "marketAnalysis": [
     {
-      "title": "TradingView",
-      "link": "https://www.tradingview.com/",
-      "img": "https://www.tradingview.com/favicon.ico"
+      "name": "TradingView",
+      "url": "https://www.tradingview.com/",
+      "icon": "https://www.tradingview.com/favicon.ico"
     },
     {
-      "title": "CoinMarketCap",
-      "link": "https://coinmarketcap.com/",
-      "img": "https://coinmarketcap.com/favicon.ico"
+      "name": "CoinMarketCap",
+      "url": "https://coinmarketcap.com/",
+      "icon": "https://coinmarketcap.com/favicon.ico"
     },
     {
-      "title": "CoinGlass",
-      "link": "https://www.coinglass.com/",
-      "img": "https://cdn.coinglasscdn.com/static/app_icon.webp"
+      "name": "CoinGlass",
+      "url": "https://www.coinglass.com/",
+      "icon": "https://cdn.coinglasscdn.com/static/app_icon.webp"
     }
   ],
   "exchanges": [
     {
-      "title": "Binance",
-      "link": "https://www.binance.com/",
-      "img": "https://public.bnbstatic.com/static/images/common/favicon.ico"
+      "name": "Binance",
+      "url": "https://www.binance.com/",
+      "icon": "https://public.bnbstatic.com/static/images/common/favicon.ico"
     },
     {
-      "title": "Coinbase",
-      "link": "https://www.coinbase.com/",
-      "img": "https://www.coinbase.com/favicon.ico"
+      "name": "Coinbase",
+      "url": "https://www.coinbase.com/",
+      "icon": "https://www.coinbase.com/favicon.ico"
     },
     {
-      "title": "Kraken",
-      "link": "https://www.kraken.com/",
-      "img": "https://www.kraken.com/favicon.ico"
+      "name": "Kraken",
+      "url": "https://www.kraken.com/",
+      "icon": "https://www.kraken.com/favicon.ico"
     },
     {
-      "title": "KuCoin",
-      "link": "https://www.kucoin.com/",
-      "img": "https://assets.staticimg.com/public-web/3.3.5/svg/logo-icon.d6c8e4f9.svg"
+      "name": "KuCoin",
+      "url": "https://www.kucoin.com/",
+      "icon": "https://assets.staticimg.com/public-web/3.3.5/svg/logo-icon.d6c8e4f9.svg"
     },
     {
-      "title": "OKX",
-      "link": "https://www.okex.com/",
-      "img": "https://www.okex.com/favicon.ico",
+      "name": "OKX",
+      "url": "https://www.okex.com/",
+      "icon": "https://www.okex.com/favicon.ico",
       "desc": "Chinese"
     },
     {
-      "title": "Bybit",
-      "link": "https://www.bybit.com/",
-      "img": "https://www.bybit.com/favicon.ico"
+      "name": "Bybit",
+      "url": "https://www.bybit.com/",
+      "icon": "https://www.bybit.com/favicon.ico"
     },
     {
-      "title": "Gate.io",
-      "link": "https://www.gate.io/",
-      "img": "https://www.gate.io/favicon.ico",
+      "name": "Gate.io",
+      "url": "https://www.gate.io/",
+      "icon": "https://www.gate.io/favicon.ico",
       "desc": "Chinese"
     },
     {
-      "title": "HTX",
-      "link": "https://www.htx.com/en-us/",
-      "img": "https://www.htx.com/favicon.ico",
+      "name": "HTX",
+      "url": "https://www.htx.com/en-us/",
+      "icon": "https://www.htx.com/favicon.ico",
       "desc": "Chinese"
     },
     {
-      "title": "MEXC",
-      "link": "https://www.mexc.com/",
-      "img": "https://www.mexc.com/sites/favicon.ico",
+      "name": "MEXC",
+      "url": "https://www.mexc.com/",
+      "icon": "https://www.mexc.com/sites/favicon.ico",
       "desc": "Chinese"
     }
   ]

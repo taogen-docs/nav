@@ -1,23 +1,23 @@
 {
   "socialMedia": [
     {
-      "title": "Twitter",
-      "link": "http://www.twitter.com/",
-      "img": "https://abs.twimg.com/favicons/twitter.3.ico"
+      "name": "Twitter",
+      "url": "http://www.twitter.com/",
+      "icon": "https://abs.twimg.com/favicons/twitter.3.ico"
     }
   ],
   "videoSharing": [
     {
-      "title": "YouTube",
-      "link": "http://www.youtube.com/",
-      "img": "https://www.gstatic.com/youtube/img/branding/favicon/favicon_144x144.png"
+      "name": "YouTube",
+      "url": "http://www.youtube.com/",
+      "icon": "https://www.gstatic.com/youtube/img/branding/favicon/favicon_144x144.png"
     }
   ],
   "photoSharing": [
     {
-      "title": "Instagram",
-        "link": "http://www.instagram.com/",
-        "img": "https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico"
+      "name": "Instagram",
+        "url": "http://www.instagram.com/",
+        "icon": "https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico"
     }
   ]
 }

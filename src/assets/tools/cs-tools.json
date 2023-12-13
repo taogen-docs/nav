@@ -1,9 +1,9 @@
 {
   "editorOnline": [
     {
-      "title": "JDoodle",
-      "link": "https://www.jdoodle.com/code-online-compiler-ide",
-      "img": "https://dillinger.io/favicon.ico"
+      "name": "JDoodle",
+      "url": "https://www.jdoodle.com/code-online-compiler-ide",
+      "icon": "https://dillinger.io/favicon.ico"
     }
   ]
 }

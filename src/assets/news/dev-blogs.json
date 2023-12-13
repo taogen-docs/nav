@@ -1,87 +1,87 @@
 {
   "general": [
     {
-      "title": "CODING HORROR",
-      "link": "https://blog.codinghorror.com/",
-      "img": "https://blog.codinghorror.com/favicon.ico"
+      "name": "CODING HORROR",
+      "url": "https://blog.codinghorror.com/",
+      "icon": "https://blog.codinghorror.com/favicon.ico"
     },
     {
-      "title": "Peter Norvig",
-      "link": "https://norvig.com/",
-      "img": "https://norvig.com/favicon.ico",
+      "name": "Peter Norvig",
+      "url": "https://norvig.com/",
+      "icon": "https://norvig.com/favicon.ico",
       "desc": "Teach Yourself Programming in 10 Years"
     },
     {
-      "title": "Dan Kegel's Web Hostel",
-      "link": "http://kegel.com/",
-      "img": "",
+      "name": "Dan Kegel's Web Hostel",
+      "url": "http://kegel.com/",
+      "icon": "",
       "desc": "The C10K problem"
     },
     {
-      "title": "酷 壳 – CoolShell",
-      "link": "https://coolshell.cn/",
-      "img": "https://coolshell.cn/favicon.png",
+      "name": "酷 壳 – CoolShell",
+      "url": "https://coolshell.cn/",
+      "icon": "https://coolshell.cn/favicon.png",
       "desc": "陈皓"
     },
     {
-      "title": "阮一峰的网络日志",
-      "link": "https://www.ruanyifeng.com/blog/",
-      "img": "https://www.ruanyifeng.com/blog/favicon.ico"
+      "name": "阮一峰的网络日志",
+      "url": "https://www.ruanyifeng.com/blog/",
+      "icon": "https://www.ruanyifeng.com/blog/favicon.ico"
     },
     {
-      "title": "MacTalk-池建强的随想录",
-      "link": "http://macshuo.com/",
-      "img": ""
+      "name": "MacTalk-池建强的随想录",
+      "url": "http://macshuo.com/",
+      "icon": ""
     }
   ],
   "webFrontend": [
     {
-      "title": "David Walsh Blog",
-      "link": "https://davidwalsh.name/",
-      "img": "https://davidwalsh.name/wp-content/themes/punky/images/favicon-32.png"
+      "name": "David Walsh Blog",
+      "url": "https://davidwalsh.name/",
+      "icon": "https://davidwalsh.name/wp-content/themes/punky/images/favicon-32.png"
     },
     {
-      "title": "Barret李靖",
-      "link": "https://www.barretlee.com/entry/",
-      "img": "https://www.barretlee.com/favicon.ico"
+      "name": "Barret李靖",
+      "url": "https://www.barretlee.com/entry/",
+      "icon": "https://www.barretlee.com/favicon.ico"
     }
   ],
   "c": [],
   "cpp": [],
   "golang": [
     {
-      "title": "煎鱼",
-      "link": "https://eddycjy.com/",
-      "img": "https://eddycjy.com/favicon.ico"
+      "name": "煎鱼",
+      "url": "https://eddycjy.com/",
+      "icon": "https://eddycjy.com/favicon.ico"
     }
   ],
   "java": [],
   "python": [
     {
-      "title": "laike9m's blog",
-      "link": "https://laike9m.com/blog/",
-      "img": "https://laike9m.com/static/css3two_blog/images/favicon2.ico"
+      "name": "laike9m's blog",
+      "url": "https://laike9m.com/blog/",
+      "icon": "https://laike9m.com/static/css3two_blog/images/favicon2.ico"
     }
   ],
   "net": [
     {
-      "title": "Scott Hanselman",
-      "link": "https://www.hanselman.com/",
-      "img": "https://www.hanselman.com/favicon.ico"
+      "name": "Scott Hanselman",
+      "url": "https://www.hanselman.com/",
+      "icon": "https://www.hanselman.com/favicon.ico"
     }
   ],
   "gameDevelopment": [
     {
-      "title": "云风的 BLOG",
-      "link": "https://blog.codingnow.com/",
-      "img": "https://blog.codingnow.com/favicon.ico"
+      "name": "云风的 BLOG",
+      "url": "https://blog.codingnow.com/",
+      "icon": "https://blog.codingnow.com/favicon.ico"
     }
   ],
   "softwareDesign": [
     {
-      "title": "Martin Fowler",
-      "link": "https://martinfowler.com/",
-      "img": "https://martinfowler.com/favicon.ico"
+      "name": "Martin Fowler",
+      "url": "https://martinfowler.com/",
+      "icon": "https://martinfowler.com/favicon.ico"
     }
   ]
 }

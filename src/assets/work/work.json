@@ -1,58 +1,58 @@
 {
   "dailyWork": [
     {
-      "title": "TickTick",
-      "link": "https://www.ticktick.com/",
-      "img": "https://www.ticktick.com/favicon.ico"
+      "name": "TickTick",
+      "url": "https://www.ticktick.com/",
+      "icon": "https://www.ticktick.com/favicon.ico"
     },
     {
-      "title": "Google Calendar",
-      "link": "https://calendar.google.com/calendar/u/0/r",
-      "img": "https://calendar.google.com/googlecalendar/images/favicons_2020q4/calendar_13.ico"
+      "name": "Google Calendar",
+      "url": "https://calendar.google.com/calendar/u/0/r",
+      "icon": "https://calendar.google.com/googlecalendar/images/favicons_2020q4/calendar_13.ico"
     },
     {
-      "title": "Gmail",
-      "link": "https://mail.google.com/mail/u/0/#inbox",
-      "img": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"
+      "name": "Gmail",
+      "url": "https://mail.google.com/mail/u/0/#inbox",
+      "icon": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"
     }
   ],
   "dict": [
     {
-      "title": "Cambridge Dictionary",
-      "link": "https://dictionary.cambridge.org/us/",
-      "img": "https://dictionary.cambridge.org/favicon.ico"
+      "name": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/us/",
+      "icon": "https://dictionary.cambridge.org/favicon.ico"
     },
     {
-      "title": "Google Translate",
-      "link": "https://translate.google.com/",
-      "img": "https://translate.google.cn/favicon.ico"
+      "name": "Google Translate",
+      "url": "https://translate.google.com/",
+      "icon": "https://translate.google.cn/favicon.ico"
     },
     {
-      "title": "DeepL Translate",
-      "link": "https://www.deepl.com/translator",
-      "img": "https://static.deepl.com/img/favicon/favicon_32.png"
+      "name": "DeepL Translate",
+      "url": "https://www.deepl.com/translator",
+      "icon": "https://static.deepl.com/img/favicon/favicon_32.png"
     }
   ],
   "office": [
     {
-      "title": "云效 CodeUp",
-      "link": "https://codeup.aliyun.com/",
-      "img": "https://img.alicdn.com/tfs/TB1t0Nlgvb2gK0jSZK9XXaEgFXa-64-64.ico"
+      "name": "云效 CodeUp",
+      "url": "https://codeup.aliyun.com/",
+      "icon": "https://img.alicdn.com/tfs/TB1t0Nlgvb2gK0jSZK9XXaEgFXa-64-64.ico"
     },
     {
-      "title": "蓝湖",
-      "link": "https://lanhuapp.com/",
-      "img": "https://lhcdn.lanhuapp.com/dashboard/production/favicon.ico"
+      "name": "蓝湖",
+      "url": "https://lanhuapp.com/",
+      "icon": "https://lhcdn.lanhuapp.com/dashboard/production/favicon.ico"
     },
     {
-      "title": "iconfont",
-      "link": "https://www.iconfont.cn/",
-      "img": "https://www.iconfont.cn/favicon.ico"
+      "name": "iconfont",
+      "url": "https://www.iconfont.cn/",
+      "icon": "https://www.iconfont.cn/favicon.ico"
     },
     {
-      "title": "Dingtalk Docs",
-      "link": "https://docs.dingtalk.com/i/?nav=home",
-      "img": "https://g.alicdn.com/dingding/web/0.2.6/img/oldIcon.ico"
+      "name": "Dingtalk Docs",
+      "url": "https://docs.dingtalk.com/i/?nav=home",
+      "icon": "https://g.alicdn.com/dingding/web/0.2.6/img/oldIcon.ico"
     }
   ]
 }

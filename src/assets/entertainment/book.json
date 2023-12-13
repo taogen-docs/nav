@@ -1,14 +1,14 @@
 {
   "findBook": [
     {
-      "title": "Goodreads",
-      "link": "https://www.goodreads.com/",
-      "img": "https://www.goodreads.com/favicon.ico"
+      "name": "Goodreads",
+      "url": "https://www.goodreads.com/",
+      "icon": "https://www.goodreads.com/favicon.ico"
     },
     {
-      "title": "豆瓣读书",
-      "link": "https://book.douban.com/",
-      "img": "https://www.douban.com/favicon.ico"
+      "name": "豆瓣读书",
+      "url": "https://book.douban.com/",
+      "icon": "https://www.douban.com/favicon.ico"
     }
   ]
 }

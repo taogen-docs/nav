@@ -1,12 +1,12 @@
 [
   {
-    "title": "The Economist",
-    "link": "https://www.economist.com/",
-    "img": "https://www.economist.com/favicon.ico"
+    "name": "The Economist",
+    "url": "https://www.economist.com/",
+    "icon": "https://www.economist.com/favicon.ico"
   },
   {
-    "title": "The New York Times",
-    "link": "https://www.nytimes.com/",
-    "img": "https://www.nytimes.com/favicon.ico"
+    "name": "The New York Times",
+    "url": "https://www.nytimes.com/",
+    "icon": "https://www.nytimes.com/favicon.ico"
   }
 ]

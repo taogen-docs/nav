@@ -1,16 +1,16 @@
 {
   "marketAnalysis": [
     {
-      "title": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/",
-      "img": "https://s.yimg.com/cv/apiv2/default/fp/20180826/icons/favicon_y19_32x32.ico"
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/",
+      "icon": "https://s.yimg.com/cv/apiv2/default/fp/20180826/icons/favicon_y19_32x32.ico"
     }
   ],
   "trading": [
     {
-      "title": "微牛",
-      "link": "https://www.webull.com/",
-      "img": "https://wbstatic.webullfintech.com/v0/web/favicon.ico"
+      "name": "微牛",
+      "url": "https://www.webull.com/",
+      "icon": "https://wbstatic.webullfintech.com/v0/web/favicon.ico"
     }
   ]
 }

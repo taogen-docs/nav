@@ -1,33 +1,33 @@
 {
   "writing": [
     {
-      "title": "Title Capitalization Tools",
-      "link": "https://capitalizemytitle.com/",
-      "img": "https://capitalizemytitle.com/wp-content/uploads/2017/05/favicon-1.png"
+      "name": "name Capitalization Tools",
+      "url": "https://capitalizemytitle.com/",
+      "icon": "https://capitalizemytitle.com/wp-content/uploads/2017/05/favicon-1.png"
     }
   ],
   "markdownOnline": [
     {
-      "title": "Dillinger",
-      "link": "https://dillinger.io/",
-      "img": "https://dillinger.io/favicon.ico"
+      "name": "Dillinger",
+      "url": "https://dillinger.io/",
+      "icon": "https://dillinger.io/favicon.ico"
     }
   ],
   "drawing": [
     {
-      "title": "百度脑图",
-      "link": "https://naotu.baidu.com/",
-      "img": "https://naotu.baidu.com/favicon.ico"
+      "name": "百度脑图",
+      "url": "https://naotu.baidu.com/",
+      "icon": "https://naotu.baidu.com/favicon.ico"
     },
     {
-      "title": "ProcessOn",
-      "link": "https://www.processon.com/",
-      "img": "https://www.processon.com/favicon.ico"
+      "name": "ProcessOn",
+      "url": "https://www.processon.com/",
+      "icon": "https://www.processon.com/favicon.ico"
     },
     {
-      "title": "Sequence Diagram",
-      "link": "https://sequencediagram.org/",
-      "img": "https://sequencediagram.org/favicon.ico"
+      "name": "Sequence Diagram",
+      "url": "https://sequencediagram.org/",
+      "icon": "https://sequencediagram.org/favicon.ico"
     }
   ]
 }
