@@ -1,0 +1,14 @@
+{
+  "musicStreaming": [
+    {
+      "title": "Spotify",
+      "link": "https://open.spotify.com",
+      "img": "https://open.spotifycdn.com/cdn/images/icons/Spotify_256.17e41e58.png"
+    },
+    {
+      "title": "YouTube Music",
+      "link": "https://music.youtube.com",
+      "img": "https://www.gstatic.com/youtube/media/ytm/images/applauncher/music_icon_144x144.png"
+    }
+  ]
+}

@@ -115,7 +115,15 @@ function sidebarEntertainment(): DefaultTheme.SidebarItem[] {
         {
             text: 'Book',
             link: '/entertainment/book.md',
-        }
+        },
+        {
+            text: 'Music',
+            link: '/entertainment/music.md',
+        },
+        {
+            text: 'Social Media',
+            link: '/entertainment/social-media.md',
+        },
     ]
 }
 

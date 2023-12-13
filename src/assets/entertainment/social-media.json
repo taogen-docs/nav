@@ -1,0 +1,23 @@
+{
+  "socialMedia": [
+    {
+      "title": "Twitter",
+      "link": "http://www.twitter.com/",
+      "img": "https://abs.twimg.com/favicons/twitter.3.ico"
+    }
+  ],
+  "videoSharing": [
+    {
+      "title": "YouTube",
+      "link": "http://www.youtube.com/",
+      "img": "https://www.gstatic.com/youtube/img/branding/favicon/favicon_144x144.png"
+    }
+  ],
+  "photoSharing": [
+    {
+      "title": "Instagram",
+        "link": "http://www.instagram.com/",
+        "img": "https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico"
+    }
+  ]
+}
