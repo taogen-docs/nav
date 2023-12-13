@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Nav"
   text: "My Navigation"
-  tagline: My Navigation Site
+  tagline: Only collect commonly used websites
 #  actions:
 #    - theme: brand
 #      text: Markdown Examples
