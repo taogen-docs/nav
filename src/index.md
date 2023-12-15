@@ -6,6 +6,9 @@ hero:
   name: "Nav"
   text: "My Navigation"
   tagline: Only collect commonly used websites
+  image:
+    src: home.jpeg
+    alt: nav
 #  actions:
 #    - theme: brand
 #      text: Markdown Examples
