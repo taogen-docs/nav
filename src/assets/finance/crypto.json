@@ -1,19 +1,79 @@
 {
-  "marketAnalysis": [
-    {
-      "name": "TradingView",
-      "url": "https://www.tradingview.com/",
-      "icon": "https://www.tradingview.com/favicon.ico"
-    },
+  "marketCap": [
     {
       "name": "CoinMarketCap",
       "url": "https://coinmarketcap.com/",
       "icon": "https://coinmarketcap.com/favicon.ico"
     },
     {
+      "name": "CoinGecko",
+      "url": "https://www.coingecko.com/",
+      "icon": "https://www.coingecko.com/favicon.ico"
+    },
+    {
+      "name": "Assets Market Cap",
+      "url": "https://companiesmarketcap.com/assets-by-market-cap/",
+      "icon": "https://companiesmarketcap.com/favicon.ico"
+    }
+  ],
+  "technicalAnalysis": [
+    {
+      "name": "TradingView",
+      "url": "https://www.tradingview.com/",
+      "icon": "https://www.tradingview.com/favicon.ico"
+    },
+    {
       "name": "CoinGlass",
       "url": "https://www.coinglass.com/",
       "icon": "https://cdn.coinglasscdn.com/static/app_icon.webp"
+    },
+    {
+      "name": "BitInfoCharts",
+      "url": "https://bitinfocharts.com/",
+      "icon": "https://bitinfocharts.com/favicon.ico",
+      "desc": "Price, reward, difficulty, hashrate, market capitalization, block time, blocks count."
+    },
+    {
+      "name": "Glassnode",
+      "url": "https://studio.glassnode.com/",
+      "icon": "https://studio.glassnode.com/favicon.ico",
+      "desc": "On-chain market intelligence"
+    },
+    {
+      "name": "Crypto Fear & Greed Index",
+      "url": "https://alternative.me/crypto/fear-and-greed-index/",
+      "icon": "https://alternative.me/favicon-32x32.png"
+    },
+    {
+      "name": "Etherscan",
+      "url": "https://etherscan.io/",
+      "icon": "https://etherscan.io/images/favicon3.ico",
+      "desc": "Ethereum (ETH) blockchain explorer. Created to facilitate blockchain transparency and accessibility."
+    },
+    {
+      "name": "WhaleStats",
+      "url": "https://whalestats.com/",
+      "icon": "https://whalestats.com/favicon.ico",
+      "desc": "Analysis of the top 1000 ETH wallets."
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/data/crypto-markets/spot",
+      "icon": "https://www.theblock.co/favicon.ico",
+      "desc": "Crypto market data, news, and research."
+    },
+    {
+      "name": "KingData",
+      "url": "https://kingdata.com/",
+      "icon": "https://kingdata.com/favicon.ico",
+      "desc": "Web3 Blockchain Data Monitoring."
+    }
+  ],
+  "nft": [
+    {
+      "name": "OpenSea",
+      "url": "https://opensea.io/",
+      "icon": "https://opensea.io/static/images/favicon/32x32.png"
     }
   ],
   "exchanges": [

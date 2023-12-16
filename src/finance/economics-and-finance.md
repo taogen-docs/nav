@@ -1,13 +1,11 @@
 <script setup>
 import { ref } from 'vue';
 import NavContainer from '../components/NavContainer.vue';
-import newsData from '../assets/news/product-news.json';
+import newsData from '../assets/finance/economics-and-finance.json';
 
 const data = ref(newsData);
 </script>
 
-# Product
+# Economics & Finance
 
-<NavContainer :data="data
-"/>
-
+<NavContainer :data="data"/>

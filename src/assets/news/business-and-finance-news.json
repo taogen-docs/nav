@@ -1,0 +1,118 @@
+{
+  "general": [
+    {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/",
+      "icon": "https://www.bloomberg.com/favicon-black.png"
+    },
+    {
+      "name": "Business Insider",
+      "url": "https://www.businessinsider.com/",
+      "icon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-192x192.png?v=2023-11"
+    }
+  ],
+  "business": [
+    {
+      "name": "Forbes",
+      "url": "https://www.forbes.com/",
+      "icon": "https://www.forbes.com/favicon.ico"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/",
+      "icon": "https://www.wsj.com/favicon.ico"
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://www.ft.com/",
+      "icon": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos&format=svg"
+    },
+    {
+      "name": "虎嗅网",
+      "url": "https://www.huxiu.com/",
+      "icon": "https://www.huxiu.com/favicon.ico"
+    },
+    {
+      "name": "界面新闻",
+      "url": "https://www.jiemian.com/",
+      "icon": "https://www.jiemian.com/favicon.ico"
+    },
+    {
+      "name": "财新网",
+      "url": "https://www.caixinglobal.com/",
+      "icon": "https://www.caixinglobal.com/favicon.ico"
+    }
+  ],
+  "financial": [
+    {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/",
+      "icon": "https://www.investing.com/favicon.ico"
+    },
+    {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/",
+      "icon": "https://s.yimg.com/cv/apiv2/default/icons/favicon_y19_32x32_custom.svg"
+    },
+    {
+      "name": "金十数据",
+      "url": "https://www.jin10.com/",
+      "icon": "https://cdn.jin10.com/assets/img/commons/favicon.ico"
+    },
+    {
+      "name": "华尔街见闻",
+      "url": "https://wallstreetcn.com/",
+      "icon": "https://static-alpha.wallstcn.com/wscn/_static/favicon.png"
+    },
+    {
+      "name": "凤凰网财经",
+      "url": "https://finance.ifeng.com/",
+      "icon": "https://finance.ifeng.com/favicon.ico"
+    },
+    {
+      "name": "新浪财经",
+      "url": "https://finance.sina.com.cn/",
+      "icon": "https://www.sina.com.cn/favicon.ico"
+    },
+    {
+      "name": "慧博投研资讯",
+      "url": "https://www.hibor.com.cn/",
+      "icon": "https://www.hibor.com.cn/favicon.ico"
+    }
+  ],
+  "stock": [
+    {
+      "name": "MarketWatch",
+      "url": "https://www.marketwatch.com/",
+      "icon": "https://mw4.wsj.net/mw5/content/logos/favicon.ico"
+    },
+    {
+      "name": "The Motley Fool",
+      "url": "https://www.fool.com/investing-news/",
+      "icon": "https://g.foolcdn.com/misc-assets/logo-tmf-primary-favicon.ico"
+    },
+    {
+      "name": "雪球",
+      "url": "https://xueqiu.com/",
+      "icon": "https://assets.imedao.com/images/favicon.ico"
+    }
+  ],
+  "crypto": [
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/",
+      "icon": "https://www.theblock.co/favicon.ico",
+      "desc": "Crypto market data, news, and research."
+    },
+    {
+      "name": "BlockBeats",
+      "url": "https://www.theblockbeats.info/",
+      "icon": "https://image.theblockbeats.info/icon/favicon.ico"
+    },
+    {
+      "name": "比特币资讯网",
+      "url": "https://www.bitcoin86.com/",
+      "icon": "https://www.ibitcoin86.com/static/next/images/favicon.ico"
+    }
+  ]
+}

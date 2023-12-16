@@ -1,5 +1,12 @@
 {
-  "marketAnalysis": [
+  "marketCap": [
+    {
+      "name": "Company Market Cap",
+      "url": "https://companiesmarketcap.com/",
+      "icon": "https://companiesmarketcap.com/favicon.ico"
+    }
+  ],
+  "technicalAnalysis": [
     {
       "name": "Yahoo Finance",
       "url": "https://finance.yahoo.com/",

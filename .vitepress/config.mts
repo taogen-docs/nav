@@ -74,13 +74,13 @@ function sidebarNews(): DefaultTheme.SidebarItem[] {
             link: '/news/dev-blog.md',
         },
         {
-            text: 'Design News',
-            link: '/news/design-news.md',
+            text: 'Product & Design News',
+            link: '/news/product-and-design-news.md',
         },
         {
-            text: 'Product News',
-            link: '/news/product-news.md',
-        }
+            text: 'Business & Financial News',
+            link: '/news/business-and-finance-news.md',
+        },
     ]
 }
 
@@ -103,6 +103,10 @@ function sidebarDev(): DefaultTheme.SidebarItem[] {
 
 function sidebarFinance(): DefaultTheme.SidebarItem[] {
     return [
+        {
+            text: "Economics & Finance",
+            link: '/finance/economics-and-finance.md',
+        },
         {
             text: 'Crypto',
             link: '/finance/crypto.md',

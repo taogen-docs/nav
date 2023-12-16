@@ -8,9 +8,17 @@ const data = ref(newsData);
 
 # Crypto
 
-## Market Analysis
+## Technical Analysis
 
-<NavContainer :data="data.marketAnalysis"/>
+<NavContainer :data="data.technicalAnalysis"/>
+
+## Market Cap
+
+<NavContainer :data="data.marketCap"/>
+
+## NFT
+
+<NavContainer :data="data.nft"/>
 
 ## Exchanges
 

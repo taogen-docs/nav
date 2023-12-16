@@ -1,12 +1,19 @@
 {
-  "news": [
+  "product": [
+    {
+      "name": "Product Hunt",
+      "url": "https://www.producthunt.com/",
+      "icon": "https://ph-static.imgix.net/ph-favicon-coral.ico"
+    }
+  ],
+  "design": [
     {
       "name": "Designer News",
       "url": "https://www.designernews.co/",
       "icon": "https://d2si0b2wb4t75n.cloudfront.net/assets/favicon-fcd97d8fc0b051d0e0c62870e89d27c56c36078aac80f8608e67061aaa88c525.png"
     }
   ],
-  "portfolio": [
+  "designPortfolio": [
     {
       "name": "Dribbble",
       "url": "https://dribbble.com/",

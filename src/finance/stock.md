@@ -8,9 +8,13 @@ const data = ref(newsData);
 
 # Stock
 
-## Market Analysis
+## Technical Analysis
 
-<NavContainer :data="data.marketAnalysis"/>
+<NavContainer :data="data.technicalAnalysis"/>
+
+## Market Cap
+
+<NavContainer :data="data.marketCap"/>
 
 ## Trading
 
