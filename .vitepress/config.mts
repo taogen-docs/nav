@@ -66,16 +66,16 @@ function sidebarNews(): DefaultTheme.SidebarItem[] {
             link: '/news/news.md',
         },
         {
-            text: 'Dev News',
-            link: '/news/dev-news.md',
+            text: 'Business & Financial News',
+            link: '/news/business-and-finance-news.md',
         },
         {
             text: 'Product & Design News',
             link: '/news/product-and-design-news.md',
         },
         {
-            text: 'Business & Financial News',
-            link: '/news/business-and-finance-news.md',
+            text: 'Dev News',
+            link: '/news/dev-news.md',
         },
     ]
 }
