@@ -54,7 +54,7 @@ function nav(): DefaultTheme.NavItem[] {
         {text: 'Work', link: '/work/work.md', activeMatch: '/work/'},
         {text: 'Finance', link: '/finance/crypto.md', activeMatch: '/finance/'},
         {text: 'Entertainment', link: '/entertainment/movie.md', activeMatch: '/entertainment/'},
-        // {text: 'Dev', link: '/dev/'},
+        {text: 'Dev', link: '/dev/dev-blog.md', activeMatch: '/dev/'},
         {text: 'Tools', link: '/tools/office-tools.md', activeMatch: '/tools/'},
     ];
 }
@@ -68,10 +68,6 @@ function sidebarNews(): DefaultTheme.SidebarItem[] {
         {
             text: 'Dev News',
             link: '/news/dev-news.md',
-        },
-        {
-            text: 'Dev Blog',
-            link: '/news/dev-blog.md',
         },
         {
             text: 'Product & Design News',
@@ -98,7 +94,12 @@ function sidebarWork(): DefaultTheme.SidebarItem[] {
 }
 
 function sidebarDev(): DefaultTheme.SidebarItem[] {
-    return []
+    return [
+        {
+            text: 'Dev Blog',
+            link: '/dev/dev-blog.md',
+        },
+    ]
 }
 
 function sidebarFinance(): DefaultTheme.SidebarItem[] {
