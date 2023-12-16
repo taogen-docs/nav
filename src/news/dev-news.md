@@ -8,4 +8,10 @@ const data = ref(newsData);
 
 # Dev News
 
-<NavContainer :data="data"/>
+## General
+
+<NavContainer :data="data.general"/>
+
+## Web Frontend
+
+<NavContainer :data="data.webFrontend"/>

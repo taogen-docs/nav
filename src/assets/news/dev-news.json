@@ -1,52 +1,66 @@
-[
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com/",
-    "icon": "https://news.ycombinator.com/favicon.ico"
-  },
-  {
-    "name": "Lobsters",
-    "url": "https://lobste.rs/",
-    "icon": "https://lobste.rs/favicon.ico"
-  },
-  {
-    "name": "Reddit",
-    "url": "https://www.reddit.com/r/programming/",
-    "icon": "https://www.reddit.com/favicon.ico"
-  },
-  {
-    "name": "daily.dev",
-    "url": "https://app.daily.dev/",
-    "icon": "https://app.daily.dev/favicon.ico"
-  },
-  {
-    "name": "DZone",
-    "url": "https://dzone.com/",
-    "icon": "https://dz2cdn3.dzone.com/themes/dz20/images/favicon.png"
-  },
-  {
-    "name": "InfoQ",
-    "url": "https://www.infoq.com/",
-    "icon": "https://www.infoq.com/favicon.ico"
-  },
-  {
-    "name": "InfoWorld",
-    "url": "https://www.infoworld.com/",
-    "icon": "https://idge.staticworld.net/ifw/favicon.ico"
-  },
-  {
-    "name": "Dev",
-    "url": "https://dev.to/",
-    "icon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
-  },
-  {
-    "name": "科技爱好者周刊",
-    "url": "https://www.ruanyifeng.com/blog/weekly/",
-    "icon": "https://www.ruanyifeng.com/favicon.ico"
-  },
-  {
-    "name": "ThoughtWorks洞见",
-    "url": "https://insights.thoughtworks.cn/",
-    "icon": "https://insights.thoughtworks.cn/wp-content/uploads/2021/07/cropped-tw-insights-new-logo-192x192.png"
-  }
-]
+{
+  "general": [
+    {
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/",
+      "icon": "https://news.ycombinator.com/favicon.ico"
+    },
+    {
+      "name": "Lobsters",
+      "url": "https://lobste.rs/",
+      "icon": "https://lobste.rs/favicon.ico"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/programming/",
+      "icon": "https://www.reddit.com/favicon.ico"
+    },
+    {
+      "name": "daily.dev",
+      "url": "https://app.daily.dev/",
+      "icon": "https://app.daily.dev/favicon.ico"
+    },
+    {
+      "name": "DZone",
+      "url": "https://dzone.com/",
+      "icon": "https://dz2cdn3.dzone.com/themes/dz20/images/favicon.png"
+    },
+    {
+      "name": "InfoQ",
+      "url": "https://www.infoq.com/",
+      "icon": "https://www.infoq.com/favicon.ico"
+    },
+    {
+      "name": "InfoWorld",
+      "url": "https://www.infoworld.com/",
+      "icon": "https://idge.staticworld.net/ifw/favicon.ico"
+    },
+    {
+      "name": "Dev",
+      "url": "https://dev.to/",
+      "icon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+    },
+    {
+      "name": "科技爱好者周刊",
+      "url": "https://www.ruanyifeng.com/blog/weekly/",
+      "icon": "https://www.ruanyifeng.com/favicon.ico"
+    },
+    {
+      "name": "ThoughtWorks洞见",
+      "url": "https://insights.thoughtworks.cn/",
+      "icon": "https://insights.thoughtworks.cn/wp-content/uploads/2021/07/cropped-tw-insights-new-logo-192x192.png"
+    }
+  ],
+  "webFrontend": [
+    {
+      "name": "CSS-Tricks",
+      "url": "https://css-tricks.com/",
+      "icon": "https://css-tricks.com/favicon.ico"
+    },
+    {
+      "name": "Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/",
+      "icon": "https://www.smashingmagazine.com/images/favicon/apple-touch-icon-ipad-76x76.png"
+    }
+  ]
+}
