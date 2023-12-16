@@ -1,0 +1,26 @@
+{
+  "news": [
+    {
+      "name": "Designer News",
+      "url": "https://www.designernews.co/",
+      "icon": "https://d2si0b2wb4t75n.cloudfront.net/assets/favicon-fcd97d8fc0b051d0e0c62870e89d27c56c36078aac80f8608e67061aaa88c525.png"
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Dribbble",
+      "url": "https://dribbble.com/",
+      "icon": "https://cdn.dribbble.com/assets/favicon-585500d983ec4736f92c6ec337609b2c9ffd160296dc93182f5c6e55c39cb569.ico"
+    },
+    {
+      "name": "Behance",
+      "url": "https://www.behance.net/",
+      "icon": "https://a5.behance.net/9bcc65958273e21eebf351c73f93835070615671/img/site/favicon.ico"
+    },
+    {
+      "name": "Awwwards",
+      "url": "https://www.awwwards.com/",
+      "icon": "https://assets.awwwards.com/assets/images/favicon.svg"
+    }
+  ]
+}
