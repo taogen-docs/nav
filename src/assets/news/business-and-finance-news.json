@@ -99,10 +99,29 @@
   ],
   "crypto": [
     {
-      "name": "The Block",
-      "url": "https://www.theblock.co/",
-      "icon": "https://www.theblock.co/favicon.ico",
-      "desc": "Crypto market data, news, and research."
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/",
+      "icon": "https://www.coindesk.com/favicon.ico"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/",
+      "icon": "https://bitcoinmagazine.com/favicon.ico"
+    },
+    {
+      "name": "Cointelegraph",
+      "url": "https://cointelegraph.com/",
+      "icon": "https://cointelegraph.com/favicon.ico"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/",
+      "icon": "https://cdn.decrypt.co/wp-content/themes/decrypt-media/assets/images/favicon-32x32.png"
+    },
+    {
+      "name": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/",
+      "icon": "https://static.cryptobriefing.com/wp-content/uploads/2020/02/02093517/ios-144.png"
     },
     {
       "name": "BlockBeats",
