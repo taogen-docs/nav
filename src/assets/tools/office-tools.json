@@ -1,4 +1,21 @@
 {
+  "dict": [
+    {
+      "name": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/us/",
+      "icon": "https://dictionary.cambridge.org/favicon.ico"
+    },
+    {
+      "name": "Google Translate",
+      "url": "https://translate.google.com/",
+      "icon": "https://ssl.gstatic.com/translate/favicon.ico"
+    },
+    {
+      "name": "DeepL Translate",
+      "url": "https://www.deepl.com/translator",
+      "icon": "https://static.deepl.com/img/favicon/favicon_32.png"
+    }
+  ],
   "writing": [
     {
       "name": "name Capitalization Tools",

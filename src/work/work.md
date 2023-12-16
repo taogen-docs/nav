@@ -19,3 +19,7 @@ const data = ref(newsData);
 ## Dictionary
 
 <NavContainer :data="data.dict"/>
+
+## Email
+
+<NavContainer :data="data.email"/>

@@ -8,6 +8,10 @@ const data = ref(newsData);
 
 # Office Tools
 
+## Dictionary and Translate
+
+<NavContainer :data="data.dict"/>
+
 ## Writing
 
 <NavContainer :data="data.writing"/>

@@ -54,5 +54,32 @@
       "url": "https://docs.dingtalk.com/i/?nav=home",
       "icon": "https://g.alicdn.com/dingding/web/0.2.6/img/oldIcon.ico"
     }
+  ],
+  "email": [
+    {
+      "name": "Gmail",
+      "url": "https://mail.google.com/mail/u/0/#inbox",
+      "icon": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"
+    },
+    {
+      "name": "Outlook",
+      "url": "https://outlook.live.com/mail/0/",
+      "icon": "https://outlook.live.com/favicon.ico"
+    },
+    {
+      "name": "QQ邮箱",
+      "url": "https://mail.qq.com/",
+      "icon": "https://mail.qq.com/favicon.ico"
+    },
+    {
+      "name": "网易邮箱",
+      "url": "https://mail.163.com/",
+      "icon": "https://mail.163.com/favicon.ico"
+    },
+    {
+      "name": "126邮箱",
+      "url": "https://mail.126.com/",
+      "icon": "https://mail.126.com/favicon.ico"
+    }
   ]
 }
