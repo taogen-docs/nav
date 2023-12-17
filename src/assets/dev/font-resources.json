@@ -1,0 +1,66 @@
+{
+  "chinese": [
+    {
+      "name": "字体天下",
+      "url": "https://www.fonts.net.cn/",
+      "icon": "https://www.fonts.net.cn/favicon.ico"
+    },
+    {
+      "name": "100font",
+      "url": "http://www.100font.com/",
+      "icon": "https://www.100font.com/view/img/favicon.ico"
+    },
+    {
+      "name": "造字工房",
+      "url": "https://www.makefont.com/fonts.html",
+      "icon": "https://www.makefont.com/makefont/images/favicon.ico"
+    },
+    {
+      "name": "免费字体网",
+      "url": "https://www.mianfeiziti.com/",
+      "icon": "https://img.mianfeiziti.com/cdnview/img/favicon.ico"
+    },
+    {
+      "name": "求字体网",
+      "url": "https://www.qiuziti.com/",
+      "icon": "https://www.qiuziti.com/image/icon.ico"
+    },
+    {
+      "name": "方正字库",
+      "url": "https://www.foundertype.com/index.php/FindFont/index",
+      "icon": "https://www.foundertype.com/favicon.ico"
+    }
+  ],
+  "english": [
+    {
+      "name": "Google Font",
+      "url": "https://fonts.google.com/",
+      "icon": "https://www.gstatic.com/images/icons/material/apps/fonts/1x/catalog/v5/favicon.svg"
+    },
+    {
+      "name": "Urban Fonts",
+      "url": "https://www.urbanfonts.com/",
+      "icon": "https://www.urbanfonts.com/favicon.ico"
+    },
+    {
+      "name": "DaFont",
+      "url": "https://www.dafont.com/",
+      "icon": "https://www.dafont.com/img/favicon.ico"
+    },
+    {
+      "name": "Font Squirre",
+      "url": "https://www.fontsquirrel.com/",
+      "icon": "https://www.fontsquirrel.com/favicon-32x32.png"
+    },
+    {
+      "name": "FontSpace",
+      "url": "https://www.fontspace.com/",
+      "icon": "https://www.fontspace.com/favicon-32x32.png"
+    },
+    {
+      "name": "Fonts.com",
+      "url": "https://www.fonts.com/",
+      "icon": "https://fast.fonts.net/FontsCom/Live/static/2.15.1009.0/img/favicon-32x32.png"
+    }
+  ]
+}

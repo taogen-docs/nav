@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Pinterest",
+    "url": "https://www.pinterest.com/",
+    "icon": "https://s.pinimg.com/webapp/favicon-22eb868c.png"
+  },
+  {
+    "name": "Unsplash",
+    "url": "https://unsplash.com/",
+    "icon": "https://unsplash.com/favicon-32x32.png"
+  },
+  {
+    "name": "Pixabay",
+    "url": "https://pixabay.com/",
+    "icon": "https://pixabay.com/favicon-32x32.png"
+  },
+  {
+    "name": "Pexels",
+    "url": "https://www.pexels.com/",
+    "icon": "https://www.pexels.com/assets/static/images/meta/favicon.ico"
+  }
+]

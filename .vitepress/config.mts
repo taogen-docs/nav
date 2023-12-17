@@ -118,6 +118,14 @@ function sidebarDev(): DefaultTheme.SidebarItem[] {
                 {
                     text: 'Icon Resources',
                     link: '/dev/web-frontend/icon-resources.md',
+                },
+                {
+                    text: 'Image Resources',
+                    link: '/dev/web-frontend/image-resources.md',
+                },
+                {
+                    text: 'Font Resources',
+                    link: '/dev/web-frontend/font-resources.md',
                 }
             ]
         },
