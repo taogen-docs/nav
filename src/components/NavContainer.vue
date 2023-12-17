@@ -11,7 +11,7 @@
 </template>
 
 <script setup>
-import DefaultSiteIcon from '../assets/img/default-site-icon.jpeg';
+import DefaultSiteIcon from '../assets/img/globe.svg';
 
 const props = defineProps(['data'])
 if (props.data != null && props.data.length > 0) {
