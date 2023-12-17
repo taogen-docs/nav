@@ -104,6 +104,10 @@ function sidebarWork(): DefaultTheme.SidebarItem[] {
 function sidebarDev(): DefaultTheme.SidebarItem[] {
     return [
         {
+            text: 'Cloud Services',
+            link: '/dev/cloud-services.md',
+        },
+        {
             text: 'Dev Blog',
             link: '/dev/dev-blog.md',
         },

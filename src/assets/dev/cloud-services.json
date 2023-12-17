@@ -1,0 +1,203 @@
+{
+  "domain": [
+    {
+      "name": "Namecheap",
+      "url": "https://www.namecheap.com/",
+      "icon": "https://www.namecheap.com/assets/img/nc-icon/favicon.ico"
+    },
+    {
+      "name": "GoDaddy",
+      "url": "https://www.godaddy.com/",
+      "icon": "https://img6.wsimg.com/ux/favicon/favicon-32x32.png"
+    }
+  ],
+  "cloudServer": [
+    {
+      "name": "AWS",
+      "url": "https://aws.amazon.com/",
+      "icon": "https://aws.amazon.com/favicon.ico"
+    },
+    {
+      "name": "Azure",
+      "url": "https://azure.microsoft.com/",
+      "icon": "https://azure.microsoft.com/favicon.ico"
+    },
+    {
+      "name": "Google Cloud",
+      "url": "https://cloud.google.com/",
+      "icon": "https://www.gstatic.com/devrel-devsite/prod/v0d244f667a3683225cca86d0ecf9b9b81b1e734e55a030bdcd3f3094b835c987/cloud/images/favicons/onecloud/favicon.ico"
+    },
+    {
+      "name": "Aliyun",
+      "url": "https://cn.aliyun.com/",
+      "icon": "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico"
+    },
+    {
+      "name": "Tencent Cloud",
+      "url": "https://cloud.tencent.com/",
+      "icon": "https://cloud.tencent.com/favicon.ico"
+    }
+  ],
+  "vps": [
+    {
+      "name": "DigitalOcean",
+      "url": "https://www.digitalocean.com/",
+      "icon": "https://www.digitalocean.com/_next/static/media/favicon-32x32.b7ef9ede.png"
+    },
+    {
+      "name": "Linode",
+      "url": "https://www.linode.com/",
+      "icon": "https://www.linode.com/favicon.ico"
+    },
+    {
+      "name": "Vultr",
+      "url": "https://www.vultr.com/",
+      "icon": "https://www.vultr.com/favicon.ico"
+    },
+    {
+      "name": "BandwagonHost",
+      "url": "https://bandwagonhost.com/",
+      "icon": ""
+    }
+  ],
+  "cdn": [
+    {
+      "name": "Cloudflare",
+      "url": "https://www.cloudflare.com/",
+      "icon": "https://www.cloudflare.com/favicon.ico"
+    },
+    {
+      "name": "jsDelivr",
+      "url": "https://www.jsdelivr.com/",
+      "icon": "https://www.jsdelivr.com/favicon.ico"
+    },
+    {
+      "name": "UNPKG",
+      "url": "https://unpkg.com/",
+      "icon": "https://unpkg.com/favicon.ico"
+    },
+    {
+      "name": "cdnjs",
+      "url": "https://cdnjs.com/",
+      "icon": "https://cdnjs.com/favicon.png"
+    }
+  ],
+  "staticWebsiteHosting": [
+    {
+      "name": "Vercel",
+      "url": "https://vercel.com/",
+      "icon": "https://vercel.com/favicon.ico"
+    },
+    {
+      "name": "Netlify",
+      "url": "https://www.netlify.com/",
+      "icon": "https://www.netlify.com/v3/static/favicon/favicon.ico"
+    },
+    {
+      "name": "GitHub Pages",
+      "url": "https://pages.github.com/",
+      "icon": "https://github.githubassets.com/favicons/favicon.png"
+    },
+    {
+      "name": "GitLab Pages",
+      "url": "https://docs.gitlab.com/ee/user/project/pages/",
+      "icon": "https://about.gitlab.com/ico/favicon-32x32.png"
+    },
+    {
+      "name": "Cloudflare Pages",
+      "url": "https://pages.cloudflare.com/",
+      "icon": "https://pages.cloudflare.com/favicon.ico"
+    }
+  ],
+  "sslCertificates": [
+    {
+      "name": "Let's Encrypt",
+      "url": "https://letsencrypt.org/",
+      "icon": "https://letsencrypt.org/favicon.ico"
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://www.cloudflare.com/",
+      "icon": "https://www.cloudflare.com/favicon.ico"
+    },
+    {
+      "name": "certbot",
+      "url": "https://certbot.eff.org/",
+      "icon": "https://certbot.eff.org/favicon.ico"
+    }
+  ],
+  "cloudObjectStorage": [
+    {
+      "name": "AWS S3",
+      "url": "https://aws.amazon.com/s3/",
+      "icon": "https://aws.amazon.com/favicon.ico"
+    },
+    {
+      "name": "Azure Blob Storage",
+      "url": "https://azure.microsoft.com/en-us/products/storage/blobs",
+      "icon": "https://azure.microsoft.com/favicon.ico"
+    },
+    {
+      "name": "Google Cloud Storage",
+      "url": "https://cloud.google.com/storage/",
+      "icon": "https://www.gstatic.com/devrel-devsite/prod/v0d244f667a3683225cca86d0ecf9b9b81b1e734e55a030bdcd3f3094b835c987/cloud/images/favicons/onecloud/favicon.ico"
+    },
+    {
+      "name": "Aliyun OSS",
+      "url": "https://www.aliyun.com/product/oss/",
+      "icon": "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico"
+    },
+    {
+      "name": "Tencent Cloud COS",
+      "url": "https://cloud.tencent.com/product/cos",
+      "icon": "https://cloud.tencent.com/favicon.ico"
+    },
+    {
+      "name": "七牛云",
+      "url": "https://www.qiniu.com/",
+      "icon": "https://www.qiniu.com/favicon.ico"
+    }
+  ],
+  "cicd": [
+    {
+      "name": "Jenkins",
+      "url": "https://www.jenkins.io/",
+      "icon": "https://www.jenkins.io/favicon.ico"
+    },
+    {
+      "name": "CircleCI",
+      "url": "https://circleci.com/",
+      "icon": "https://circleci.com/favicon.ico"
+    },
+    {
+      "name": "TeamCity",
+      "url": "https://www.jetbrains.com/teamcity/",
+      "icon": "https://www.jetbrains.com/favicon.ico"
+    },
+    {
+      "name": "Travis CI",
+      "url": "https://www.travis-ci.com/",
+      "icon": "https://www.travis-ci.com/favicon.ico"
+    },
+    {
+      "name": "Azure DevOps",
+      "url": "https://azure.microsoft.com/en-us/products/devops",
+      "icon": "https://azure.microsoft.com/favicon.ico"
+    },
+    {
+      "name": "GitHub Actions",
+      "url": "https://github.com/features/actions",
+      "icon": "https://github.githubassets.com/favicons/favicon.png"
+    },
+    {
+      "name": "GitLab CI",
+      "url": "https://docs.gitlab.com/ee/ci/",
+      "icon": "https://docs.gitlab.com/favicon.ico?v=2"
+    },
+    {
+      "name": "Bamboo",
+      "url": "https://www.atlassian.com/software/bamboo",
+      "icon": "https://www.atlassian.com/favicon.ico"
+    }
+  ]
+}
