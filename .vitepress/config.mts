@@ -89,6 +89,14 @@ function sidebarWork(): DefaultTheme.SidebarItem[] {
         {
             text: "Sytc Systems",
             link: '/work/sytc-systems.md',
+        },
+        {
+            text: "Find Job",
+            link: '/work/find-job.md',
+        },
+        {
+            text: "Find Job Helper",
+            link: '/work/find-job-helper.md',
         }
     ]
 }

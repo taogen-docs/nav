@@ -1,0 +1,55 @@
+{
+  "china": [
+    {
+      "name": "Boss直聘",
+      "url": "https://www.zhipin.com/",
+      "icon": "https://www.zhipin.com/favicon.ico"
+    },
+    {
+      "name": "拉勾网",
+      "url": "https://www.lagou.com/",
+      "icon": "https://www.lagou.com/favicon.ico"
+    },
+    {
+      "name": "前程无忧",
+      "url": "https://www.51job.com/",
+      "icon": "https://www.51job.com/favicon.ico"
+    },
+    {
+      "name": "智联招聘",
+      "url": "https://www.zhaopin.com/",
+      "icon": "https://common-bucket.zhaopin.cn/img/favicon/favicon-2011.ico"
+    },
+    {
+      "name": "猎聘网",
+      "url": "https://www.liepin.com/",
+      "icon": "https://concat.lietou-static.com/fe-www-pc/v6/static/images/favicon.e6edbc00.ico"
+    }
+  ],
+  "asia": [
+    {
+      "name": "Jobs in Japan",
+      "url": "https://jobsinjapan.com/",
+      "icon": "https://jobsinjapan.com/favicon-32x32.png"
+    }
+  ],
+  "us": [
+    {
+      "name": "Indeed",
+      "url": "https://www.indeed.com/",
+      "icon": "https://hk.indeed.com/images/favicon.ico"
+    }
+  ],
+  "eu": [
+    {
+      "name": "EURES",
+      "url": "https://europa.eu/eures/portal/jv-se/home?pageCode=find_a_job&lang=en",
+      "icon": "https://europa.eu/eures/portal/favicon.ico"
+    },
+    {
+      "name": "The Local",
+      "url": "https://www.thelocal.de/jobs/",
+      "icon": "https://www.thelocal.se/images/favicons/se.ico"
+    }
+  ]
+}
