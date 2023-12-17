@@ -30,7 +30,13 @@ const data = ref(newsData);
 
 ## CDN
 
+### General CDN
+
 <NavContainer :data="data.cdn"/>
+
+### CDN for NPM Packages
+
+<NavContainer :data="data.cdnForNpmPackage"/>
 
 ## Hosting
 

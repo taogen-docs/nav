@@ -67,6 +67,23 @@
       "icon": "https://www.cloudflare.com/favicon.ico"
     },
     {
+      "name": "Akamai CDN",
+      "url": "https://www.akamai.com/solutions/content-delivery-network",
+      "icon": "https://www.akamai.com/favicon.ico"
+    },
+    {
+      "name": "Fastly Deliver",
+      "url": "https://www.fastly.com/products/cdn",
+      "icon": "https://www.fastly.com/favicons/favicon.svg"
+    },
+    {
+      "name": "Amazon CloudFront",
+      "url": "https://aws.amazon.com/cloudfront/",
+      "icon": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico"
+    }
+  ],
+  "cdnForNpmPackage": [
+    {
       "name": "jsDelivr",
       "url": "https://www.jsdelivr.com/",
       "icon": "https://www.jsdelivr.com/favicon.ico"
