@@ -1,0 +1,27 @@
+[
+  {
+    "name": "flaticon",
+    "url": "https://www.flaticon.com/",
+    "icon": "https://www.flaticon.com/favicon.ico"
+  },
+  {
+    "name": "Iconfinder",
+    "url": "https://www.iconfinder.com/",
+    "icon": "https://www.iconfinder.com/static/img/favicons/favicon-32x32.png"
+  },
+  {
+    "name": "Icons8",
+    "url": "https://icons8.com/",
+    "icon": "https://maxst.icons8.com/vue-static/landings/primary-landings/favs/icons8_fav_32%C3%9732.png"
+  },
+  {
+    "name": "Iconbuddy",
+    "url": "https://iconbuddy.app/",
+    "icon": "https://c1.tablecdn.com/iconbuddy/iconbuddy-logo.png"
+  },
+  {
+    "name": "Iconduck",
+    "url": "https://iconduck.com/",
+    "icon": "https://iconduck.com/iconduck/static/images/clients/v4/favicon-32x32.png"
+  }
+]

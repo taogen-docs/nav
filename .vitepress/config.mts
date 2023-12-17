@@ -54,7 +54,7 @@ function nav(): DefaultTheme.NavItem[] {
         {text: 'Work', link: '/work/work.md', activeMatch: '/work/'},
         {text: 'Finance', link: '/finance/crypto.md', activeMatch: '/finance/'},
         {text: 'Entertainment', link: '/entertainment/movie.md', activeMatch: '/entertainment/'},
-        {text: 'Dev', link: '/dev/dev-blog.md', activeMatch: '/dev/'},
+        {text: 'Dev', link: '/dev/cloud-services.md', activeMatch: '/dev/'},
         {text: 'Tools', link: '/tools/office-tools.md', activeMatch: '/tools/'},
     ];
 }
@@ -104,13 +104,32 @@ function sidebarWork(): DefaultTheme.SidebarItem[] {
 function sidebarDev(): DefaultTheme.SidebarItem[] {
     return [
         {
-            text: 'Cloud Services',
-            link: '/dev/cloud-services.md',
+            text: 'Backend',
+            items: [
+                {
+                    text: 'Cloud Services',
+                    link: '/dev/cloud-services.md',
+                },
+            ]
         },
         {
-            text: 'Dev Blog',
-            link: '/dev/dev-blog.md',
+            text: 'Web Frontend',
+            items: [
+                {
+                    text: 'Icon Resources',
+                    link: '/dev/web-frontend/icon-resources.md',
+                }
+            ]
         },
+        {
+            text: 'Others',
+            items: [
+                {
+                    text: 'Dev Blog',
+                    link: '/dev/dev-blog.md',
+                },
+            ]
+        }
     ]
 }
 
