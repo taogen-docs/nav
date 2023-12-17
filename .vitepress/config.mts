@@ -186,8 +186,8 @@ function sidebarTools(): DefaultTheme.SidebarItem[] {
             link: '/tools/office-tools.md',
         },
         {
-            text: 'CS Tools',
-            link: '/tools/cs-tools.md',
+            text: 'Dev Tools',
+            link: '/tools/dev-tools.md',
         },
         {
             text: 'Other Tools',

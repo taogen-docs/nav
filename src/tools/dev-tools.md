@@ -1,12 +1,12 @@
 <script setup>
 import { ref } from 'vue';
 import NavContainer from '../components/NavContainer.vue';
-import newsData from '../assets/tools/cs-tools.json';
+import newsData from '../assets/tools/dev-tools.json';
 
 const data = ref(newsData);
 </script>
 
-# CS Tools
+# Dev Tools
 
 ## Editor Online
 
