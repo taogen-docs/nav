@@ -46,5 +46,85 @@
       "url": "https://sequencediagram.org/",
       "icon": "https://sequencediagram.org/favicon.ico"
     }
+  ],
+  "textShare": [
+    {
+      "name": "JustPaste.it",
+      "url": "https://justpaste.it/",
+      "icon": "https://justpaste.it/favicon.ico"
+    }
+  ],
+  "fileShare": [
+    {
+      "name": "FileTransfer.io",
+      "url": "https://www.filetransfer.io/",
+      "icon": "https://filetransfer.io/img/favicon/32.png"
+    }
+  ],
+  "todoList": [
+    {
+      "name": "Microsoft To Do",
+      "url": "https://to-do.live.com/tasks/",
+      "icon": "https://res-1.cdn.office.net/todo/1502198_2.110.2/favicon.ico"
+    }
+  ],
+  "note": [
+    {
+      "name": "Notion",
+      "url": "https://www.notion.so/",
+      "icon": "https://www.notion.so/front-static/favicon.ico"
+    },
+    {
+      "name": "Evernote",
+      "url": "https://www.evernote.com/Login.action",
+      "icon": "https://www.evernote.com/favicon.ico"
+    },
+    {
+      "name": "Simplenote",
+      "url": "https://app.simplenote.com/",
+      "icon": "https://app.simplenote.com/favicon.ico"
+    },
+    {
+      "name": "OneNote",
+      "url": "https://www.onenote.com/hrd",
+      "icon": "https://site-cdn.onenote.net/161721140454_Images/FavIcon_OneNote.ico"
+    },
+    {
+      "name": "WizNote",
+      "url": "https://note.wiz.cn/",
+      "icon": "https://note.wiz.cn/favicon.ico"
+    },
+    {
+      "name": "Youdao",
+      "url": "https://note.youdao.com/web/",
+      "icon": "https://note.youdao.com/favicon.ico"
+    }
+  ],
+  "cloudStorage": [
+    {
+      "name": "OneDrive",
+      "url": "https://onedrive.live.com/login/",
+      "icon": "https://onedrive.live.com/favicon.ico"
+    },
+    {
+      "name": "Google Drive",
+      "url": "https://drive.google.com/drive/home",
+      "icon": "https://ssl.gstatic.com/docs/doclist/images/drive_2022q3_32dp.png"
+    },
+    {
+      "name": "Dropbox",
+      "url": "https://www.dropbox.com/",
+      "icon": "https://cfl.dropboxstatic.com/static/metaserver/static/images/favicon-vfl8lUR9B.ico"
+    },
+    {
+      "name": "IDrive",
+      "url": "https://www.idrive.com/",
+      "icon": "https://static.idriveonlinebackup.com/source/images/favicon.ico"
+    },
+    {
+      "name": "Sync",
+      "url": "https://www.sync.com/",
+      "icon": "https://www.sync.com/assets-meta/favicon-32x32.png"
+    }
   ]
 }

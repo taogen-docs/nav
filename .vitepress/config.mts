@@ -190,8 +190,16 @@ function sidebarTools(): DefaultTheme.SidebarItem[] {
             link: '/tools/office-tools.md',
         },
         {
+            text: 'Image Tools',
+            link: '/tools/image-tools.md',
+        },
+        {
             text: 'Dev Tools',
             link: '/tools/dev-tools.md',
+        },
+        {
+            text: 'Design Tools',
+            link: '/tools/design-tools.md',
         },
         {
             text: 'Other Tools',

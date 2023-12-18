@@ -1,0 +1,23 @@
+{
+  "conversion": [
+    {
+      "name": "JPG to PNG",
+      "url": "https://jpg2png.com/",
+      "icon": ""
+    }
+  ],
+  "compression": [
+    {
+      "name": "TinyPNG",
+      "url": "https://tinypng.com/",
+      "icon": "https://tinypng.com/images/favicon.ico"
+    }
+  ],
+  "ocr": [
+    {
+      "name": "Free OCR",
+      "url": "https://www.free-ocr.com/",
+      "icon": "https://www.free-ocr.com/favicon.ico"
+    }
+  ]
+}

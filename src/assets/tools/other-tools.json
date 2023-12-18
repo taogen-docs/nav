@@ -30,5 +30,115 @@
       "url": "https://bt4gprx.com/",
       "icon": "https://bt4gprx.com/static/favicon.ico"
     }
+  ],
+  "ebookDownload": [
+    {
+      "name": "Library Genesis",
+      "url": "https://www.libgen.is/",
+      "icon": "https://www.libgen.is/favicon.ico"
+    },
+    {
+      "name": "Z-Library",
+      "url": "https://z-lib.is/",
+      "icon": "https://z-lib.is/favicon-32x32.svg"
+    },
+    {
+      "name": "PDF Drive",
+      "url": "https://www.pdfdrive.com/",
+      "icon": "https://www.pdfdrive.com/favicon.ico"
+    },
+    {
+      "name": "Gutenberg",
+      "url": "https://www.gutenberg.org/",
+      "icon": "https://www.gutenberg.org/gutenberg/favicon.ico"
+    },
+    {
+      "name": "Standard Ebooks",
+      "url": "https://standardebooks.org/",
+      "icon": "https://standardebooks.org/favicon-32x32.png"
+    },
+    {
+      "name": "书伴",
+      "url": "https://bookfere.com/",
+      "icon": "https://bookfere.com/favicon.ico"
+    },
+    {
+      "name": "Open Library",
+      "url": "https://openlibrary.org/",
+      "icon": "https://openlibrary.org/static/images/openlibrary-128x128.png"
+    }
+  ],
+  "videoDownloader": [
+    {
+      "name": "Savefrom",
+      "url": "https://en.savefrom.net/",
+      "icon": "https://en.savefrom.net/favicon.ico"
+    },
+    {
+      "name": "9xbuddy",
+      "url": "https://9xbuddy.xyz/",
+      "icon": "https://9xbuddy.xyz/icons/favicon.ico"
+    },
+    {
+      "name": "twdown",
+      "url": "https://twdown.net/",
+      "icon": "https://twdown.net/favicon.png"
+    },
+    {
+      "name": "Twitter Video Downloader",
+      "url": "https://twittervideodownloader.com/"
+    },
+    {
+      "name": "ssstwitter",
+      "url": "https://ssstwitter.com/",
+      "icon": "https://ssstwitter.com/favicon.ico"
+    },
+    {
+      "name": "TwitterVid",
+      "url": "https://twittervid.com/",
+      "icon": "https://twittervid.com/assets/img/logo.svg"
+    },
+    {
+      "name": "Y2Mate",
+      "url": "https://en.y2mate.is/s31/",
+      "icon": "https://en.y2mate.is/assets/icons/favicon-32x32.png",
+      "desc": "Youtube Downloader"
+    },
+    {
+      "name": "yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "icon": ""
+    },
+    {
+      "name": "downsub",
+      "url": "https://downsub.com/",
+      "icon": "https://downsub.com/favicon.ico"
+    }
+  ],
+  "softwareDownload": [
+    {
+      "name": "MSDN",
+      "url": "https://msdn.itellyou.cn/",
+      "icon": "https://msdn.itellyou.cn/favicon.ico"
+    }
+  ],
+  "wallpaper": [
+    {
+      "name": "wallhaven",
+      "url": "https://wallhaven.cc/",
+      "icon": "https://wallhaven.cc/favicon.ico"
+    },
+    {
+      "name": "ESA Hubble",
+      "url": "https://www.spacetelescope.org/images/",
+      "icon": "https://esahubble.org/assets/images/favicon.031037e8e407.ico"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Cool Symbols",
+      "url": "https://coolsymbol.com/",
+      "icon": "https://coolsymbol.com/favicon.png"
+    }
   ]
 }

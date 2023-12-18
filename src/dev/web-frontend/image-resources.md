@@ -8,4 +8,11 @@ const data = ref(newsData);
 
 # Image Resources
 
-<NavContainer :data="data"/>
+## EN
+
+<NavContainer :data="data.en"/>
+
+## Chinese
+
+<NavContainer :data="data.chinese"/>
+

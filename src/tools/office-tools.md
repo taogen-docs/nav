@@ -23,3 +23,23 @@ const data = ref(newsData);
 ## Drawing
 
 <NavContainer :data="data.drawing"/>
+
+## Text Share
+
+<NavContainer :data="data.textShare"/>
+
+## File Share
+
+<NavContainer :data="data.fileShare"/>
+
+## Todo List
+
+<NavContainer :data="data.todoList"/>
+
+## Note
+
+<NavContainer :data="data.note"/>
+
+## Cloud Storage
+
+<NavContainer :data="data.cloudStorage"/>

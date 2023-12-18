@@ -1,0 +1,40 @@
+{
+  "logoMaker": [
+    {
+      "name": "FreeLogoDesign",
+      "url": "https://www.freelogodesign.org/",
+      "icon": "https://www.freelogodesign.org/favicon.ico"
+    }
+  ],
+  "avatarMaker": [
+    {
+      "name": "Avatar Maker",
+      "url": "https://avatarmaker.com/",
+      "icon": "https://avatarmaker.com/favicon.ico"
+    }
+  ],
+  "colorWheel": [
+    {
+      "name": "Color Calculator",
+      "url": "https://www.sessions.edu/color-calculator/",
+      "icon": "https://www.sessions.edu/wp-content/uploads/cropped-sessions-icon-32x32.png"
+    },
+    {
+      "name": "Adobe Color",
+      "url": "https://color.adobe.com/create/color-wheel",
+      "icon": "https://color.adobe.com/favicon.ico"
+    }
+  ],
+  "prototype": [
+    {
+      "name": "Moqups",
+      "url": "https://moqups.com/",
+      "icon": "https://moqups.com/favicon.ico"
+    },
+    {
+      "name": "Proto.io",
+      "url": "https://proto.io/",
+      "icon": "https://proto.io/favicon.ico"
+    }
+  ]
+}

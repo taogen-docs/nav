@@ -5,5 +5,92 @@
       "url": "https://www.jdoodle.com/code-online-compiler-ide",
       "icon": "https://dillinger.io/favicon.ico"
     }
+  ],
+  "frontendEditor": [
+    {
+      "name": "CodePen",
+      "url": "https://codepen.io/",
+      "icon": "https://codepen.io/favicon.ico"
+    },
+    {
+      "name": "CodeSandbox",
+      "url": "https://codesandbox.io/",
+      "icon": "https://codesandbox.io/favicon.ico"
+    },
+    {
+      "name": "StackBlitz",
+      "url": "https://stackblitz.com/",
+      "icon": "https://c.staticblitz.com/assets/favicon_sb-861fe1b85c0dc928750c62de15fed96fc75e57ee366bd937bad17a3938917b3f.svg"
+    }
+  ],
+  "regex": [
+    {
+      "name": "Regex101",
+      "url": "https://regex101.com/",
+      "icon": "https://regex101.com/static/assets/favicon.ico"
+    }
+  ],
+  "formatter": [
+    {
+      "name": "js-beautify",
+      "url": "https://beautifier.io/",
+      "icon": "https://beautifier.io/web/favicon.png"
+    },
+    {
+      "name": "JSON Formatter",
+      "url": "https://jsonformatter.curiousconcept.com/",
+      "icon": "https://jsonformatter.curiousconcept.com/icons/jf/favicon-32x32.g79xknzqx7c.png"
+    }
+  ],
+  "crypto": [
+    {
+      "name": "ASCII Table",
+      "url": "https://www.asciitable.com/",
+      "icon": "https://www.asciitable.com/favicon-32x32.png"
+    },
+    {
+      "name": "中文转换Unicode",
+      "url": "http://www.jsons.cn/unicode",
+      "icon": "http://www.jsons.cn/favicon.ico"
+    },
+    {
+      "name": "Hash and Encoding",
+      "url": "https://emn178.github.io/online-tools/",
+      "icon": "https://emn178.github.io/online-tools/favicon.ico"
+    },
+    {
+      "name": "md5解密",
+      "url": "https://pmd5.com/#html",
+      "icon": "https://pmd5.com/favicon.ico"
+    },
+    {
+      "name": "Base64 to Image",
+      "url": "https://codebeautify.org/base64-to-image-converter",
+      "icon": "https://codebeautify.org/img/cb.png"
+    },
+    {
+      "name": "加密解密 - The X",
+      "url": "https://the-x.cn/cryptography/Aes.aspx",
+      "icon": "https://the-x.cn/favicon.ico"
+    }
+  ],
+  "random": [
+    {
+      "name": "随机字符串 - w3cschool",
+      "url": "https://www.w3cschool.cn/tools/index?name=random",
+      "icon": "https://www.w3cschool.cn/favicon.ico"
+    }
+  ],
+  "others": [
+    {
+      "name": "Convert curl commands to code",
+      "url": "https://curlconverter.com/",
+      "icon": "https://curlconverter.com/favicon.ico"
+    },
+    {
+      "name": "UUID Generator",
+      "url": "https://www.uuidgenerator.net/",
+      "icon": "https://www.uuidgenerator.net/favicon.ico"
+    }
   ]
 }

@@ -60,6 +60,38 @@
       "icon": ""
     }
   ],
+  "serverless": [
+    {
+      "name": "AWS Lambda",
+      "url": "https://aws.amazon.com/lambda/",
+      "icon": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico"
+    },
+    {
+      "name": "Microsoft Azure Functions",
+      "url": "https://azure.microsoft.com/en-us/products/functions",
+      "icon": "https://azure.microsoft.com/favicon.ico"
+    },
+    {
+      "name": "Google Cloud Functions",
+      "url": "https://cloud.google.com/functions?hl=en",
+      "icon": "https://www.gstatic.com/devrel-devsite/prod/v0d244f667a3683225cca86d0ecf9b9b81b1e734e55a030bdcd3f3094b835c987/cloud/images/favicons/onecloud/favicon.ico"
+    },
+    {
+      "name": "Cloudflare Workers",
+      "url": "https://workers.cloudflare.com/",
+      "icon": "https://workers.cloudflare.com/favicon.ico"
+    },
+    {
+      "name": "Netlify Functions",
+      "url": "https://www.netlify.com/platform/core/functions/",
+      "icon": "https://www.netlify.com/favicon.ico"
+    },
+    {
+      "name": "Vercel Functions",
+      "url": "https://vercel.com/docs/functions/serverless-functions",
+      "icon": "https://assets.vercel.com/image/upload/front/favicon/vercel/32x32.png"
+    }
+  ],
   "cdn": [
     {
       "name": "Cloudflare",
@@ -215,6 +247,18 @@
       "name": "Bamboo",
       "url": "https://www.atlassian.com/software/bamboo",
       "icon": "https://www.atlassian.com/favicon.ico"
+    }
+  ],
+  "codeSourceRepo": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/",
+      "icon": "https://github.githubassets.com/favicons/favicon.svg"
+    },
+    {
+      "name": "GitLab",
+      "url": "https://about.gitlab.com/",
+      "icon": "https://about.gitlab.com/nuxt-images/ico/favicon.ico"
     }
   ]
 }

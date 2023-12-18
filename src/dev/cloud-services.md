@@ -28,6 +28,10 @@ const data = ref(newsData);
 
 <NavContainer :data="data.vps"/>
 
+### Serverless
+
+<NavContainer :data="data.serverless"/>
+
 ## CDN
 
 ### General CDN
@@ -58,3 +62,6 @@ const data = ref(newsData);
 
 <NavContainer :data="data.cicd"/>
 
+## Code Source Repositories
+
+<NavContainer :data="data.codeSourceRepo"/>

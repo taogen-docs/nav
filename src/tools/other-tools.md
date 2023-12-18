@@ -12,3 +12,22 @@ const data = ref(newsData);
 
 <NavContainer :data="data.torrentSearch"/>
 
+## eBook Download
+
+<NavContainer :data="data.ebookDownload"/>
+
+## Video Downloader
+
+<NavContainer :data="data.videoDownloader"/>
+
+## Software Download
+
+<NavContainer :data="data.softwareDownload"/>
+
+## Wallpaper
+
+<NavContainer :data="data.wallpaper"/>
+
+## Symbols
+
+<NavContainer :data="data.symbols"/>

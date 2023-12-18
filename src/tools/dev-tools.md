@@ -11,3 +11,27 @@ const data = ref(newsData);
 ## Editor Online
 
 <NavContainer :data="data.editorOnline"/>
+
+## Frontend Editor
+
+<NavContainer :data="data.frontendEditor"/>
+
+## Regex
+
+<NavContainer :data="data.regex"/>
+
+## Formatter
+
+<NavContainer :data="data.formatter"/>
+
+## Crypto
+
+<NavContainer :data="data.crypto"/>
+
+## Random
+
+<NavContainer :data="data.random"/>
+
+## Others
+
+<NavContainer :data="data.others"/>
