@@ -116,6 +116,10 @@ function sidebarDev(): DefaultTheme.SidebarItem[] {
             text: 'Web Frontend',
             items: [
                 {
+                    text: 'Web Frontend Technologies',
+                    link: '/dev/web-frontend/web-frontend-technologies.md',
+                },
+                {
                     text: 'Icon Resources',
                     link: '/dev/web-frontend/icon-resources.md',
                 },

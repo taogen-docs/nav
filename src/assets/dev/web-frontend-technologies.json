@@ -1,0 +1,196 @@
+{
+  "general": [
+    {
+      "name": "Frontend Roadmap",
+      "url": "https://roadmap.sh/frontend",
+      "icon": "https://roadmap.sh/manifest/favicon.ico"
+    }
+  ],
+  "packageManagement": [
+    {
+      "name": "npm",
+      "url": "https://www.npmjs.com/",
+      "icon": "https://static-production.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png"
+    },
+    {
+      "name": "Yarn",
+      "url": "https://yarnpkg.com/",
+      "icon": "https://yarnpkg.com/img/yarn-favicon.svg"
+    },
+    {
+      "name": "pnpm",
+      "url": "https://pnpm.io/",
+      "icon": "https://pnpm.io/img/favicon.png"
+    }
+  ],
+  "jsFrameworks": [
+    {
+      "name": "React",
+      "url": "https://react.dev/",
+      "icon": "https://react.dev/favicon.ico"
+    },
+    {
+      "name": "Vue.js",
+      "url": "https://vuejs.org/",
+      "icon": "https://vuejs.org/logo.svg"
+    },
+    {
+      "name": "Angular",
+      "url": "https://angular.io/",
+      "icon": "https://angular.io/assets/images/favicons/favicon.ico"
+    }
+  ],
+  "jsLightFrameworks": [
+    {
+      "name": "Svelte",
+      "url": "https://svelte.dev/",
+      "icon": "https://svelte.dev/favicon.png"
+    },
+    {
+      "name": "Solid JS",
+      "url": "https://www.solidjs.com/",
+      "icon": "https://www.solidjs.com/img/favicons/favicon-32x32.png"
+    },
+    {
+      "name": "Qwik",
+      "url": "https://qwik.builder.io/",
+      "icon": "https://qwik.builder.io/favicons/favicon.svg"
+    }
+  ],
+  "cssFrameworks": [
+    {
+      "name": "Tailwind",
+      "url": "https://tailwindcss.com/",
+      "icon": "https://tailwindcss.com/favicons/favicon.ico"
+    },
+    {
+      "name": "Radix UI",
+      "url": "https://www.radix-ui.com/",
+      "icon": "https://www.radix-ui.com/favicon-black.svg"
+    },
+    {
+      "name": "Shadcn UI",
+      "url": "https://ui.shadcn.com/",
+      "icon": "https://ui.shadcn.com/favicon.ico"
+    }
+  ],
+  "buildTools": {
+    "moduleBundlers": [
+      {
+        "name": "vite",
+        "url": "https://vitejs.dev/",
+        "icon": "https://vitejs.dev/logo.svg"
+      },
+      {
+        "name": "esbuild",
+        "url": "https://esbuild.github.io/",
+        "icon": "https://esbuild.github.io/favicon.svg"
+      }
+    ],
+    "taskRunners": [
+      {
+        "name": "npm scripts",
+        "url": "https://docs.npmjs.com/cli/v10/using-npm/scripts",
+        "icon": "https://docs.npmjs.com/favicon-32x32.png"
+      }
+    ],
+    "lintersAndFormatters": [
+      {
+        "name": "Prettier",
+        "url": "https://prettier.io/",
+        "icon": "https://prettier.io/icon.png"
+      },
+      {
+        "name": "ESLint",
+        "url": "https://eslint.org/",
+        "icon": "https://eslint.org/favicon.ico"
+      }
+    ]
+  },
+  "testing": [
+    {
+      "name": "Vitest",
+      "url": "https://vitest.dev/",
+      "icon": "https://vitest.dev/favicon.ico"
+    },
+    {
+      "name": "Playwright",
+      "url": "https://playwright.dev/",
+      "icon": "https://playwright.dev/img/playwright-logo.svg"
+    }
+  ],
+  "typeCheckers": [
+    {
+      "name": "TypeScript",
+      "url": "https://www.typescriptlang.org/",
+      "icon": "https://www.typescriptlang.org/favicon-32x32.png"
+    }
+  ],
+  "serverSideRendering": [
+    {
+      "name": "Next.js",
+      "url": "https://nextjs.org/",
+      "icon": "https://nextjs.org/favicon.ico"
+    },
+    {
+      "name": "Remix",
+      "url": "https://remix.run/",
+      "icon": "https://remix.run/favicon-32.png"
+    }
+  ],
+  "httpRequest": [
+    {
+      "name": "Axios",
+      "url": "https://axios-http.com/docs/intro",
+      "icon": "https://axios-http.com/assets/favicon.ico"
+    }
+  ],
+  "graphql": [
+    {
+      "name": "Apollo",
+      "url": "https://www.apollographql.com/",
+      "icon": "https://www.apollographql.com/favicon/favicon-32x32.png"
+    },
+    {
+      "name": "Relay",
+      "url": "https://relay.dev/",
+      "icon": "https://relay.dev/img/favicon.png"
+    }
+  ],
+  "staticSiteGenerators": [
+    {
+      "name": "Astro",
+      "url": "https://astro.build/",
+      "icon": "https://astro.build/favicon.svg"
+    },
+    {
+      "name": "VitePress",
+      "url": "https://vitepress.dev/",
+      "icon": "https://vitepress.dev/vitepress-logo-mini.svg"
+    },
+    {
+      "name": "Hexo",
+      "url": "https://hexo.io/index.html",
+      "icon": "https://hexo.io/icon/favicon-32x32.png"
+    }
+  ],
+  "mobileApplications": [
+    {
+      "name": "React Native",
+      "url": "https://reactnative.dev/",
+      "icon": "https://reactnative.dev/img/header_logo.svg"
+    },
+    {
+      "name": "Flutter",
+      "url": "https://flutter.dev/",
+      "icon": "https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png"
+    }
+  ],
+  "desktopApplications": [
+    {
+      "name": "Electron",
+      "url": "https://www.electronjs.org/",
+      "icon": "https://www.electronjs.org/assets/img/favicon.ico"
+    }
+  ]
+}
