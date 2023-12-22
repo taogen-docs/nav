@@ -8,9 +8,25 @@ const data = ref(newsData);
 
 # Other Tools
 
-## Torrent Search
+## Torrent Download
 
-<NavContainer :data="data.torrentSearch"/>
+### Torrent Download for Free
+
+<NavContainer :data="data.torrentDownloadFree"/>
+
+Torrent Download by Login
+
+<NavContainer :data="data.torrentDownloadLogin"/>
+
+## Subtitle Download
+
+### Movie Subtitle Download
+
+<NavContainer :data="data.movieSubtitleDownload"/>
+
+### YouTube Subtitle Download
+
+<NavContainer :data="data.youtubeSubtitleDownload"/>
 
 ## eBook Download
 

@@ -1,5 +1,5 @@
 {
-  "torrentSearch": [
+  "torrentDownloadFree": [
     {
       "name": "The Pirate Bay",
       "url": "https://thepiratebay.org/",
@@ -7,13 +7,8 @@
     },
     {
       "name": "RARBG",
-      "url": "https://rargb.to/",
+      "url": "https://rarbg.tw/",
       "icon": "https://rargb.to/favicon.ico"
-    },
-    {
-      "name": "1377x",
-      "url": "https://www.1377x.to/",
-      "icon": "https://1377x.to/favicon.ico"
     },
     {
       "name": "YTS",
@@ -29,6 +24,30 @@
       "name": "BT4G",
       "url": "https://bt4gprx.com/",
       "icon": "https://bt4gprx.com/static/favicon.ico"
+    }
+  ],
+  "movieSubtitleDownload": [
+    {
+      "name": "SubHD",
+      "url": "https://subhd.tv/",
+      "icon": "https://img.huo720.com/favicon-32x32.png"
+    },
+    {
+      "name": "Subscene",
+      "url": "https://subscene.com/",
+      "icon": "https://subscene.com/favicon.ico"
+    },
+    {
+      "name": "YIFY Subtitles",
+      "url": "https://yifysubtitles.org/",
+      "icon": "https://yifysubtitles.org/favicon.ico"
+    }
+  ],
+  "youtubeSubtitleDownload": [
+    {
+      "name": "DownSub",
+      "url": "https://downsub.com/",
+      "icon": "https://downsub.com/favicon.ico"
     }
   ],
   "ebookDownload": [
