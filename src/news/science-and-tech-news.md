@@ -8,14 +8,11 @@ const data = ref(newsData);
 
 # Science and Technology News
 
-## General
+## Technology News
 
-<NavContainer :data="data.general"/>
+<NavContainer :data="data.technology"/>
 
 ## Science News
 
 <NavContainer :data="data.science"/>
 
-## Technology News
-
-<NavContainer :data="data.technology"/>
