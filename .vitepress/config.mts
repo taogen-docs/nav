@@ -70,6 +70,10 @@ function sidebarNews(): DefaultTheme.SidebarItem[] {
             link: '/news/business-and-finance-news.md',
         },
         {
+            text: 'Science & Tech News',
+            link: '/news/science-and-tech-news.md',
+        },
+        {
             text: 'Product & Design News',
             link: '/news/product-and-design-news.md',
         },
@@ -77,6 +81,10 @@ function sidebarNews(): DefaultTheme.SidebarItem[] {
             text: 'Dev News',
             link: '/news/dev-news.md',
         },
+        {
+            text: 'Self Improvement',
+            link: '/news/self-improvement.md',
+        }
     ]
 }
 
@@ -175,6 +183,10 @@ function sidebarEntertainment(): DefaultTheme.SidebarItem[] {
         {
             text: 'Music',
             link: '/entertainment/music.md',
+        },
+        {
+            text: 'Talk',
+            link: '/entertainment/talk.md'
         },
         {
             text: 'Social Media',

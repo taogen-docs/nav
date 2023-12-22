@@ -12,3 +12,6 @@ const data = ref(newsData);
 
 <NavContainer :data="data.musicStreaming"/>
 
+## Classical Music
+
+<NavContainer :data="data.classicalMusic"/>

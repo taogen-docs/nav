@@ -1,0 +1,29 @@
+{
+  "general": [
+    {
+      "name": "TED",
+      "url": "https://www.ted.com/",
+      "icon": "https://pa.tedcdn.com/favicon.ico"
+    },
+    {
+      "name": "网易公开课",
+      "url": "http://open.163.com/",
+      "icon": "https://c.open.163.com/favicon.ico"
+    },
+    {
+      "name": "一席",
+      "url": "http://yixi.tv/",
+      "icon": ""
+    },
+    {
+      "name": "听道",
+      "url": "http://www.tndao.com/",
+      "icon": ""
+    },
+    {
+      "name": "格致论道",
+      "url": "http://www.gzlun.com/",
+      "icon": "http://www.self.org.cn/images/favicon.jpg"
+    }
+  ]
+}

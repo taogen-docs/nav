@@ -4,6 +4,21 @@
       "name": "Twitter",
       "url": "http://www.twitter.com/",
       "icon": "https://abs.twimg.com/favicons/twitter.3.ico"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/",
+      "icon": "https://www.redditstatic.com/shreddit/assets/favicon/64x64.png"
+    },
+    {
+      "name": "Quora",
+      "url": "https://www.quora.com/",
+      "icon": "https://qsf.fs.quoracdn.net/-4-ans_frontend_assets.favicon-new.ico-26-e7e93fe0a7fbc991.ico"
+    },
+    {
+      "name": "Wiki How",
+      "url": "https://www.wikihow.com/",
+      "icon": "https://www.wikihow.com/favicon_round.ico"
     }
   ],
   "videoSharing": [
@@ -16,8 +31,8 @@
   "photoSharing": [
     {
       "name": "Instagram",
-        "url": "http://www.instagram.com/",
-        "icon": "https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico"
+      "url": "http://www.instagram.com/",
+      "icon": "https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico"
     }
   ]
 }

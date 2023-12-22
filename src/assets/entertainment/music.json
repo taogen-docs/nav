@@ -10,5 +10,17 @@
       "url": "https://music.youtube.com",
       "icon": "https://www.gstatic.com/youtube/media/ytm/images/applauncher/music_icon_144x144.png"
     }
+  ],
+  "classicalMusic": [
+    {
+      "name": "idagio",
+      "url": "https://app.idagio.com",
+      "icon": "https://d4nzi95f4llxl.cloudfront.net/named-71d9483bd4e768909d0af177745c2f5d-favicon.svg"
+    },
+    {
+      "name": "muzikair",
+      "url": "https://muzikair.com",
+      "icon": "https://www.muzikair.com/favicon/favicon.png"
+    }
   ]
 }

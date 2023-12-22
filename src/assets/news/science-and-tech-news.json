@@ -1,0 +1,77 @@
+{
+  "general": [],
+  "science": [
+    {
+      "name": "NewScientist",
+      "url": "https://www.newscientist.com/",
+      "icon": "https://www.newscientist.com/build/images/layup/new-sci-favicon.d65b52af.ico"
+    },
+    {
+      "name": "Scientific American",
+      "url": "https://www.scientificamerican.com/",
+      "icon": "https://www.scientificamerican.com/account/sciam-favicon.ico"
+    },
+    {
+      "name": "Nature",
+      "url": "https://www.nature.com/",
+      "icon": "https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png"
+    },
+    {
+      "name": "Science",
+      "url": "https://www.sciencemag.org/",
+      "icon": "https://www.sciencemag.org/favicon.ico"
+    },
+    {
+      "name": "Discover",
+      "url": "https://www.discovermagazine.com/",
+      "icon": "https://www.discovermagazine.com/assets/favicon/favicon32.png"
+    },
+    {
+      "name": "National Geographic",
+      "url": "https://www.nationalgeographic.com/",
+      "icon": "https://assets-cdn.nationalgeographic.com/natgeo/static/icons/favicon.ico"
+    }
+  ],
+  "technology": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/",
+      "icon": "https://www.theverge.com/icons/favicon.ico"
+    },
+    {
+      "name": "Engadget",
+      "url": "https://www.engadget.com/",
+      "icon": "https://s.yimg.com/cv/apiv2/engadget/engadget-favicon-32x32.png"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/",
+      "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
+    },
+    {
+      "name": "极客公园",
+      "url": "https://www.geekpark.net/",
+      "icon": "https://imgslim.geekpark.net/geekpark-icon-196-black.png"
+    },
+    {
+      "name": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/",
+      "icon": "https://static.cnbetacdn.com/favicon.ico"
+    },
+    {
+      "name": "奇客Solidot",
+      "url": "https://www.solidot.org/",
+      "icon": "https://www.solidot.org/favicon.ico"
+    },
+    {
+      "name": "爱范儿",
+      "url": "https://www.ifanr.com/",
+      "icon": "https://images.ifanr.cn/wp-content/themes/ifanr-5.0-pc/static/images/favicon.ico"
+    },
+    {
+      "name": "ZEALER",
+      "url": "https://www.zealer.com/",
+      "icon": "https://www.zealer.com/favicon.ico"
+    }
+  ]
+}

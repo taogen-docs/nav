@@ -16,3 +16,10 @@ const data = ref(newsData);
 
 <NavContainer :data="data.watchMovie"/>
 
+## Documentary
+
+<NavContainer :data="data.documentary"/>
+
+## Animation
+
+<NavContainer :data="data.animation"/>
