@@ -47,3 +47,7 @@ Torrent Download by Login
 ## Symbols
 
 <NavContainer :data="data.symbols"/>
+
+## Speed Test
+
+<NavContainer :data="data.speedTest"/>

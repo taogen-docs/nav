@@ -164,5 +164,17 @@
       "url": "https://coolsymbol.com/",
       "icon": "https://coolsymbol.com/favicon.png"
     }
+  ],
+  "speedTest": [
+    {
+      "name": "Ookla Speed Test",
+      "url": "https://www.speedtest.net",
+      "icon": "https://www.speedtest.net/favicon.ico"
+    },
+    {
+      "name": "测速网",
+      "url": "https://www.speedtest.cn/",
+      "icon": "https://www.speedtest.cn/images/ico/favicon.png"
+    }
   ]
 }
