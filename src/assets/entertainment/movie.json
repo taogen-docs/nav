@@ -29,6 +29,26 @@
       "name": "MVCAT",
       "url": "https://www.mvcat.com/",
       "icon": "https://www.mvcat.com/img/logo_appicon.png"
+    },
+    {
+      "name": "豆瓣2023年度电影榜单",
+      "url": "https://movie.douban.com/annual/2023/",
+      "icon": "https://www.douban.com/favicon.ico"
+    },
+    {
+      "name": "Best of 2023 - NYT",
+      "url": "https://www.nytimes.com/spotlight/best-of",
+      "icon": "https://www.nytimes.com/favicon.ico"
+    },
+    {
+      "name": "Best Movies 2023 - Rotten Tomatoes",
+      "url": "https://editorial.rottentomatoes.com/guide/best-2023-movies/",
+      "icon": "https://www.rottentomatoes.com/assets/pizza-pie/images/icons/tomatometer/tomatometer-fresh.149b5e8adc3.svg"
+    },
+    {
+      "name": "Best 20 Movies of 2023 - IMDb",
+      "url": "https://www.imdb.com/list/ls576754431/",
+      "icon": "https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/favicon_desktop_32x32._CB1582158068_.png"
     }
   ],
   "watchMovie": [
