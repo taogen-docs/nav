@@ -115,6 +115,10 @@ function sidebarDev(): DefaultTheme.SidebarItem[] {
             text: 'Backend',
             items: [
                 {
+                    text: 'Java Technologies',
+                    link: '/dev/backend/java-technologies.md'
+                },
+                {
                     text: 'Cloud Services',
                     link: '/dev/cloud-services.md',
                 },

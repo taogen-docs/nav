@@ -1,0 +1,305 @@
+{
+  "utilities": {
+    "general": [
+      {
+        "name": "Google Guava"
+      },
+      {
+        "name": "Apache Commons Lang"
+      },
+      {
+        "name": "Hutool"
+      }
+    ],
+    "parser": {
+      "jsonParser": [
+        {
+          "name": "Google GSON"
+        },
+        {
+          "name": "Jackson"
+        },
+        {
+          "name": "org.json"
+        }
+      ],
+      "xmlParser": [
+      ],
+      "htmlParser": [
+        {
+          "name": "Jsoup"
+        }
+      ]
+    },
+    "io": [
+      {
+        "name": "Apache Commons IO"
+      }
+    ],
+    "fileHandling": {
+      "document": [
+        {
+          "name": "Apache POI"
+        },
+        {
+          "name": "Gotenberg"
+        }
+      ],
+      "pdf": [
+        {
+          "name": "Apache PDFBox"
+        }
+      ]
+    },
+    "httpClient": [
+      {
+        "name": "JDK HttpURLConnection"
+      },
+      {
+        "name": "Java 9 HttpClient"
+      },
+      {
+        "name": "OkHttp"
+      },
+      {
+        "name": "Spring - RestTemplate"
+      },
+      {
+        "name": "Spring - RestClient"
+      }
+    ],
+    "schedule": [
+      {
+        "name": "Quartz"
+      },
+      {
+        "name": "Spring - TaskScheduler"
+      }
+    ],
+    "workFlow": [
+      {
+        "name": "Activiti"
+      }
+    ],
+    "logging": [
+      {
+        "name": "Apache Log4j2"
+      },
+      {
+        "name": "Logback"
+      },
+      {
+        "name": "SLF4J"
+      }
+    ],
+    "testing": [
+      {
+        "name": "JUnit"
+      },
+      {
+        "name": "TestNG"
+      },
+      {
+        "name": "Mockito"
+      }
+    ],
+    "others": [
+      {
+        "name": "Lombok"
+      },
+      {
+        "name": "MapStruct",
+        "url": "https://mapstruct.org/",
+        "icon": "https://mapstruct.org/images/favicon.ico",
+        "desc": "MapStruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention over configuration approach."
+      }
+    ]
+  },
+  "dataAccess": {
+    "cache": [
+      {
+        "name": "Guava Cache"
+      },
+      {
+        "name": "Guava Cache"
+      },
+      {
+        "name": "Memcached"
+      },
+      {
+        "name": "Jedis"
+      },
+      {
+        "name": "Redisson"
+      },
+      {
+        "name": "Lettuce"
+      },
+      {
+        "name": "Spring Data Redis"
+      }
+    ],
+    "connectionPool": [
+      {
+        "name": "HikariCP"
+      },
+      {
+        "name": "Druid"
+      }
+    ],
+    "orm": [
+      {
+        "name": "MyBatis"
+      },
+      {
+        "name": "MyBatis Plus"
+      },
+      {
+        "name": "Hibernate"
+      },
+      {
+        "name": "Spring Data JPA"
+      }
+    ],
+    "searchEngine": [
+      {
+        "name": "Spring Data Elasticserach"
+      }
+    ]
+  },
+  "webDevelopment": {
+    "webServer": [
+      {
+        "name": "Nginx"
+      },
+      {
+        "name": "Apache Tomcat"
+      },
+      {
+        "name": "Jetty"
+      },
+      {
+        "name": "Undertow"
+      }
+    ],
+    "webFramework": [
+      {
+        "name": "Spring Boot"
+      }
+    ],
+    "webSecurity": [
+      {
+        "name": "Spring Security"
+      }
+    ],
+    "webApi": [
+      {
+        "name": "Swagger"
+      }
+    ]
+  },
+  "networkPrograming": {
+    "socket": [
+      {
+        "name": "Netty"
+      },
+      {
+        "name": "Apache MINA"
+      }
+    ],
+    "webSocket": [
+      {
+        "name": "Spring WebSockets support"
+      }
+    ],
+    "rpc": [
+      {
+        "name": "Web Service"
+      },
+      {
+        "name": "Apache Thrift"
+      },
+      {
+        "name": "gRPC"
+      }
+    ]
+  },
+  "middleware": {
+    "database": {
+      "inMemoryDatabase": [
+        {
+          "name": "H2"
+        }
+      ],
+      "cache": [
+        {
+          "name": "Redis"
+        },
+        {
+          "name": "MongoDB"
+        }
+      ],
+      "rdbms": [
+        {
+          "name": "MySQL"
+        },
+        {
+          "name": "PostgreSQL"
+        },
+        {
+          "name": "Oracle"
+        }
+      ],
+      "olap": [
+        {
+          "name": "Apache Doris"
+        },
+        {
+          "name": "StarRocks"
+        },
+        {
+          "name": "ClickHouse"
+        },
+        {
+          "name": "Greenplum",
+          "desc": "Based on PostgreSQL"
+        },
+        {
+          "name": "Apache Kylin"
+        }
+      ],
+      "oltp": [
+        {
+          "name": "TiDB"
+        },
+        {
+          "name": "OceanBase"
+        }
+      ],
+      "searchEngine": [
+        {
+          "name": "Elasticsearch"
+        }
+      ]
+    },
+    "messageQueue": [
+      {
+        "name": "RabbitMQ"
+      },
+      {
+        "name": "Apache Kafka"
+      },
+      {
+        "name": "Apache RocketMQ"
+      }
+    ]
+  },
+  "performance": [
+    {
+      "name": "JVM"
+    },
+    {
+      "name": "SQL"
+    }
+  ]
+}
