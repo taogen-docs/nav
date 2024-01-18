@@ -5,6 +5,21 @@
     "icon": "https://www.economist.com/favicon.ico"
   },
   {
+    "name": "The Economist - Business",
+    "url": "https://www.economist.com/business",
+    "icon": "https://www.economist.com/favicon.ico"
+  },
+  {
+    "name": "The Economist - Finance & economics",
+    "url": "https://www.economist.com/finance-and-economics",
+    "icon": "https://www.economist.com/favicon.ico"
+  },
+  {
+    "name": "The Economist - China",
+    "url": "https://www.economist.com/topics/china",
+    "icon": "https://www.economist.com/favicon.ico"
+  },
+  {
     "name": "The New York Times",
     "url": "https://www.nytimes.com/",
     "icon": "https://www.nytimes.com/favicon.ico"
