@@ -202,6 +202,10 @@ function sidebarEntertainment(): DefaultTheme.SidebarItem[] {
 function sidebarTools(): DefaultTheme.SidebarItem[] {
     return [
         {
+            text: 'AI Tools',
+            link: '/tools/ai-tools.md',
+        },
+        {
             text: 'Office Tools',
             link: '/tools/office-tools.md',
         },

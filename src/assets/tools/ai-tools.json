@@ -1,0 +1,15 @@
+{
+  "aiChatbot": [
+    {
+      "name": "ChatGPT",
+      "url": "https://chat.openai.com/",
+      "icon": "https://cdn.oaistatic.com/_next/static/media/favicon-32x32.be48395e.png"
+    },
+    {
+      "name": "Google Bard",
+      "url": "https://bard.google.com/chat",
+      "icon": "https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg",
+      "desc": "Integration with Google apps"
+    }
+  ]
+}
