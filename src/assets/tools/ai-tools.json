@@ -10,6 +10,12 @@
       "url": "https://bard.google.com/chat",
       "icon": "https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg",
       "desc": "Integration with Google apps"
+    },
+    {
+      "name": "Poe",
+      "url": "https://poe.com/",
+      "icon": "https://psc2.cf2.poecdn.net/assets/favicon.svg",
+      "desc": "Collection of chatbots"
     }
   ]
 }
