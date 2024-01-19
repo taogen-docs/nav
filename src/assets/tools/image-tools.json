@@ -11,6 +11,11 @@
       "name": "TinyPNG",
       "url": "https://tinypng.com/",
       "icon": "https://tinypng.com/images/favicon.ico"
+    },
+    {
+      "name": "Squoosh",
+      "url": "https://squoosh.app/",
+      "icon": "https://squoosh.app/c/favicon-c9cf50ef.ico"
     }
   ],
   "ocr": [
