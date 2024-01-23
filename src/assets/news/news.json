@@ -23,5 +23,15 @@
     "name": "The New York Times",
     "url": "https://www.nytimes.com/",
     "icon": "https://www.nytimes.com/favicon.ico"
+  },
+  {
+    "name": "The New York Times - Asia",
+    "url": "https://www.nytimes.com/section/world/asia",
+    "icon": "https://www.nytimes.com/favicon.ico"
+  },
+  {
+    "name": "The New York Times - Business",
+    "url": "https://www.nytimes.com/section/business",
+    "icon": "https://www.nytimes.com/favicon.ico"
   }
 ]
