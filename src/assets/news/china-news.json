@@ -1,22 +1,26 @@
-[
-  {
-    "name": "The Economist - China",
-    "url": "https://www.economist.com/topics/china",
-    "icon": "https://www.economist.com/favicon.ico"
-  },
-  {
-    "name": "纽约时报中文网 - 中国",
-    "url": "https://cn.nytimes.com/china/",
-    "icon": "https://www.nytimes.com/favicon.ico"
-  },
-  {
-    "name": "WSJ - China",
-    "url": "https://www.wsj.com/world/china",
-    "icon": "https://www.wsj.com/favicon.ico"
-  },
-  {
-    "name": "BBC News - China",
-    "url": "https://www.bbc.com/news/world/asia/china",
-    "icon": "https://www.bbc.com/favicon.ico"
-  }
-]
+{
+  "macro": [
+    {
+      "name": "The Economist - China",
+      "url": "https://www.economist.com/topics/china",
+      "icon": "https://www.economist.com/favicon.ico"
+    },
+    {
+      "name": "WSJ - China",
+      "url": "https://www.wsj.com/world/china",
+      "icon": "https://www.wsj.com/favicon.ico"
+    }
+  ],
+  "micro": [
+    {
+      "name": "纽约时报中文网 - 中国",
+      "url": "https://cn.nytimes.com/china/",
+      "icon": "https://www.nytimes.com/favicon.ico"
+    },
+    {
+      "name": "BBC News - China",
+      "url": "https://www.bbc.com/news/world/asia/china",
+      "icon": "https://www.bbc.com/favicon.ico"
+    }
+  ]
+}

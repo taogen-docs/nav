@@ -8,4 +8,10 @@ const data = ref(newsData);
 
 # China News
 
-<NavContainer :data="data"/>
+## Macro
+
+<NavContainer :data="data.macro"/>
+
+## Micro
+
+<NavContainer :data="data.micro"/>
