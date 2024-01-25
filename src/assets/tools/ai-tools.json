@@ -15,7 +15,13 @@
       "name": "Poe",
       "url": "https://poe.com/",
       "icon": "https://psc2.cf2.poecdn.net/assets/favicon.svg",
-      "desc": "Collection of chatbots"
+      "desc": "Collection of chatbots. Open AI: GPT 3.5, GPT 4, DALL-E-3(image generation). Anthropic: Claude. Google: PaLM 2, Gemini. Meta: LIama-2."
+    },
+    {
+      "name": "Microsoft Copilot",
+      "url": "https://copilot.microsoft.com/",
+      "icon": "https://copilot.microsoft.com/sa/simg/favicon-cplt.ico",
+      "desc": "Web search only."
     }
   ]
 }
