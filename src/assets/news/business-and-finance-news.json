@@ -11,7 +11,44 @@
       "icon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-192x192.png?v=2023-11"
     }
   ],
+  "economyFinance": [
+    {
+      "name": "The Economist - Finance & economics",
+      "url": "https://www.economist.com/finance-and-economics",
+      "icon": "https://www.economist.com/favicon.ico"
+    },
+    {
+      "name": "The New York Times - Economy",
+      "url": "https://www.nytimes.com/section/business/economy",
+      "icon": "https://www.nytimes.com/favicon.ico"
+    },
+    {
+      "name": "WSJ - Economy",
+      "url": "https://www.wsj.com/economy",
+      "icon": "https://www.wsj.com/favicon.ico"
+    },
+    {
+      "name": "WSJ - Finance",
+      "url": "https://www.wsj.com/finance",
+      "icon": "https://www.wsj.com/favicon.ico"
+    }
+  ],
   "business": [
+    {
+      "name": "The Economist - Business",
+      "url": "https://www.economist.com/business",
+      "icon": "https://www.economist.com/favicon.ico"
+    },
+    {
+      "name": "The New York Times - Business",
+      "url": "https://www.nytimes.com/section/business",
+      "icon": "https://www.nytimes.com/favicon.ico"
+    },
+    {
+      "name": "WSJ - Business",
+      "url": "https://www.wsj.com/business",
+      "icon": "https://www.wsj.com/favicon.ico"
+    },
     {
       "name": "Forbes",
       "url": "https://www.forbes.com/",

@@ -34,6 +34,16 @@
   ],
   "technology": [
     {
+      "name": "The Economist - Science & Technology",
+      "url": "https://www.economist.com/science-and-technology/",
+      "icon": "https://www.economist.com/favicon.ico"
+    },
+    {
+      "name": "WSJ - Tech",
+      "url": "https://www.wsj.com/tech",
+      "icon": "https://www.wsj.com/favicon.ico"
+    },
+    {
       "name": "The Verge",
       "url": "https://www.theverge.com/",
       "icon": "https://www.theverge.com/icons/favicon.ico"
@@ -47,6 +57,11 @@
       "name": "TechCrunch",
       "url": "https://techcrunch.com/",
       "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
+    },
+    {
+      "name": "Wired",
+      "url": "https://www.wired.com/",
+      "icon": "https://www.wired.com/verso/static/wired-homepage/assets/favicon.ico"
     },
     {
       "name": "极客公园",

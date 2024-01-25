@@ -66,6 +66,10 @@ function sidebarNews(): DefaultTheme.SidebarItem[] {
             link: '/news/news.md',
         },
         {
+            text: 'China News',
+            link: '/news/china-news.md',
+        },
+        {
             text: 'Business & Financial News',
             link: '/news/business-and-finance-news.md',
         },
