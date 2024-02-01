@@ -228,6 +228,10 @@ function sidebarTools(): DefaultTheme.SidebarItem[] {
         {
             text: 'Other Tools',
             link: '/tools/other-tools.md',
+        },
+        {
+            text: 'Proxy',
+            link: '/tools/proxy.md',
         }
     ]
 }

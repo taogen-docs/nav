@@ -1,0 +1,40 @@
+{
+  "vpnRecommend": [
+    {
+      "name": "性价比机场测速",
+      "url": "https://duangks.com/",
+      "icon": "https://duangks.com/favicon.ico"
+    },
+    {
+      "name": "Clash Sub",
+      "url": "https://clashsub.com/",
+      "icon": "https://clashsub.com/favicon.ico"
+    },
+    {
+      "name": "2023VPN分享",
+      "url": "https://2024vpn.net/",
+      "icon": "https://2024vpn.net/favicon.ico"
+    },
+    {
+      "name": "Kerry的学习笔记",
+      "url": "https://kerrynotes.com/",
+      "icon": "https://kerrynotes.com/favicon.ico"
+    },
+    {
+      "name": "Clash爱好者",
+      "url": "https://clashios.com/",
+      "icon": "https://clashios.com/favicon.ico"
+    }
+  ],
+  "vpn": [
+    {
+      "name": "ikuuu",
+      "url": "https://ikuuu.me/",
+      "icon": "https://ikuuu.me/favicon.ico"
+    },
+    {
+      "name": "悠兔",
+      "url": "https://youtu0.com/"
+    }
+  ]
+}
