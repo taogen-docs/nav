@@ -53,6 +53,11 @@
   ],
   "watchMovie": [
     {
+      "name": "星视界",
+      "url": "https://www.histar.tv/",
+      "icon": "https://www.histar.tv/favicon.ico"
+    },
+    {
       "name": "actvid",
       "url": "https://actvid.rs/",
       "icon": "https://actvid.rs/images/group_5/theme_1/favicon.png"
