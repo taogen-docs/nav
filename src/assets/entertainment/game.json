@@ -1,0 +1,19 @@
+{
+  "online": [
+    {
+      "name": "poki",
+      "url": "https://poki.com/",
+      "icon": "https://a.poki.com/img/favicon.ico"
+    },
+    {
+      "name": "Miniclip",
+      "url": "https://www.miniclip.com/",
+      "icon": "https://www.miniclip.com/favicon/favicon.ico"
+    },
+    {
+      "name": "Kongregate",
+      "url": "https://www.kongregate.com/",
+      "icon": "https://www.kongregate.com/favicon.ico"
+    }
+  ]
+}

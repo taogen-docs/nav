@@ -200,6 +200,10 @@ function sidebarEntertainment(): DefaultTheme.SidebarItem[] {
             text: 'Social Media',
             link: '/entertainment/social-media.md',
         },
+        {
+            text: 'Game',
+            link: '/entertainment/game.md',
+        },
     ]
 }
 
