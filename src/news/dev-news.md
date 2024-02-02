@@ -15,3 +15,7 @@ const data = ref(newsData);
 ## Web Frontend
 
 <NavContainer :data="data.webFrontend"/>
+
+## Mobile
+
+<NavContainer :data="data.mobile"/>

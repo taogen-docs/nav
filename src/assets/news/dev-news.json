@@ -62,5 +62,12 @@
       "url": "https://www.smashingmagazine.com/",
       "icon": "https://www.smashingmagazine.com/images/favicon/apple-touch-icon-ipad-76x76.png"
     }
+  ],
+  "mobile": [
+    {
+      "name": "XDA",
+      "url": "https://www.xda-developers.com/",
+      "icon": "https://www.xda-developers.com/public/build/images/favicon-48x48.8f822f21.png"
+    }
   ]
 }
