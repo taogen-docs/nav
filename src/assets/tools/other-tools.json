@@ -176,5 +176,12 @@
       "url": "https://www.speedtest.cn/",
       "icon": "https://www.speedtest.cn/images/ico/favicon.png"
     }
+  ],
+  "map": [
+    {
+      "name": "钉图",
+      "url": "http://jevent.cn/",
+      "icon": "http://jevent.cn/assets/imgs/favicon.ico"
+    }
   ]
 }

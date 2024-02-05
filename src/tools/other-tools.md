@@ -51,3 +51,7 @@ Torrent Download by Login
 ## Speed Test
 
 <NavContainer :data="data.speedTest"/>
+
+## Map
+
+<NavContainer :data="data.map"/>
