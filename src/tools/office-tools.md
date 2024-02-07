@@ -36,7 +36,7 @@ const data = ref(newsData);
 
 <NavContainer :data="data.todoList"/>
 
-## Note
+## Note-Taking
 
 <NavContainer :data="data.note"/>
 
