@@ -1,5 +1,5 @@
 {
-  "aiChatbot": [
+  "officialChatbot": [
     {
       "name": "ChatGPT",
       "url": "https://chat.openai.com/",
@@ -7,10 +7,18 @@
     },
     {
       "name": "Google Bard",
-      "url": "https://bard.google.com/chat",
+      "url": "https://gemini.google.com/app",
       "icon": "https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg",
       "desc": "Integration with Google apps"
     },
+    {
+      "name": "Microsoft Copilot",
+      "url": "https://copilot.microsoft.com/",
+      "icon": "https://copilot.microsoft.com/sa/simg/favicon-cplt.ico",
+      "desc": "Web search"
+    }
+  ],
+  "chatbotWrapper": [
     {
       "name": "Poe",
       "url": "https://poe.com/",
@@ -18,10 +26,16 @@
       "desc": "Collection of chatbots. Open AI: GPT 3.5, GPT 4, DALL-E-3(image generation). Anthropic: Claude. Google: PaLM 2, Gemini. Meta: LIama-2."
     },
     {
-      "name": "Microsoft Copilot",
-      "url": "https://copilot.microsoft.com/",
-      "icon": "https://copilot.microsoft.com/sa/simg/favicon-cplt.ico",
-      "desc": "Web search only."
+      "name": "Perplexity AI",
+      "url": "https://www.perplexity.ai/",
+      "icon": "https://www.perplexity.ai/favicon.svg",
+      "desc": "web search"
+    },
+    {
+      "name": "YouChat",
+      "url": "https://you.com/",
+      "icon": "https://you.com/favicon/favicon-32x32.png",
+      "desc": "web search"
     }
   ]
 }
