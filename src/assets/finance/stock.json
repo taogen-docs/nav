@@ -11,6 +11,11 @@
       "name": "Yahoo Finance",
       "url": "https://finance.yahoo.com/",
       "icon": "https://s.yimg.com/cv/apiv2/default/fp/20180826/icons/favicon_y19_32x32.ico"
+    },
+    {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/",
+      "icon": "https://www.investing.com/favicon.ico"
     }
   ],
   "trading": [
