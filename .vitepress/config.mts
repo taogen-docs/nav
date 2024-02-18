@@ -176,6 +176,14 @@ function sidebarFinance(): DefaultTheme.SidebarItem[] {
             link: '/finance/stock.md'
         },
         {
+            text: 'Fund',
+            link: '/finance/fund.md'
+        },
+        {
+            text: 'Bond',
+            link: '/finance/bond.md'
+        },
+        {
             text: 'Real Estate',
             link: '/finance/real-estate.md'
         }
