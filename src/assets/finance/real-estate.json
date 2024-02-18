@@ -1,0 +1,31 @@
+{
+  "analysis": [
+    {
+      "name": "中国房价行情",
+      "url": "https://www.creprice.cn/",
+      "icon": "https://www.creprice.cn/favicon.ico"
+    },
+    {
+      "name": "安居客-房价",
+      "url": "https://anjuke.com/market/",
+      "icon": "https://pages.anjukestatic.com/usersite/touch/img/favicon.ico"
+    },
+    {
+      "name": "房天下-查房价",
+      "url": "https://fangjia.fang.com/",
+      "icon": "https://fangjia.fang.com/favicon.ico"
+    },
+    {
+      "name": "城市房网-城市房价",
+      "url": "https://sh.cityhouse.cn/market/",
+      "icon": "https://image4.cityhouse.cn/images/favicon.ico"
+    }
+  ],
+  "tools": [
+    {
+      "name": "链家-房贷计算器",
+      "url": "https://nj.lianjia.com/tool.html",
+      "icon": "https://nj.lianjia.com/favicon.ico"
+    }
+  ]
+}
