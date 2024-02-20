@@ -16,6 +16,18 @@ const data = ref(newsData);
 
 <NavContainer :data="data.compression"/>
 
+## Upscale
+
+<NavContainer :data="data.upscale"/>
+
+## Remove Background
+
+<NavContainer :data="data.removeBackground"/>
+
 ## OCR
 
 <NavContainer :data="data.ocr"/>
+
+## Image to ICO
+
+<NavContainer :data="data.imageToIco"/>

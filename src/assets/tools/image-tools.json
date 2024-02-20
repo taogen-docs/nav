@@ -4,6 +4,11 @@
       "name": "JPG to PNG",
       "url": "https://jpg2png.com/",
       "icon": ""
+    },
+    {
+      "name": "Convert images to JPG - iLoveImag",
+      "url": "https://www.iloveimg.com/convert-to-jpg",
+      "icon": "https://www.iloveimg.com/img/favicons-img/favicon-16x16.png"
     }
   ],
   "compression": [
@@ -16,13 +21,38 @@
       "name": "Squoosh",
       "url": "https://squoosh.app/",
       "icon": "https://squoosh.app/c/favicon-c9cf50ef.ico"
+    },
+    {
+      "name": "Compress IMAGE - iLoveImg",
+      "url": "https://www.iloveimg.com/compress-image",
+      "icon": "https://www.iloveimg.com/img/favicons-img/favicon-16x16.png"
     }
+  ],
+  "upscale": [
+    {
+      "name": "Upscale Image - iLoveImg",
+      "url": "https://www.iloveimg.com/upscale-image",
+      "icon": "https://www.iloveimg.com/img/favicons-img/favicon-16x16.png"
+    }
+  ],
+  "removeBackground": [
   ],
   "ocr": [
     {
       "name": "Free OCR",
       "url": "https://www.free-ocr.com/",
       "icon": "https://www.free-ocr.com/favicon.ico"
+    }
+  ],
+  "imageToIco": [
+    {
+      "name": "ICO Convert",
+      "url": "https://icoconvert.com/"
+    },
+    {
+      "name": "Favicon 图标生成器",
+      "url": "https://quanxin.org/favicon",
+      "icon": "https://cdn.qx.redaz.cn/assets/images/web/favicon.ico"
     }
   ]
 }
