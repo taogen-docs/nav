@@ -1,0 +1,110 @@
+{
+  "challenge": [
+    {
+      "name": "Quine",
+      "url": "https://quine.sh/quests/creator",
+      "icon": "https://quine.sh/images/favicon.png",
+      "desc": "Creator Quests are open-source challenges happening every two weeks."
+    }
+  ],
+  "freelance": [
+    {
+      "name": "Fiverr",
+      "url": "https://www.fiverr.com/",
+      "icon": "https://www.fiverr.com/favicon.ico"
+    },
+    {
+      "name": "Upwork",
+      "url": "https://www.upwork.com/",
+      "icon": "https://www.upwork.com/favicon.ico"
+    },
+    {
+      "name": "Freelancer",
+      "url": "https://www.freelancer.com/",
+      "icon": "https://www.freelancer.com/favicon.ico"
+    },
+    {
+      "name": "Malt",
+      "url": "https://www.malt.com/",
+      "icon": "https://dam.malt.com/rebranding2020/malt-logo/icon-76x76"
+    },
+    {
+      "name": "TopTal",
+      "url": "https://www.toptal.com/",
+      "icon": "https://frontier-assets.toptal.com/1a81142b763d22a6d22d.png"
+    }
+  ],
+  "test": [
+    {
+      "name": "Trymata",
+      "url": "https://trymata.com/",
+      "icon": "https://trymata.com/wp-content/uploads/2022/09/cropped-Trymata-blog-logo-1000x1000-px-32x32.png"
+    },
+    {
+      "name": "UserTesting",
+      "url": "https://www.usertesting.com/",
+      "icon": "https://www.usertesting.com/themes/custom/usertesting/favicon.ico"
+    },
+    {
+      "name": "UserLytics",
+      "url": "https://www.userlytics.com/",
+      "icon": "https://cdn-gondp.nitrocdn.com/IPaHZHKKvWguZKsbNrZjfBCbFLrYbeBO/assets/images/optimized/rev-7f89645/www.userlytics.com/wp-content/uploads/2022/07/favicon.svg"
+    }
+  ],
+  "bugHunting": [
+    {
+      "name": "HackerOne",
+      "url": "https://www.hackerone.com/",
+      "icon": "https://www.hackerone.com/sites/default/files/favicon_0.ico"
+    },
+    {
+      "name": "BugCrowd",
+      "url": "https://www.bugcrowd.com/",
+      "icon": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png"
+    },
+    {
+      "name": "Microsoft Bug Bounty Program",
+      "url": "https://www.microsoft.com/en-us/msrc/bounty",
+      "icon": "https://www.microsoft.com/favicon.ico"
+    },
+    {
+      "name": "Apple Security Bounty",
+      "url": "https://security.apple.com/bounty/",
+      "icon": "https://security.apple.com/favicon.ico"
+    },
+    {
+      "name": "Google's Bug Hunting",
+      "url": "https://bughunters.google.com/",
+      "icon": "https://www.gstatic.com/bughunters/609295601/static/favicon.ico"
+    }
+  ],
+  "tutoring": [
+    {
+      "name": "Codementor",
+      "url": "https://www.codementor.io/freelance",
+      "icon": "https://assets.codementor.io/icons/favicon-32x32.png"
+    },
+    {
+      "name": "Superprof",
+      "url": "https://www.superprof.com/",
+      "icon": "https://www.superprof.com/favicon.ico"
+    },
+    {
+      "name": "Tutor",
+      "url": "https://tutorhouse.co.uk/a/coding",
+      "icon": "https://tutorhouse.co.uk/img/favicon.png"
+    }
+  ],
+  "digitalContent": [
+    {
+      "name": "Stan Store",
+      "url": "https://www.stan.store/",
+      "icon": "https://www.stan.store/favicon.ico"
+    },
+    {
+      "name": "SkillShare",
+      "url": "https://www.skillshare.com/",
+      "icon": "https://www.skillshare.com/favicon.ico"
+    }
+  ]
+}

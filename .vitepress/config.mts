@@ -150,6 +150,15 @@ function sidebarDev(): DefaultTheme.SidebarItem[] {
             ]
         },
         {
+            text: 'Side Hustles',
+            items: [
+                {
+                    text: 'Side Hustles',
+                    link: '/dev/side-hustles/side-hustles.md',
+                }
+            ]
+        },
+        {
             text: 'Others',
             items: [
                 {
