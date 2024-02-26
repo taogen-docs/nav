@@ -40,6 +40,12 @@
   ],
   "vps": [
     {
+      "name": "Amazon Lightsail",
+      "url": "https://aws.amazon.com/lightsail/",
+      "icon": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+      "desc": "Singapore"
+    },
+    {
       "name": "DigitalOcean",
       "url": "https://www.digitalocean.com/",
       "icon": "https://www.digitalocean.com/_next/static/media/favicon-32x32.b7ef9ede.png"
@@ -58,6 +64,28 @@
       "name": "BandwagonHost",
       "url": "https://bandwagonhost.com/",
       "icon": ""
+    },
+    {
+      "name": "RackNerd",
+      "url": "https://www.racknerd.com/",
+      "icon": "https://www.racknerd.com/favicon.ico"
+    },
+    {
+      "name": "CloudCone",
+      "url": "https://cloudcone.com/",
+      "icon": "https://cloudcone.com/favicon.ico"
+    },
+    {
+      "name": "vmiss",
+      "url": "https://www.vmiss.com/",
+      "icon": "https://www.vmiss.com/favicon.ico",
+      "desc": "Japan"
+    },
+    {
+      "name": "Just Host",
+      "url": "https://www.justhost.com/",
+      "icon": "https://www.justhost.com/favicon.ico",
+      "desc": "Japan"
     }
   ],
   "serverless": [
