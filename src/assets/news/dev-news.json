@@ -39,6 +39,23 @@
       "name": "Dev",
       "url": "https://dev.to/",
       "icon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+    }
+  ],
+  "generalCN": [
+    {
+      "name": "InfoQ 中文",
+      "url": "https://www.infoq.cn/hotlist?tag=day",
+      "icon": "https://static001.infoq.cn/static/infoq/www/img/share-default-5tgbiuhgfefgujjhg.png"
+    },
+    {
+      "name": "稀土掘金",
+      "url": "https://juejin.cn/",
+      "icon": "https://juejin.cn/favicon.ico"
+    },
+    {
+      "name": "SegmentFault思否",
+      "url": "https://segmentfault.com/blogs",
+      "icon": "https://static.segmentfault.com/main_site_next/c14b227c/favicon.ico"
     },
     {
       "name": "科技爱好者周刊",

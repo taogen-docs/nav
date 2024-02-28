@@ -10,7 +10,13 @@ const data = ref(newsData);
 
 ## General
 
+English
+
 <NavContainer :data="data.general"/>
+
+中文
+
+<NavContainer :data="data.generalCN"/>
 
 ## Web Frontend
 
