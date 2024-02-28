@@ -1,0 +1,37 @@
+{
+  "forum": [
+    {
+      "name": "V2EX",
+      "url": "https://v2ex.com",
+      "icon": "https://v2ex.com/favicon.ico"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com",
+      "icon": "https://www.redditstatic.com/shreddit/assets/favicon/64x64.png"
+    }
+  ],
+  "readArticles": [
+    {
+      "name": "Medium",
+      "url": "https://medium.com",
+      "icon": "https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png"
+    }
+  ],
+  "organizeNotes": [
+    {
+      "name": "Git Repositories"
+    },
+    {
+      "name": "Pocket - Read It Later"
+    }
+  ],
+  "readBooks": [
+    {
+      "name": "Kindle"
+    },
+    {
+      "name": "PDF"
+    }
+  ]
+}
