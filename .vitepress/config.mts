@@ -269,6 +269,10 @@ function sidebarTools(): DefaultTheme.SidebarItem[] {
             link: '/tools/dev-tools.md',
         },
         {
+            text: 'Network Tools',
+            link: '/tools/network-tools.md',
+        },
+        {
             text: 'Design Tools',
             link: '/tools/design-tools.md',
         },
