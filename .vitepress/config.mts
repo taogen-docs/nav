@@ -32,6 +32,7 @@ export default defineConfig({
             '/finance/': sidebarFinance(),
             '/relax/': sidebarRelax(),
             '/entertainment/': sidebarEntertainment(),
+            '/living/': sidebarLiving(),
             '/tools/': sidebarTools(),
         },
         logo: {src: '/logo.jpeg', width: 24, height: 24},
@@ -56,6 +57,7 @@ function nav(): DefaultTheme.NavItem[] {
         {text: 'Finance', link: '/finance/crypto.md', activeMatch: '/finance/'},
         {text: 'Relax', link: '/relax/relax.md', activeMatch: '/relax/'},
         {text: 'Entertainment', link: '/entertainment/movie.md', activeMatch: '/entertainment/'},
+        {text: 'Living', link: '/living/living.md', activeMatch: '/living/'},
         {text: 'Dev', link: '/dev/cloud-services.md', activeMatch: '/dev/'},
         {text: 'Tools', link: '/tools/office-tools.md', activeMatch: '/tools/'},
     ];
@@ -235,6 +237,15 @@ function sidebarEntertainment(): DefaultTheme.SidebarItem[] {
         {
             text: 'Game',
             link: '/entertainment/game.md',
+        },
+    ]
+}
+
+function sidebarLiving(): DefaultTheme.SidebarItem[] {
+    return [
+        {
+            text: 'Living',
+            link: '/living/living.md',
         },
     ]
 }
