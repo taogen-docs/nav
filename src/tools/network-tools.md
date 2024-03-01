@@ -8,6 +8,6 @@ const data = ref(newsData);
 
 # Network Tools
 
-## Domain Information
+## Whois Lookup
 
-<NavContainer :data="data.domainInfo"/>
+<NavContainer :data="data.whoisLookup"/>
