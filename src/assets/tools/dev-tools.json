@@ -1,4 +1,11 @@
 {
+  "toolbox": [
+    {
+      "name": "IT Tools",
+      "url": "https://it-tools.tech/",
+      "icon": "https://it-tools.tech/favicon.ico"
+    }
+  ],
   "editorOnline": [
     {
       "name": "JDoodle",

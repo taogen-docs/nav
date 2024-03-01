@@ -8,6 +8,10 @@ const data = ref(newsData);
 
 # Dev Tools
 
+## Toolbox
+
+<NavContainer :data="data.toolbox"/>
+
 ## Editor Online
 
 <NavContainer :data="data.editorOnline"/>
