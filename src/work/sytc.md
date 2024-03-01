@@ -6,9 +6,17 @@ import newsData from '../assets/work/sytc-systems.json';
 const data = ref(newsData);
 </script>
 
-# Syct Systems
+# Syct
 
-## Products & Systems
+## Platforms
+
+<NavContainer :data="data.platforms"/>
+
+## Third-Party Services
+
+<NavContainer :data="data.thirdPartyServices"/>
+
+## Systems
 
 <NavContainer :data="data.product"/>
 

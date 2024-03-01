@@ -8,10 +8,6 @@ const data = ref(newsData);
 
 # Work
 
-## Office
-
-<NavContainer :data="data.office"/>
-
 ## Daily Work
 
 <NavContainer :data="data.dailyWork"/>

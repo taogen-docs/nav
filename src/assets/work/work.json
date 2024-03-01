@@ -33,28 +33,6 @@
       "icon": "https://static.deepl.com/img/favicon/favicon_32.png"
     }
   ],
-  "office": [
-    {
-      "name": "云效 CodeUp",
-      "url": "https://codeup.aliyun.com/",
-      "icon": "https://img.alicdn.com/tfs/TB1t0Nlgvb2gK0jSZK9XXaEgFXa-64-64.ico"
-    },
-    {
-      "name": "蓝湖",
-      "url": "https://lanhuapp.com/",
-      "icon": "https://lhcdn.lanhuapp.com/dashboard/production/favicon.ico"
-    },
-    {
-      "name": "iconfont",
-      "url": "https://www.iconfont.cn/",
-      "icon": "https://www.iconfont.cn/favicon.ico"
-    },
-    {
-      "name": "Dingtalk Docs",
-      "url": "https://docs.dingtalk.com/i/?nav=home",
-      "icon": "https://g.alicdn.com/dingding/web/0.2.6/img/oldIcon.ico"
-    }
-  ],
   "email": [
     {
       "name": "Gmail",
