@@ -1,7 +1,7 @@
 <script setup>
 import { ref } from 'vue';
 import NavContainer from '../components/NavContainer.vue';
-import newsData from '../assets/work/find-job-helper.json';
+import newsData from '../assets/work/preparation-for-find-a-job.json';
 
 const data = ref(newsData);
 </script>
@@ -20,9 +20,6 @@ const data = ref(newsData);
 
 <NavContainer :data="data.companyReviews"/>
 
-## Position Level Benchmarking
-
-<NavContainer :data="data.positionLevelBenchmarking"/>
 
 
 

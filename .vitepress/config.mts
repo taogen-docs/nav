@@ -107,13 +107,21 @@ function sidebarWork(): DefaultTheme.SidebarItem[] {
             link: '/work/sytc.md',
         },
         {
-            text: "Find Job",
-            link: '/work/find-job.md',
+            text: "Recruitment Platforms",
+            link: '/work/recruitment-platform.md',
         },
         {
-            text: "Find Job Helper",
-            link: '/work/find-job-helper.md',
-        }
+            text: "Preparation for Find a Job",
+            link: '/work/preparation-for-find-a-job.md',
+        },
+        {
+            text: 'Occupation',
+            link: '/work/occupation.md',
+        },
+        {
+            text: 'Side Hustles',
+            link: '/work/side-hustles.md',
+        },
     ]
 }
 
@@ -150,15 +158,6 @@ function sidebarDev(): DefaultTheme.SidebarItem[] {
                 {
                     text: 'Font Resources',
                     link: '/dev/web-frontend/font-resources.md',
-                }
-            ]
-        },
-        {
-            text: 'Side Hustles',
-            items: [
-                {
-                    text: 'Side Hustles',
-                    link: '/dev/side-hustles/side-hustles.md',
                 }
             ]
         },
