@@ -22,19 +22,5 @@
       "url": "http://www.tilaile.com/",
       "icon": "http://www.tilaile.com/css/images/tilaile.ico"
     }
-  ],
-  "companyReviews": [
-    {
-      "name": "看准网",
-      "url": "https://www.kanzhun.com/",
-      "icon": "https://static.kanzhun.com/assets/web/favicon.ico"
-    }
-  ],
-  "positionLevelBenchmarking": [
-    {
-      "name": "职级对标",
-      "url": "https://duibiao.info/",
-      "icon": "https://duibiao.info/favicon.ico"
-    }
   ]
 }

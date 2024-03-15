@@ -16,9 +16,6 @@ const data = ref(newsData);
 
 <NavContainer :data="data.jobInterviewQuestions"/>
 
-## Company Reviews
-
-<NavContainer :data="data.companyReviews"/>
 
 
 

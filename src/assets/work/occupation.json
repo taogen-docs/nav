@@ -1,4 +1,16 @@
 {
+  "companyInfo": [
+    {
+      "name": "看准网",
+      "url": "https://www.kanzhun.com/",
+      "icon": "https://static.kanzhun.com/assets/web/favicon.ico"
+    },
+    {
+      "name": "天眼查",
+      "url": "https://www.tianyancha.com/",
+      "icon": "https://cdn.tianyancha.com/wap/images/18blue/weixinlogo.png"
+    }
+  ],
   "positionLevelBenchmarking": [
     {
       "name": "职级对标",

@@ -8,6 +8,10 @@ const data = ref(newsData);
 
 # Occupation
 
+## Company Information
+
+<NavContainer :data="data.companyInfo"/>
+
 ## Position Level Benchmarking
 
 <NavContainer :data="data.positionLevelBenchmarking"/>
