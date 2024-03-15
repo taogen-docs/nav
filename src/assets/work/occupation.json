@@ -6,9 +6,24 @@
       "icon": "https://static.kanzhun.com/assets/web/favicon.ico"
     },
     {
+      "name": "国家企业信用信息公示系统",
+      "url": "http://www.gsxt.gov.cn/",
+      "desc": "查询企业工商登记信息。查询企业信用、经营异常名录、严重违法失信企业名单、信息公告、企业信息公示、小微企业名录等信息。在国内无论公司大小都需要工商注册，在注册时需要向工商部门提供相关信息资料，一旦注册成功，工商部门就会在其网上平台公布相关信息，供大家网上查询。"
+    },
+    {
+      "name": "企查查",
+      "url": "https://www.qcc.com/",
+      "icon": "https://www.qcc.com/favicon.ico"
+    },
+    {
       "name": "天眼查",
       "url": "https://www.tianyancha.com/",
       "icon": "https://cdn.tianyancha.com/wap/images/18blue/weixinlogo.png"
+    },
+    {
+      "name": "企知道",
+      "url": "https://www.qizhidao.com/",
+      "icon": "https://www.qizhidao.com/favicon.ico"
     }
   ],
   "positionLevelBenchmarking": [
