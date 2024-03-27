@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Economist",
+    "url": "https://www.economist.com/",
+    "icon": "https://www.economist.com/favicon.ico"
+  },
+  {
+    "name": "The New York Times",
+    "url": "https://www.nytimes.com/",
+    "icon": "https://www.nytimes.com/favicon.ico"
+  },
+  {
+    "name": "Medium",
+    "url": "https://medium.com",
+    "icon": "https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png"
+  }
+]

@@ -66,6 +66,10 @@ function nav(): DefaultTheme.NavItem[] {
 function sidebarNews(): DefaultTheme.SidebarItem[] {
     return [
         {
+            text: 'Paid News',
+            link: '/news/paid-news.md',
+        },
+        {
             text: 'News',
             link: '/news/news.md',
         },
