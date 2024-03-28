@@ -28,6 +28,12 @@
     "name": "IconScout",
     "url": "https://iconscout.com/icons/technology-logo",
     "icon": "https://iconscout.com/favicon.ico",
-    "desc": "free to download svg"
+    "desc": "part of free to download svg"
+  },
+  {
+    "name": "SVG REPO",
+    "url": "https://www.svgrepo.com/",
+    "icon": "https://www.svgrepo.com/favicon.ico",
+    "desc": "500.000+ Open-licensed SVG Vector and Icons."
   }
 ]
