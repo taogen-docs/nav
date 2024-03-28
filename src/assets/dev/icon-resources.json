@@ -23,5 +23,11 @@
     "name": "Iconduck",
     "url": "https://iconduck.com/",
     "icon": "https://iconduck.com/iconduck/static/images/clients/v4/favicon-32x32.png"
+  },
+  {
+    "name": "IconScout",
+    "url": "https://iconscout.com/icons/technology-logo",
+    "icon": "https://iconscout.com/favicon.ico",
+    "desc": "free to download svg"
   }
 ]
