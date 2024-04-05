@@ -1,7 +1,7 @@
 <script setup>
 import { ref } from 'vue';
 import NavContainer from '../components/NavContainer.vue';
-import newsData from '../assets/tools/network-tools.json';
+import newsData from '../assets/tools/website-tools.json';
 
 const data = ref(newsData);
 </script>
@@ -11,3 +11,7 @@ const data = ref(newsData);
 ## Whois Lookup
 
 <NavContainer :data="data.whoisLookup"/>
+
+## Web Traffic and Ranking
+
+<NavContainer :data="data.webTrafficAndRanking"/>

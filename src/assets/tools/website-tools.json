@@ -1,0 +1,21 @@
+{
+  "whoisLookup": [
+    {
+      "name": "ICANN Lookup",
+      "url": "https://lookup.icann.org/",
+      "icon": "https://lookup.icann.org/favicon.ico"
+    }
+  ],
+  "webTrafficAndRanking": [
+    {
+      "name": "SimilarWeb",
+      "url": "https://www.similarweb.com/",
+      "icon": "https://www.similarweb.com/favicon.ico"
+    },
+    {
+      "name": "Semrush",
+      "url": "https://www.semrush.com/",
+      "icon": "https://cdn.semrush.com/__static__/favicon.f8cd638f087a.ico"
+    }
+  ]
+}
