@@ -8,9 +8,17 @@ const data = ref(newsData);
 
 # Social Media
 
-## Social Media
+## Microblogging
 
-<NavContainer :data="data.socialMedia"/>
+<NavContainer :data="data.microblogging"/>
+
+## Forum
+
+<NavContainer :data="data.forum"/>
+
+## QA
+
+<NavContainer :data="data.qa"/>
 
 ## Video Sharing
 
@@ -19,3 +27,15 @@ const data = ref(newsData);
 ## Photo Sharing
 
 <NavContainer :data="data.photoSharing"/>
+
+## Messaging
+
+<NavContainer :data="data.messaging"/>
+
+## Professional Networking
+
+<NavContainer :data="data.professionalNetworking"/>
+
+## Communication
+
+<NavContainer :data="data.communication"/>
