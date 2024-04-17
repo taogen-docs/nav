@@ -17,5 +17,16 @@
       "url": "https://www.semrush.com/",
       "icon": "https://cdn.semrush.com/__static__/favicon.f8cd638f087a.ico"
     }
+  ],
+  "ipInformation": [
+    {
+      "name": "ipcheck.ing",
+      "url": "https://ipcheck.ing/#/",
+      "icon": "https://ipcheck.ing/favicon.ico"
+    },
+    {
+      "name": "ip.skk.moe",
+      "url": "https://ip.skk.moe/"
+    }
   ]
 }

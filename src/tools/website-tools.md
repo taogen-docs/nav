@@ -15,3 +15,7 @@ const data = ref(newsData);
 ## Web Traffic and Ranking
 
 <NavContainer :data="data.webTrafficAndRanking"/>
+
+## Check IP Information
+
+<NavContainer :data="data.ipInformation"/>
