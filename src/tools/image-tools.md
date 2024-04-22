@@ -8,9 +8,13 @@ const data = ref(newsData);
 
 # Image Tools
 
-## Conversion
+## Convert Image Format
 
 <NavContainer :data="data.conversion"/>
+
+## Convert Image to ICO
+
+<NavContainer :data="data.imageToIco"/>
 
 ## Compression
 
@@ -20,14 +24,19 @@ const data = ref(newsData);
 
 <NavContainer :data="data.upscale"/>
 
+## Merge Images
+
+<NavContainer :data="data.mergeImages"/>
+
 ## Remove Background
 
 <NavContainer :data="data.removeBackground"/>
+
+## Remove Watermark
+
+<NavContainer :data="data.removeWatermark"/>
 
 ## OCR
 
 <NavContainer :data="data.ocr"/>
 
-## Image to ICO
-
-<NavContainer :data="data.imageToIco"/>

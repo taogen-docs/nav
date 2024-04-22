@@ -35,7 +35,21 @@
       "icon": "https://www.iloveimg.com/img/favicons-img/favicon-16x16.png"
     }
   ],
+  "mergeImages": [
+    {
+      "name": "MERGE IMAGES ONLINE",
+      "url": "https://pinetools.com/merge-images",
+      "icon": "https://pinetools.com/files/favicon.ico"
+    },
+    {
+      "name": "Merge images online",
+      "url": "https://merge.imageonline.co/",
+      "icon": "https://merge.imageonline.co/favicon.png"
+    }
+  ],
   "removeBackground": [
+  ],
+  "removeWatermark": [
   ],
   "ocr": [
     {
