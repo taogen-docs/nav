@@ -1,0 +1,9 @@
+{
+  "rssReader": [
+    {
+      "name": "Inoreader",
+      "url": "https://www.inoreader.com/",
+      "icon": "https://www.inoreader.com//icon.svg"
+    }
+  ]
+}

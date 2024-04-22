@@ -70,6 +70,10 @@ function sidebarNews(): DefaultTheme.SidebarItem[] {
             link: '/news/paid-news.md',
         },
         {
+            text: "RSS",
+            link: '/news/rss.md',
+        },
+        {
             text: 'News',
             link: '/news/news.md',
         },
