@@ -242,9 +242,34 @@
       "icon": "https://www.jenkins.io/favicon.ico"
     },
     {
+      "name": "GitHub Actions",
+      "url": "https://github.com/features/actions",
+      "icon": "https://github.githubassets.com/favicons/favicon.png"
+    },
+    {
+      "name": "GitLab CI",
+      "url": "https://docs.gitlab.com/ee/ci/",
+      "icon": "https://docs.gitlab.com/favicon.ico?v=2"
+    },
+    {
+      "name": "Azure DevOps",
+      "url": "https://azure.microsoft.com/en-us/products/devops",
+      "icon": "https://azure.microsoft.com/favicon.ico"
+    },
+    {
       "name": "CircleCI",
       "url": "https://circleci.com/",
       "icon": "https://circleci.com/favicon.ico"
+    },
+    {
+      "name": "Bitbucket Pipelines",
+      "url": "https://bitbucket.org/product/features/pipelines",
+      "icon": "https://wac-cdn.atlassian.com/assets/img/favicons/bitbucket/favicon-16x16.png"
+    },
+    {
+      "name": "AWS CodePipeline/AWS CodeStar",
+      "url": "https://aws.amazon.com/codepipeline/",
+      "icon": "https://aws.amazon.com/favicon.ico"
     },
     {
       "name": "TeamCity",
@@ -255,21 +280,6 @@
       "name": "Travis CI",
       "url": "https://www.travis-ci.com/",
       "icon": "https://www.travis-ci.com/favicon.ico"
-    },
-    {
-      "name": "Azure DevOps",
-      "url": "https://azure.microsoft.com/en-us/products/devops",
-      "icon": "https://azure.microsoft.com/favicon.ico"
-    },
-    {
-      "name": "GitHub Actions",
-      "url": "https://github.com/features/actions",
-      "icon": "https://github.githubassets.com/favicons/favicon.png"
-    },
-    {
-      "name": "GitLab CI",
-      "url": "https://docs.gitlab.com/ee/ci/",
-      "icon": "https://docs.gitlab.com/favicon.ico?v=2"
     },
     {
       "name": "Bamboo",
