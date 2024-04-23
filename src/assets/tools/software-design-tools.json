@@ -1,7 +1,7 @@
 {
   "mindMap": [
     {
-      "name": "Lucidchart",
+      "name": "Lucidchart💎",
       "url": "https://www.lucidchart.com/",
       "icon": "https://www.lucidchart.com/favicon.ico"
     }
@@ -15,14 +15,34 @@
       "icon": "https://app.diagrams.net/favicon.ico"
     },
     {
-      "name": "Lucidchart",
+      "name": "Visual Paradigm Online",
+      "url": "https://online.visual-paradigm.com/",
+      "icon": "https://online.visual-paradigm.com/favicon.ico"
+    },
+    {
+      "name": "Excalidraw",
+      "url": "https://excalidraw.com/",
+      "icon": "https://excalidraw.com/favicon.ico"
+    },
+    {
+      "name": "asciiflow",
+      "url": "http://asciiflow.com/",
+      "icon": "https://asciiflow.com/public/favicon.png"
+    },
+    {
+      "name": "eraser.io💎",
+      "url": "https://www.eraser.io/",
+      "icon": "https://app.eraser.io/favicon.svg"
+    },
+    {
+      "name": "Lucidchart💎",
       "url": "https://www.lucidchart.com/",
       "icon": "https://www.lucidchart.com/favicon.ico"
     }
   ],
   "uml": [
     {
-      "name": "Lucidchart",
+      "name": "Lucidchart💎",
       "url": "https://www.lucidchart.com/",
       "icon": "https://www.lucidchart.com/favicon.ico"
     }
@@ -34,7 +54,7 @@
       "icon": "https://drawdb.vercel.app/favicon.ico"
     },
     {
-      "name": "Lucidchart",
+      "name": "Lucidchart💎",
       "url": "https://www.lucidchart.com/",
       "icon": "https://www.lucidchart.com/favicon.ico"
     }
