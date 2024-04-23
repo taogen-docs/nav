@@ -284,6 +284,10 @@ function sidebarTools(): DefaultTheme.SidebarItem[] {
             link: '/tools/ui-ux-design-tools.md',
         },
         {
+            text: 'Software Design Tools',
+            link: '/tools/software-design-tools.md',
+        },
+        {
             text: 'Other Tools',
             link: '/tools/other-tools.md',
         },

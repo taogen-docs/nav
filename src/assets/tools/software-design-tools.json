@@ -1,0 +1,42 @@
+{
+  "mindMap": [
+    {
+      "name": "Lucidchart",
+      "url": "https://www.lucidchart.com/",
+      "icon": "https://www.lucidchart.com/favicon.ico"
+    }
+  ],
+  "prototype": [],
+  "ui": [],
+  "flowchart": [
+    {
+      "name": "draw.io",
+      "url": "https://app.diagrams.net/",
+      "icon": "https://app.diagrams.net/favicon.ico"
+    },
+    {
+      "name": "Lucidchart",
+      "url": "https://www.lucidchart.com/",
+      "icon": "https://www.lucidchart.com/favicon.ico"
+    }
+  ],
+  "uml": [
+    {
+      "name": "Lucidchart",
+      "url": "https://www.lucidchart.com/",
+      "icon": "https://www.lucidchart.com/favicon.ico"
+    }
+  ],
+  "databaseAndEr": [
+    {
+      "name": "drawdb",
+      "url": "https://drawdb.vercel.app/",
+      "icon": "https://drawdb.vercel.app/favicon.ico"
+    },
+    {
+      "name": "Lucidchart",
+      "url": "https://www.lucidchart.com/",
+      "icon": "https://www.lucidchart.com/favicon.ico"
+    }
+  ]
+}
