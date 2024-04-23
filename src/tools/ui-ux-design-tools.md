@@ -1,7 +1,7 @@
 <script setup>
 import { ref } from 'vue';
 import NavContainer from '../components/NavContainer.vue';
-import newsData from '../assets/tools/design-tools.json';
+import newsData from '../assets/tools/ui-ux-design-tools.json';
 
 const data = ref(newsData);
 </script>
@@ -23,3 +23,7 @@ const data = ref(newsData);
 ## Prototype
 
 <NavContainer :data="data.prototype"/>
+
+## UI
+
+<NavContainer :data="data.ui"/>

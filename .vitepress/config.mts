@@ -280,8 +280,8 @@ function sidebarTools(): DefaultTheme.SidebarItem[] {
             link: '/tools/website-tools.md',
         },
         {
-            text: 'Design Tools',
-            link: '/tools/design-tools.md',
+            text: 'UI&UX Design Tools',
+            link: '/tools/ui-ux-design-tools.md',
         },
         {
             text: 'Other Tools',

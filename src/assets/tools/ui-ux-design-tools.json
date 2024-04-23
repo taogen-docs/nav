@@ -36,5 +36,12 @@
       "url": "https://proto.io/",
       "icon": "https://proto.io/favicon.ico"
     }
+  ],
+  "ui": [
+    {
+      "name": "Figma",
+      "url": "https://www.figma.com/",
+      "icon": "https://static.figma.com/app/icon/1/favicon.svg"
+    }
   ]
 }
