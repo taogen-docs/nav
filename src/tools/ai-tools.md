@@ -8,9 +8,13 @@ const data = ref(newsData);
 
 # AI Tools
 
-## Official Chatbot
+## Chatbot
 
-<NavContainer :data="data.officialChatbot"/>
+<NavContainer :data="data.chatbot"/>
+
+## Web Search
+
+<NavContainer :data="data.webSearch"/>
 
 ## Chatbot Wrapper
 
