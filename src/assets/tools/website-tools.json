@@ -35,5 +35,17 @@
       "url": "https://archive.org/",
       "icon": "https://archive.org/favicon.ico"
     }
+  ],
+  "userScript": [
+    {
+      "name": "Greasy Fork",
+      "url": "https://greasyfork.org/",
+      "icon": "https://greasyfork.org/vite/assets/blacklogo16-37ZGLlXh.png"
+    },
+    {
+      "name": "Tampermonkey",
+      "url": "https://www.tampermonkey.net/",
+      "icon": "https://www.tampermonkey.net/favicon.ico"
+    }
   ]
 }

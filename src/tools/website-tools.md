@@ -23,3 +23,7 @@ const data = ref(newsData);
 ## Website Archive
 
 <NavContainer :data="data.websiteArchive"/>
+
+## User Script
+
+<NavContainer :data="data.userScript"/>
