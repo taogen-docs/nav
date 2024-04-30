@@ -28,5 +28,12 @@
       "name": "ip.skk.moe",
       "url": "https://ip.skk.moe/"
     }
+  ],
+  "websiteArchive": [
+    {
+      "name": "Internet Archive",
+      "url": "https://archive.org/",
+      "icon": "https://archive.org/favicon.ico"
+    }
   ]
 }

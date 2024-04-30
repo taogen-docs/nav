@@ -19,3 +19,7 @@ const data = ref(newsData);
 ## Check IP Information
 
 <NavContainer :data="data.ipInformation"/>
+
+## Website Archive
+
+<NavContainer :data="data.websiteArchive"/>
