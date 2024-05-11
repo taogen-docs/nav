@@ -288,6 +288,10 @@ function sidebarTools(): DefaultTheme.SidebarItem[] {
             link: '/tools/software-design-tools.md',
         },
         {
+            text: 'Resource Download Tools',
+            link: '/tools/resource-download-tools.md',
+        },
+        {
             text: 'Other Tools',
             link: '/tools/other-tools.md',
         },
