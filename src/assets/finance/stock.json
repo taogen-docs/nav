@@ -16,6 +16,11 @@
       "name": "Investing.com",
       "url": "https://www.investing.com/",
       "icon": "https://www.investing.com/favicon.ico"
+    },
+    {
+      "name": "MSN Finance",
+      "url": "https://www.msn.com/en-us/money",
+      "icon": "https://assets.msn.com/statics/icons/Microsoft_16_SVG.ico"
     }
   ],
   "trading": [
