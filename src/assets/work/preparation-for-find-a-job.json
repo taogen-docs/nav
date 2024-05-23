@@ -26,6 +26,11 @@
       "name": "题来了",
       "url": "http://www.tilaile.com/",
       "icon": "http://www.tilaile.com/css/images/tilaile.ico"
+    },
+    {
+      "name": "CodeTop",
+      "url": "https://codetop.cc/home",
+      "icon": "https://codetop.cc/logo.jpg"
     }
   ]
 }
