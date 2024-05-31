@@ -2,7 +2,8 @@
   {
     "name": "The Economist",
     "url": "https://www.economist.com/",
-    "icon": "https://www.economist.com/favicon.ico"
+    "icon": "https://www.economist.com/favicon.ico",
+    "desc": "The Economist is a British weekly newspaper published in printed magazine format and digitally."
   },
   {
     "name": "The New York Times",

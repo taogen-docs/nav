@@ -39,6 +39,11 @@
       "name": "Dev",
       "url": "https://dev.to/",
       "icon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+    },
+    {
+      "name": "湾区日报",
+      "url": "https://www.wanqu.co/",
+      "icon": "https://cdn1.wanqu.co/www-wanqu-co/production/images/favicon-efe89ba82571ce222ce2375966810a6f.jpg"
     }
   ],
   "generalCN": [
