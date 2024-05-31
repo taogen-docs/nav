@@ -1,7 +1,7 @@
 <template>
     <div v-if="data != null && data.length > 0">
         <div :class="$style.container">
-            <div v-for="item in data" :class="$style.item">
+            <div v-for="item in data" :class="$style.item" @click="openInNewTab(item.url)">
                 <img :class="$style.item_img" :src="item.icon" alt="icon" loading="lazy">
                 <div>
                     <div :class="$style.title">{{ item.name }}</div>
@@ -24,6 +24,9 @@ if (props.data != null && props.data.length > 0) {
     });
 }
 
+function openInNewTab(url) {
+    window.open(url, '_blank').focus();
+}
 // console.log(props.data);
 </script>
 
@@ -48,6 +51,10 @@ if (props.data != null && props.data.length > 0) {
     padding: 4%;
 }
 
+.item:hover {
+    cursor: pointer;
+}
+
 .item_img {
     width: 48px;
     height: 48px;
@@ -55,6 +62,7 @@ if (props.data != null && props.data.length > 0) {
 }
 
 .title {
+    font-size: 14px;
     height: 1.5em;
     display: -webkit-box;
     -webkit-line-clamp: 1;
