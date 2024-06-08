@@ -33,6 +33,33 @@
       "icon": "https://www.wsj.com/favicon.ico"
     }
   ],
+  "businessMagazine": [
+    {
+      "name": "Bloomberg Businessweek",
+      "url": "https://www.bloomberg.com/businessweek",
+      "icon": "https://www.bloomberg.com/favicon-black.png"
+    },
+    {
+      "name": "Fast Company",
+      "url": "https://www.fastcompany.com/",
+      "icon": "https://www.fastcompany.com/favicon.ico"
+    },
+    {
+      "name": "Entrepreneur Magazine",
+      "url": "https://www.entrepreneur.com/magazine",
+      "icon": "https://www.entrepreneur.com/favicon.ico"
+    },
+    {
+      "name": "Harvard Business Review",
+      "url": "https://hbr.org/",
+      "icon": "https://hbr.org/favicon.ico"
+    },
+    {
+      "name": "Fortune",
+      "url": "https://fortune.com/",
+      "icon": "https://fortune.com/favicon.ico"
+    }
+  ],
   "business": [
     {
       "name": "The Economist - Business",

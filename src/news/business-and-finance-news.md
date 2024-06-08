@@ -8,6 +8,10 @@ const data = ref(newsData);
 
 # Business & Financial News
 
+## Business Magazine
+
+<NavContainer :data="data.businessMagazine"/>
+
 ## Economy & Finance
 
 <NavContainer :data="data.economyFinance"/>
