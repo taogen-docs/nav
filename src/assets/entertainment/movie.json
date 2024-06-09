@@ -21,19 +21,24 @@
       "icon": "https://www.douban.com/favicon.ico"
     },
     {
+      "name": "豆瓣电影排行榜",
+      "url": "https://movie.douban.com/chart",
+      "icon": "https://www.douban.com/favicon.ico"
+    },
+    {
       "name": "豆瓣电影 Top 250",
       "url": "https://movie.douban.com/top250",
+      "icon": "https://www.douban.com/favicon.ico"
+    },
+    {
+      "name": "豆瓣2023年度电影榜单",
+      "url": "https://movie.douban.com/annual/2023/",
       "icon": "https://www.douban.com/favicon.ico"
     },
     {
       "name": "MVCAT",
       "url": "https://www.mvcat.com/",
       "icon": "https://www.mvcat.com/img/logo_appicon.png"
-    },
-    {
-      "name": "豆瓣2023年度电影榜单",
-      "url": "https://movie.douban.com/annual/2023/",
-      "icon": "https://www.douban.com/favicon.ico"
     },
     {
       "name": "Best of 2023 - NYT",
