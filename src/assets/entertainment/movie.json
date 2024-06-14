@@ -58,6 +58,36 @@
   ],
   "watchMovie": [
     {
+      "name": "BTNULL",
+      "url": "https://www.btnull.org/",
+      "icon": "https://www.btnull.org/favicon.ico",
+      "desc": "Registration: required (email). AD: in movies and web pages. Subtitles: zh_en."
+    },
+    {
+      "name": "JOJO",
+      "url": "https://jiohub.top/",
+      "icon": "https://jiohub.top/favicon.ico",
+      "desc": "Registration: no required. Subtitles: zh_en."
+    },
+    {
+      "name": "缘觉影视",
+      "url": "https://www.yjys01.com/",
+      "icon": "https://www.yjys01.com/images/favicon.ico",
+      "desc": "Registration: no required. Subtitles: zh_en."
+    },
+    {
+      "name": "厂长资源",
+      "url": "https://www.czys.top/",
+      "icon": "https://img.py1080p.com//2021/10/5c7a67356cec28.ico",
+      "desc": "Registration: no required. Subtitles: zh_en."
+    },
+    {
+      "name": "novipnoad",
+      "url": "https://www.novipnoad.net/",
+      "icon": "https://www.novipnoad.net/favicon.ico",
+      "desc": "Registration: no required. Subtitles: zh_en."
+    },
+    {
       "name": "星视界",
       "url": "https://www.histar.tv/",
       "icon": "https://www.histar.tv/favicon.ico"
