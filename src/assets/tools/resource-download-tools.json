@@ -24,6 +24,11 @@
       "name": "BT4G",
       "url": "https://bt4gprx.com/",
       "icon": "https://bt4gprx.com/static/favicon.ico"
+    },
+    {
+      "name": "电影天堂",
+      "url": "https://www.dy2018.com/",
+      "icon": "https://www.dy2018.com/favicon.ico"
     }
   ],
   "movieSubtitleDownload": [
