@@ -58,6 +58,11 @@
   ],
   "watchMovie": [
     {
+      "name": "欧乐影院",
+      "url": "https://www.olevod.one/",
+      "icon": "https://www.olevod.one/static/img/icon.png"
+    },
+    {
       "name": "BTNULL",
       "url": "https://www.btnull.org/",
       "icon": "https://www.btnull.org/favicon.ico",
