@@ -35,6 +35,10 @@
       "name": "Regex101",
       "url": "https://regex101.com/",
       "icon": "https://regex101.com/static/assets/favicon.ico"
+    },
+    {
+      "name": "regexr",
+      "url": "https://regexr.com/"
     }
   ],
   "formatter": [
