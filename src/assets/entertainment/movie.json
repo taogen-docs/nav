@@ -28,7 +28,14 @@
     {
       "name": "Popular Movies of Crime Genre - IMDb",
       "url": "https://www.imdb.com/search/title/?genres=crime",
-      "icon": "https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/favicon_desktop_32x32._CB1582158068_.png"
+      "icon": "https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/favicon_desktop_32x32._CB1582158068_.png",
+      "desc": "Sort by Popularity"
+    },
+    {
+      "name": "Best Crime Movies - IMDb",
+      "url": "https://www.imdb.com/search/title/?genres=crime&sort=num_votes,desc",
+      "icon": "https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/favicon_desktop_32x32._CB1582158068_.png",
+      "desc": "Sort by Number of ratings"
     },
     {
       "name": "Most Popular Movies - IMDb",
