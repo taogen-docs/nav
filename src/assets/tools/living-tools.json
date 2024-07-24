@@ -1,0 +1,34 @@
+{
+  "weatherTools": [
+    {
+      "name": "Weather.com",
+      "url": "https://weather.com/weather/monthly/",
+      "icon": "https://weather.com/favicon.ico",
+      "desc": "Weather forecast and information"
+    },
+    {
+      "name": "Ventusky",
+      "url": "https://www.ventusky.com/",
+      "icon": "https://www.ventusky.com/favicon.ico",
+      "desc": "Weather forecast maps"
+    },
+    {
+      "name": "Zoom Earth",
+      "url": "https://zoom.earth/",
+      "icon": "https://zoom.earth/favicon.ico",
+      "desc": "Live weather satellite images"
+    },
+    {
+      "name": "MSN Weather",
+      "url": "https://www.msn.com/en-us/weather",
+      "icon": "https://assets.msn.com/statics/icons/Microsoft_16_SVG.ico",
+      "desc": "Weather forecast and information"
+    },
+    {
+      "name": "Windy.com",
+      "url": "https://www.windy.com/",
+      "icon": "https://www.windy.com/favicon.ico",
+      "desc": "Weather forecast maps"
+    }
+  ]
+}

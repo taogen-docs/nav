@@ -292,6 +292,10 @@ function sidebarTools(): DefaultTheme.SidebarItem[] {
             link: '/tools/resource-download-tools.md',
         },
         {
+            text: 'Living Tools',
+            link: '/tools/living-tools.md',
+        },
+        {
             text: 'Other Tools',
             link: '/tools/other-tools.md',
         },
