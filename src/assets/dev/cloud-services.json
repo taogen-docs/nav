@@ -298,5 +298,34 @@
       "url": "https://about.gitlab.com/",
       "icon": "https://about.gitlab.com/nuxt-images/ico/favicon.ico"
     }
+  ],
+  "sendSms": [
+    {
+      "name": "Twilio",
+      "url": "https://www.twilio.com/",
+      "icon": "https://www.twilio.com/favicon.ico",
+      "desc": "Send and receive SMS and MMS messages globally"
+    },
+    {
+      "name": "Vonage (Nexmo)",
+      "url": "https://www.vonage.com/",
+      "icon": "https://www.vonage.com/favicon.ico",
+      "desc": "SMS, Voice, Video and Conversations APIs"
+    },
+    {
+      "name": "腾讯云-短信服务",
+      "url": "https://cloud.tencent.com/product/sms",
+      "icon": "https://cloud.tencent.com/favicon.ico"
+    },
+    {
+      "name": "阿里云-短信服务",
+      "url": "https://www.aliyun.com/product/sms",
+      "icon": "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico"
+    },
+    {
+      "name": "云片",
+      "url": "https://www.yunpian.com/",
+      "icon": "https://www.yunpian.com/favicon.ico"
+    }
   ]
 }

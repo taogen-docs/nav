@@ -65,3 +65,7 @@ const data = ref(newsData);
 ## Code Source Repositories
 
 <NavContainer :data="data.codeSourceRepo"/>
+
+## Send SMS Service
+
+<NavContainer :data="data.sendSms"/>
