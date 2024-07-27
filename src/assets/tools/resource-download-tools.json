@@ -114,6 +114,11 @@
       "icon": "https://en.savefrom.net/favicon.ico"
     },
     {
+      "name": "SaveTube",
+      "url": "https://save.tube/",
+      "icon": "https://save.tube/favicon.ico"
+    },
+    {
       "name": "9xbuddy",
       "url": "https://9xbuddy.xyz/",
       "icon": "https://9xbuddy.xyz/icons/favicon.ico"
@@ -141,6 +146,12 @@
       "name": "Y2Mate",
       "url": "https://en.y2mate.is/s31/",
       "icon": "https://en.y2mate.is/assets/icons/favicon-32x32.png",
+      "desc": "Youtube Downloader"
+    },
+    {
+      "name": "Y2Meta.app",
+      "url": "https://y2meta.app/",
+      "icon": "https://y2meta.app/favicon.ico",
       "desc": "Youtube Downloader"
     },
     {
