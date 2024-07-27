@@ -6,8 +6,6 @@ import newsData from '../assets/entertainment/live-tv.json';
 const data = ref(newsData);
 </script>
 
-# Game
-
-## Live TV
+# Live TV
 
 <NavContainer :data="data.liveTv"/>
