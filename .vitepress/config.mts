@@ -226,6 +226,10 @@ function sidebarEntertainment(): DefaultTheme.SidebarItem[] {
             link: '/entertainment/movie.md',
         },
         {
+            text: 'Live TV',
+            link: '/entertainment/live-tv.md',
+        },
+        {
             text: 'Book',
             link: '/entertainment/book.md',
         },

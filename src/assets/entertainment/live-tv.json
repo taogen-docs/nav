@@ -1,0 +1,14 @@
+{
+  "liveTv": [
+    {
+      "name": "央视网",
+      "url": "https://tv.cctv.com/index.shtml",
+      "icon": "https://tv.cctv.com/favicon.ico"
+    },
+    {
+      "name": "YesLiveTV",
+      "url": "https://yeslivetv.com/",
+      "icon": "https://yeslivetv.com/favicon.ico"
+    }
+  ]
+}
