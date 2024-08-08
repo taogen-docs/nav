@@ -71,6 +71,16 @@
       "name": "ThoughtWorks洞见",
       "url": "https://insights.thoughtworks.cn/",
       "icon": "https://insights.thoughtworks.cn/wp-content/uploads/2021/07/cropped-tw-insights-new-logo-192x192.png"
+    },
+    {
+      "name": "V2EX-技术",
+      "url": "https://www.v2ex.com/?tab=tech",
+      "icon": "https://www.v2ex.com/static/img/icon_rayps_64.png"
+    },
+    {
+      "name": "LINUX DO",
+      "url": "https://linux.do/",
+      "icon": "https://linux.do/uploads/default/optimized/3X/9/d/9dd49731091ce8656e94433a26a3ef36062b3994_2_32x32.png"
     }
   ],
   "webFrontend": [
