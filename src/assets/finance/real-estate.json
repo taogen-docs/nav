@@ -1,6 +1,11 @@
 {
   "analysis": [
     {
+      "name": "中国房价增长 - CEIC",
+      "url": "https://www.ceicdata.com/zh-hans/indicator/china/house-prices-growth",
+      "icon": "https://www.ceicdata.com/themes/ceicdata/favicon.ico"
+    },
+    {
       "name": "中国房价行情",
       "url": "https://www.creprice.cn/",
       "icon": "https://www.creprice.cn/favicon.ico"
