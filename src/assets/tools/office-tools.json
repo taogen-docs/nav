@@ -49,6 +49,11 @@
   ],
   "textShare": [
     {
+      "name": "PasteBin",
+      "url": "https://pastebin.com/",
+      "icon": "https://pastebin.com/favicon.ico"
+    },
+    {
       "name": "JustPaste.it",
       "url": "https://justpaste.it/",
       "icon": "https://justpaste.it/favicon.ico"
