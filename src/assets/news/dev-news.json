@@ -82,6 +82,12 @@
       "url": "https://linux.do/",
       "icon": "https://linux.do/uploads/default/optimized/3X/9/d/9dd49731091ce8656e94433a26a3ef36062b3994_2_32x32.png",
       "desc": "LINUX DO是一个以Linux和人工智能为主题的中文社区，用户可以分享自己的经验、问题、教程和资源。"
+    },
+    {
+      "name": "NodeSeek - 技术",
+      "url": "https://www.nodeseek.com/categories/tech",
+      "icon": "https://www.nodeseek.com/static/image/favicon/favicon-16x16.png",
+      "desc": "NodeSeek旨在为主机爱好者打造高品质社区，传递行业新闻，分享技术心得。在这里，用户主要讨论的话题包括服务器行业新闻、优惠信息、开发经验与建站心得、开源项目与实用工具、pt、域名等。我们希望这里能够成为一个有效的主机信息聚集地，希望它能成长为一个有用的社群。"
     }
   ],
   "webFrontend": [
