@@ -3,7 +3,18 @@
     {
       "name": "Namecheap",
       "url": "https://www.namecheap.com/",
-      "icon": "https://www.namecheap.com/assets/img/nc-icon/favicon.ico"
+      "icon": "https://www.namecheap.com/assets/img/nc-icon/favicon.ico",
+      "desc": "Payment: Credit Card."
+    },
+    {
+      "name": "Porkbun",
+      "url": "https://porkbun.com/",
+      "icon": "https://porkbun.com/favicon.ico"
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://www.cloudflare.com/",
+      "icon": "https://www.cloudflare.com/favicon.ico"
     },
     {
       "name": "GoDaddy",
