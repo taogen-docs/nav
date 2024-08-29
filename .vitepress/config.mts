@@ -184,28 +184,37 @@ function sidebarDev(): DefaultTheme.SidebarItem[] {
 function sidebarFinance(): DefaultTheme.SidebarItem[] {
     return [
         {
-            text: "Economics & Finance",
-            link: '/finance/economics-and-finance.md',
+            text: 'Investment',
+            items: [
+                {
+                    text: "Economics & Finance",
+                    link: '/finance/economics-and-finance.md',
+                },
+                {
+                    text: 'Crypto',
+                    link: '/finance/crypto.md',
+                },
+                {
+                    text: 'Stock',
+                    link: '/finance/stock.md'
+                },
+                {
+                    text: 'Fund',
+                    link: '/finance/fund.md'
+                },
+                {
+                    text: 'Bond',
+                    link: '/finance/bond.md'
+                },
+                {
+                    text: 'Real Estate',
+                    link: '/finance/real-estate.md'
+                }
+            ]
         },
         {
-            text: 'Crypto',
-            link: '/finance/crypto.md',
-        },
-        {
-            text: 'Stock',
-            link: '/finance/stock.md'
-        },
-        {
-            text: 'Fund',
-            link: '/finance/fund.md'
-        },
-        {
-            text: 'Bond',
-            link: '/finance/bond.md'
-        },
-        {
-            text: 'Real Estate',
-            link: '/finance/real-estate.md'
+            text: 'Payment Services',
+            link: '/finance/payment-services.md'
         }
     ]
 }
