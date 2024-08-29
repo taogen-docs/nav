@@ -5,6 +5,21 @@
       "url": "https://bewildcard.com/",
       "icon": "https://cdn.api-forwards.com/favicon.ico",
       "desc": "Support product: ChatGPT, OpenAI API, Midjourney, App Store, Claude, Adobe, X (Twitter), Facebook, GitHub, Google Play, Amazon, Poe, etc. Registration Fee: $11 for two years, $16 for three years. Top Up Fee: 3.5%. Top Up method: Alipay."
+    },
+    {
+      "name": "NobePay",
+      "url": "https://www.nobepay.com/",
+      "icon": "https://www.nobepay.com/static/logoAzmIcon.0315b02c7a403d7ba44aec9e1eb0e3cd.svg"
+    },
+    {
+      "name": "Dupay",
+      "url": "https://www.dupay.one/",
+      "icon": "https://www.dupay.one/favicon.ico"
+    },
+    {
+      "name": "OneKey Card",
+      "url": "https://card.onekey.so/",
+      "icon": "https://card.onekey.so/favicon.ico"
     }
   ]
 }
