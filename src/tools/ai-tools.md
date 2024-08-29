@@ -19,3 +19,7 @@ const data = ref(newsData);
 ## Chatbot Wrapper
 
 <NavContainer :data="data.chatbotWrapper"/>
+
+## AI Service API
+
+<NavContainer :data="data.aiServiceAPI"/>
