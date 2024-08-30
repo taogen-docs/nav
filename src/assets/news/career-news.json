@@ -1,0 +1,24 @@
+{
+  "careerNews": [
+    {
+      "name": "电鸭",
+      "url": "https://eleduck.com/categories/1",
+      "icon": "https://eleduck.com/static/favicon.ico"
+    },
+    {
+      "name": "V2EX - 酷工作",
+      "url": "https://v2ex.com/?tab=jobs",
+      "icon": "https://v2ex.com/static/icon-192.png"
+    },
+    {
+      "name": "脉脉",
+      "url": "https://maimai.cn/",
+      "icon": "https://maimai.cn/favicon.ico"
+    },
+    {
+      "name": "BOSS直聘 - 有了",
+      "url": "https://youle.zhipin.com/recommend/selected/?ka=header-find",
+      "icon": "https://static.zhipin.com/zhipin-youle/web/v28/favicon.png"
+    }
+  ]
+}

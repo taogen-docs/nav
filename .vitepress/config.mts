@@ -100,6 +100,10 @@ function sidebarNews(): DefaultTheme.SidebarItem[] {
         {
             text: 'Self Improvement',
             link: '/news/self-improvement.md',
+        },
+        {
+            text: 'Career News',
+            link: '/news/career-news.md',
         }
     ]
 }
