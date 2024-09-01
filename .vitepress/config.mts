@@ -28,7 +28,7 @@ export default defineConfig({
         sidebar: {
             '/news/': sidebarNews(),
             '/work/': sidebarWork(),
-            '/dev/': sidebarDev(),
+            '/cs/': sidebarCs(),
             '/finance/': sidebarFinance(),
             '/relax/': sidebarRelax(),
             '/entertainment/': sidebarEntertainment(),
@@ -58,7 +58,7 @@ function nav(): DefaultTheme.NavItem[] {
         {text: 'Relax', link: '/relax/relax.md', activeMatch: '/relax/'},
         {text: 'Entertainment', link: '/entertainment/movie.md', activeMatch: '/entertainment/'},
         {text: 'Living', link: '/living/living.md', activeMatch: '/living/'},
-        {text: 'Dev', link: '/dev/cloud-services.md', activeMatch: '/dev/'},
+        {text: 'CS', link: '/cs/cloud-services.md', activeMatch: '/cs/'},
         {text: 'Tools', link: '/tools/office-tools.md', activeMatch: '/tools/'},
     ];
 }
@@ -137,18 +137,18 @@ function sidebarWork(): DefaultTheme.SidebarItem[] {
     ]
 }
 
-function sidebarDev(): DefaultTheme.SidebarItem[] {
+function sidebarCs(): DefaultTheme.SidebarItem[] {
     return [
         {
             text: 'Backend',
             items: [
                 {
                     text: 'Java Technologies',
-                    link: '/dev/backend/java-technologies.md'
+                    link: '/cs/backend/java-technologies.md'
                 },
                 {
                     text: 'Cloud Services',
-                    link: '/dev/cloud-services.md',
+                    link: '/cs/cloud-services.md',
                 },
             ]
         },
@@ -157,19 +157,19 @@ function sidebarDev(): DefaultTheme.SidebarItem[] {
             items: [
                 {
                     text: 'Web Frontend Technologies',
-                    link: '/dev/web-frontend/web-frontend-technologies.md',
+                    link: '/cs/web-frontend/web-frontend-technologies.md',
                 },
                 {
                     text: 'Icon Resources',
-                    link: '/dev/web-frontend/icon-resources.md',
+                    link: '/cs/web-frontend/icon-resources.md',
                 },
                 {
                     text: 'Image Resources',
-                    link: '/dev/web-frontend/image-resources.md',
+                    link: '/cs/web-frontend/image-resources.md',
                 },
                 {
                     text: 'Font Resources',
-                    link: '/dev/web-frontend/font-resources.md',
+                    link: '/cs/web-frontend/font-resources.md',
                 }
             ]
         },
@@ -178,7 +178,7 @@ function sidebarDev(): DefaultTheme.SidebarItem[] {
             items: [
                 {
                     text: 'Dev Blog',
-                    link: '/dev/dev-blog.md',
+                    link: '/cs/dev-blog.md',
                 },
             ]
         }
