@@ -24,6 +24,11 @@
       "name": "猎聘网",
       "url": "https://www.liepin.com/",
       "icon": "https://concat.lietou-static.com/fe-www-pc/v6/static/images/favicon.e6edbc00.ico"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/",
+      "icon": "https://static.licdn.com/aero-v1/sc/h/5bukxbhy9xsil5mb7c2wulfbx"
     }
   ],
   "asia": [
