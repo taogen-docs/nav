@@ -3,32 +3,38 @@
     {
       "name": "Boss直聘",
       "url": "https://www.zhipin.com/",
-      "icon": "https://www.zhipin.com/favicon.ico"
+      "icon": "https://www.zhipin.com/favicon.ico",
+      "desc": "通过即时聊天的方式让求职者与招聘方直接沟通。"
     },
     {
       "name": "拉勾网",
       "url": "https://www.lagou.com/",
-      "icon": "https://www.lagou.com/favicon.ico"
+      "icon": "https://www.lagou.com/favicon.ico",
+      "desc": "针对互联网行业的招聘平台，适合技术和产品相关职位。"
     },
     {
       "name": "前程无忧",
       "url": "https://www.51job.com/",
-      "icon": "https://www.51job.com/favicon.ico"
+      "icon": "https://www.51job.com/favicon.ico",
+      "desc": "提供多种行业的职位信息，适合各类求职者。"
     },
     {
       "name": "智联招聘",
       "url": "https://www.zhaopin.com/",
-      "icon": "https://common-bucket.zhaopin.cn/img/favicon/favicon-2011.ico"
+      "icon": "https://common-bucket.zhaopin.cn/img/favicon/favicon-2011.ico",
+      "desc": "提供多种行业的职位信息，适合各类求职者。"
     },
     {
       "name": "猎聘网",
       "url": "https://www.liepin.com/",
-      "icon": "https://concat.lietou-static.com/fe-www-pc/v6/static/images/favicon.e6edbc00.ico"
+      "icon": "https://concat.lietou-static.com/fe-www-pc/v6/static/images/favicon.e6edbc00.ico",
+      "desc": "中高端人才求职、找工作，优选招聘平台！"
     },
     {
       "name": "LinkedIn",
       "url": "https://www.linkedin.com/",
-      "icon": "https://static.licdn.com/aero-v1/sc/h/5bukxbhy9xsil5mb7c2wulfbx"
+      "icon": "https://static.licdn.com/aero-v1/sc/h/5bukxbhy9xsil5mb7c2wulfbx",
+      "desc": "外企、海外工作"
     }
   ],
   "asia": [
