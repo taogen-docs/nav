@@ -66,45 +66,56 @@ function nav(): DefaultTheme.NavItem[] {
 function sidebarNews(): DefaultTheme.SidebarItem[] {
     return [
         {
-            text: 'Paid News',
-            link: '/news/paid-news.md',
+            text: "Daily",
+            items: [
+                {
+                    text: 'News',
+                    link: '/news/news.md',
+                },
+                {
+                    text: 'Business & Financial News',
+                    link: '/news/business-and-finance-news.md',
+                },
+                {
+                    text: 'Technology & Science News',
+                    link: '/news/science-and-tech-news.md',
+                },
+                {
+                    text: 'Programming News',
+                    link: '/news/dev-news.md',
+                },
+
+            ]
         },
         {
-            text: "RSS",
-            link: '/news/rss.md',
+            text: 'Some More',
+            items: [
+                {
+                    text: 'China News',
+                    link: '/news/china-news.md',
+                },
+                {
+                    text: 'Product & Design News',
+                    link: '/news/product-and-design-news.md',
+                },
+                {
+                    text: 'Self Improvement',
+                    link: '/news/self-improvement.md',
+                },
+                {
+                    text: 'Career News',
+                    link: '/news/career-news.md',
+                },
+                {
+                    text: 'Paid News',
+                    link: '/news/paid-news.md',
+                },
+                {
+                    text: "RSS",
+                    link: '/news/rss.md',
+                },
+            ]
         },
-        {
-            text: 'News',
-            link: '/news/news.md',
-        },
-        {
-            text: 'China News',
-            link: '/news/china-news.md',
-        },
-        {
-            text: 'Business & Financial News',
-            link: '/news/business-and-finance-news.md',
-        },
-        {
-            text: 'Science & Tech News',
-            link: '/news/science-and-tech-news.md',
-        },
-        {
-            text: 'Product & Design News',
-            link: '/news/product-and-design-news.md',
-        },
-        {
-            text: 'Dev News',
-            link: '/news/dev-news.md',
-        },
-        {
-            text: 'Self Improvement',
-            link: '/news/self-improvement.md',
-        },
-        {
-            text: 'Career News',
-            link: '/news/career-news.md',
-        }
     ]
 }
 

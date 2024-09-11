@@ -1,4 +1,33 @@
 {
+  "selected": [
+    {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com",
+      "icon": "https://www.bloomberg.com/favicon-black.png",
+      "desc": "Price: $244/year (Discount: $199/year)"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com",
+      "icon": "https://www.wsj.com/favicon.ico",
+      "desc": "Price: HK$95/month (Discount: HK$16/month for the first year)"
+    },
+    {
+      "name": "虎嗅网",
+      "url": "https://www.huxiu.com/",
+      "icon": "https://www.huxiu.com/favicon.ico"
+    },
+    {
+      "name": "钛媒体",
+      "url": "https://www.tmtpost.com/",
+      "icon": "https://images.tmtpost.com/uploads/images/zhaopian/nuxtpic/change_logo3/favicon.ico"
+    },
+    {
+      "name": "36氪",
+      "url": "https://36kr.com/",
+      "icon": "https://36kr.com/favicon.ico"
+    }
+  ],
   "general": [
     {
       "name": "Bloomberg",

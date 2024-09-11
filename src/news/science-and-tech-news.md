@@ -6,11 +6,15 @@ import newsData from '../assets/news/science-and-tech-news.json';
 const data = ref(newsData);
 </script>
 
-# Science and Technology News
+# Technology and Science News
 
 ## Technology News
 
 <NavContainer :data="data.technology"/>
+
+## Optional Technology News
+
+<NavContainer :data="data.optionalTech"/>
 
 ## Science News
 

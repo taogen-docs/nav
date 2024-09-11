@@ -8,5 +8,10 @@ const data = ref(newsData);
 
 # News
 
-<NavContainer :data="data"/>
+## Selected
 
+<NavContainer :data="data.news"/>
+
+## Optional News
+
+<NavContainer :data="data.optionalNews"/>

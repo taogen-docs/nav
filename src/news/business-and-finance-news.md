@@ -8,30 +8,36 @@ const data = ref(newsData);
 
 # Business & Financial News
 
-## Business Magazine
+## Selected
+
+<NavContainer :data="data.selected"/>
+
+## Some more
+
+### Business Magazine
 
 <NavContainer :data="data.businessMagazine"/>
 
-## Economy & Finance
+### Economy & Finance
 
 <NavContainer :data="data.economyFinance"/>
 
-## Business & Financial News
+### Business & Financial News
 
 <NavContainer :data="data.general"/>
 
-## Business News
+### Business News
 
 <NavContainer :data="data.business"/>
 
-## Financial News
+### Financial News
 
 <NavContainer :data="data.financial"/>
 
-## Stock News
+### Stock News
 
 <NavContainer :data="data.stock"/>
 
-## Crypto News
+### Crypto News
 
 <NavContainer :data="data.crypto"/>

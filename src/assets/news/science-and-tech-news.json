@@ -34,16 +34,6 @@
   ],
   "technology": [
     {
-      "name": "The Economist - Science & Technology",
-      "url": "https://www.economist.com/science-and-technology/",
-      "icon": "https://www.economist.com/favicon.ico"
-    },
-    {
-      "name": "WSJ - Tech",
-      "url": "https://www.wsj.com/tech",
-      "icon": "https://www.wsj.com/favicon.ico"
-    },
-    {
       "name": "The Verge",
       "url": "https://www.theverge.com/",
       "icon": "https://www.theverge.com/icons/favicon.ico"
@@ -59,14 +49,31 @@
       "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
     },
     {
+      "name": "极客公园",
+      "url": "https://www.geekpark.net/",
+      "icon": "https://imgslim.geekpark.net/geekpark-icon-196-black.png"
+    },
+    {
+      "name": "爱范儿",
+      "url": "https://www.ifanr.com/",
+      "icon": "https://images.ifanr.cn/wp-content/themes/ifanr-5.0-pc/static/images/favicon.ico"
+    }
+  ],
+  "optionalTech": [
+    {
       "name": "Wired",
       "url": "https://www.wired.com/",
       "icon": "https://www.wired.com/verso/static/wired-homepage/assets/favicon.ico"
     },
     {
-      "name": "极客公园",
-      "url": "https://www.geekpark.net/",
-      "icon": "https://imgslim.geekpark.net/geekpark-icon-196-black.png"
+      "name": "The Economist - Science & Technology",
+      "url": "https://www.economist.com/science-and-technology/",
+      "icon": "https://www.economist.com/favicon.ico"
+    },
+    {
+      "name": "WSJ - Tech",
+      "url": "https://www.wsj.com/tech",
+      "icon": "https://www.wsj.com/favicon.ico"
     },
     {
       "name": "cnBeta",
@@ -77,11 +84,6 @@
       "name": "奇客Solidot",
       "url": "https://www.solidot.org/",
       "icon": "https://www.solidot.org/favicon.ico"
-    },
-    {
-      "name": "爱范儿",
-      "url": "https://www.ifanr.com/",
-      "icon": "https://images.ifanr.cn/wp-content/themes/ifanr-5.0-pc/static/images/favicon.ico"
     },
     {
       "name": "ZEALER",

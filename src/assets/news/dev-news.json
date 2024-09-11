@@ -1,5 +1,5 @@
 {
-  "general": [
+  "articleRecommendation": [
     {
       "name": "Hacker News",
       "url": "https://news.ycombinator.com/",
@@ -11,20 +11,49 @@
       "icon": "https://lobste.rs/favicon.ico"
     },
     {
-      "name": "Reddit",
-      "url": "https://www.reddit.com/r/programming/",
-      "icon": "https://www.reddit.com/favicon.ico"
-    },
-    {
-      "name": "daily.dev",
-      "url": "https://app.daily.dev/",
+      "name": "daily.dev - Explore",
+      "url": "https://app.daily.dev/posts",
       "icon": "https://app.daily.dev/favicon.ico"
     },
     {
-      "name": "DZone",
-      "url": "https://dzone.com/",
+      "name": "Reddit - Programming",
+      "url": "https://www.reddit.com/r/programming/",
+      "icon": "https://www.reddit.com/favicon.ico"
+    }
+  ],
+  "communityArticles": [
+    {
+      "name": "Dev.to - Top",
+      "url": "https://dev.to/top/week",
+      "icon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+    },
+    {
+      "name": "Medium - Programming",
+      "url": "https://medium.com/?tag=programming",
+      "icon": "https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png"
+    },
+    {
+      "name": "DZone - Popular",
+      "url": "https://dzone.com/popular-topics",
       "icon": "https://dz2cdn3.dzone.com/themes/dz20/images/favicon.png"
     },
+    {
+      "name": "InfoQ 中文 - 热点",
+      "url": "https://www.infoq.cn/hotlist?tag=day",
+      "icon": "https://static001.infoq.cn/static/infoq/www/img/share-default-5tgbiuhgfefgujjhg.png"
+    },
+    {
+      "name": "稀土掘金 - 热榜",
+      "url": "https://juejin.cn/hot/articles",
+      "icon": "https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/static/favicons/favicon-16x16.png"
+    },
+    {
+      "name": "SegmentFault思否 - 博客周榜",
+      "url": "https://segmentfault.com/blogs/hottest/weekly",
+      "icon": "https://static.segmentfault.com/main_site_next/c14b227c/favicon.ico"
+    }
+  ],
+  "optional": [
     {
       "name": "InfoQ",
       "url": "https://www.infoq.com/",
@@ -34,33 +63,6 @@
       "name": "InfoWorld",
       "url": "https://www.infoworld.com/",
       "icon": "https://idge.staticworld.net/ifw/favicon.ico"
-    },
-    {
-      "name": "Dev",
-      "url": "https://dev.to/",
-      "icon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
-    },
-    {
-      "name": "湾区日报",
-      "url": "https://www.wanqu.co/",
-      "icon": "https://cdn1.wanqu.co/www-wanqu-co/production/images/favicon-efe89ba82571ce222ce2375966810a6f.jpg"
-    }
-  ],
-  "generalCN": [
-    {
-      "name": "InfoQ 中文",
-      "url": "https://www.infoq.cn/hotlist?tag=day",
-      "icon": "https://static001.infoq.cn/static/infoq/www/img/share-default-5tgbiuhgfefgujjhg.png"
-    },
-    {
-      "name": "稀土掘金",
-      "url": "https://juejin.cn/",
-      "icon": "https://juejin.cn/favicon.ico"
-    },
-    {
-      "name": "SegmentFault思否",
-      "url": "https://segmentfault.com/blogs",
-      "icon": "https://static.segmentfault.com/main_site_next/c14b227c/favicon.ico"
     },
     {
       "name": "科技爱好者周刊",

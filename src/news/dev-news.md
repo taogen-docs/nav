@@ -6,17 +6,16 @@ import newsData from '../assets/news/dev-news.json';
 const data = ref(newsData);
 </script>
 
-# Dev News
+# Programming News
 
-## General
+## Article Recommendation
 
-English
+<NavContainer :data="data.articleRecommendation"/>
 
-<NavContainer :data="data.general"/>
+## Community Articles
 
-中文
+<NavContainer :data="data.communityArticles"/>
 
-<NavContainer :data="data.generalCN"/>
 
 ## Web Frontend
 
@@ -25,3 +24,7 @@ English
 ## Mobile
 
 <NavContainer :data="data.mobile"/>
+
+## Optional
+
+<NavContainer :data="data.optional"/>

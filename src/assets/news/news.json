@@ -1,18 +1,22 @@
-[
-  {
-    "name": "The Economist",
-    "url": "https://www.economist.com/",
-    "icon": "https://www.economist.com/favicon.ico",
-    "desc": "The Economist is a British weekly newspaper published in printed magazine format and digitally."
-  },
-  {
-    "name": "The New York Times",
-    "url": "https://www.nytimes.com/",
-    "icon": "https://www.nytimes.com/favicon.ico"
-  },
-  {
-    "name": "WSJ",
-    "url": "https://www.wsj.com/",
-    "icon": "https://www.wsj.com/favicon.ico"
-  }
-]
+{
+  "news": [
+    {
+      "name": "The Economist",
+      "url": "https://www.economist.com/",
+      "icon": "https://www.economist.com/favicon.ico",
+      "desc": "The Economist is a British weekly newspaper published in printed magazine format and digitally."
+    }
+  ],
+  "optionalNews": [
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/",
+      "icon": "https://www.nytimes.com/favicon.ico"
+    },
+    {
+      "name": "WSJ",
+      "url": "https://www.wsj.com/",
+      "icon": "https://www.wsj.com/favicon.ico"
+    }
+  ]
+}
