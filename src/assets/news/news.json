@@ -4,19 +4,21 @@
       "name": "The Economist",
       "url": "https://www.economist.com/",
       "icon": "https://www.economist.com/favicon.ico",
-      "desc": "The Economist is a British weekly newspaper published in printed magazine format and digitally."
+      "desc": "The Economist is a British weekly newspaper published in printed magazine format and digitally. Price: CN¥1,590/year (Discount: CN¥707/year)."
     }
   ],
   "optionalNews": [
     {
       "name": "The New York Times",
       "url": "https://www.nytimes.com/",
-      "icon": "https://www.nytimes.com/favicon.ico"
+      "icon": "https://www.nytimes.com/favicon.ico",
+      "desc": "Price: (Discount $20/year)"
     },
     {
       "name": "WSJ",
       "url": "https://www.wsj.com/",
-      "icon": "https://www.wsj.com/favicon.ico"
+      "icon": "https://www.wsj.com/favicon.ico",
+      "desc": "Price: $9.9/month (Discount $2/month)"
     }
   ]
 }
