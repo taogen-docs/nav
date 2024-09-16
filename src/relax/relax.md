@@ -8,6 +8,12 @@ const data = ref(newsData);
 
 # Relax
 
+## Video Channels
+
+### Travel
+
+<NavContainer :data="data.videoChannels.travel"/>
+
 ## Forum
 
 > Short Information. Input and output.
