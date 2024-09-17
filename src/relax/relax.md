@@ -8,6 +8,12 @@ const data = ref(newsData);
 
 # Relax
 
+> Slow rhythm.
+
+> Daily life.
+
+> Real. Simple.
+
 ## Video Channels
 
 ### Travel
