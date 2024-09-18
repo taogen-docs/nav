@@ -20,6 +20,10 @@ const data = ref(newsData);
 
 <NavContainer :data="data.videoChannels.travel"/>
 
+### Culture
+
+<NavContainer :data="data.videoChannels.culture"/>
+
 ## Forum
 
 > Short Information. Input and output.
