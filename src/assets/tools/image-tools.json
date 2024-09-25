@@ -45,6 +45,20 @@
       "icon": "https://www.iloveimg.com/img/favicons-img/favicon-16x16.png"
     }
   ],
+  "resize": [
+    {
+      "name": "Image Resizer.com",
+      "url": "https://imageresizer.com/",
+      "icon": "https://imageresizer.com/favicon.ico",
+      "desc": "Resize image without distortion"
+    },
+    {
+      "name": "Resize Image - iLoveImg",
+      "url": "https://www.iloveimg.com/resize-image",
+      "icon": "https://www.iloveimg.com/img/favicons-img/favicon-16x16.png",
+      "desc": "Resize image with ratio. Fixed width or height may cause distortion."
+    }
+  ],
   "mergeImages": [
     {
       "name": "MERGE IMAGES ONLINE",

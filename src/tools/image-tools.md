@@ -24,6 +24,10 @@ const data = ref(newsData);
 
 <NavContainer :data="data.upscale"/>
 
+## Resize
+
+<NavContainer :data="data.resize"/>
+
 ## Merge Images
 
 <NavContainer :data="data.mergeImages"/>
