@@ -7,7 +7,12 @@
         "icon": "https://companiesmarketcap.com/favicon.ico"
       }
     ],
-    "marketMap": [
+    "heatmap": [
+      {
+        "name": "Stock Heatmap - TradingView",
+        "url": "https://www.tradingview.com/heatmap/stock/",
+        "icon": "https://www.tradingview.com/favicon.ico"
+      },
       {
         "name": "finviz",
         "url": "https://finviz.com/map.ashx",
@@ -49,11 +54,13 @@
       "icon": "https://wbstatic.webullfintech.com/v0/web/favicon.ico"
     }
   ],
-  "aStock": [
-    {
-      "name": "大盘云图",
-      "url": "https://dapanyuntu.com/",
-      "icon": "https://dapanyuntu.com/favicon.ico"
-    }
-  ]
+  "aStock": {
+    "heatmap": [
+      {
+        "name": "大盘云图",
+        "url": "https://dapanyuntu.com/",
+        "icon": "https://dapanyuntu.com/favicon.ico"
+      }
+    ]
+  }
 }

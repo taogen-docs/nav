@@ -18,9 +18,9 @@ const data = ref(newsData);
 
 <NavContainer :data="data.technicalAnalysis.marketCap"/>
 
-### Market Map
+### Stock Heatmap
 
-<NavContainer :data="data.technicalAnalysis.marketMap"/>
+<NavContainer :data="data.technicalAnalysis.heatmap"/>
 
 ## Security Companies
 
@@ -30,7 +30,9 @@ const data = ref(newsData);
 
 > 上证指数 SSE Composite Index
 
-<NavContainer :data="data.aStock"/>
+### Stock Heatmap
+
+<NavContainer :data="data.aStock.heatmap"/>
 
 大盘云图
 
