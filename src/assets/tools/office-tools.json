@@ -1,10 +1,5 @@
 {
-  "dict": [
-    {
-      "name": "Cambridge Dictionary",
-      "url": "https://dictionary.cambridge.org/us/",
-      "icon": "https://dictionary.cambridge.org/favicon.ico"
-    },
+  "translate": [
     {
       "name": "Google Translate",
       "url": "https://translate.google.com/",
@@ -14,6 +9,53 @@
       "name": "DeepL Translate",
       "url": "https://www.deepl.com/translator",
       "icon": "https://static.deepl.com/img/favicon/favicon_32.png"
+    }
+  ],
+  "learnerDictionary": [
+    {
+      "name": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/us/",
+      "icon": "https://dictionary.cambridge.org/favicon.ico",
+      "desc": "Use simple words to describe."
+    },
+    {
+      "name": "Oxford Learner's Dictionaries",
+      "url": "https://www.oxfordlearnersdictionaries.com/",
+      "icon": "https://www.oxfordlearnersdictionaries.com/favicon.ico",
+      "desc": "Serious and professional."
+    },
+    {
+      "name": "Collins Dictionary",
+      "url": "https://www.collinsdictionary.com/",
+      "icon": "https://www.collinsdictionary.com/favicon.ico"
+    },
+    {
+      "name": "Longman Dictionary",
+      "url": "https://www.ldoceonline.com/",
+      "icon": "https://www.ldoceonline.com/external/images/favicon.ico?version=1.2.72"
+    }
+  ],
+  "generalDictionary": [
+    {
+      "name": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/",
+      "icon": "https://www.merriam-webster.com/favicon.ico"
+    },
+    {
+      "name": "American Heritage Dictionary",
+      "url": "https://ahdictionary.com/",
+      "icon": "https://ahdictionary.com/application/resources/images/favico.ico"
+    },
+    {
+      "name": "Dictionary.com",
+      "url": "https://www.dictionary.com/",
+      "icon": "https://www.dictionary.com/94e56a525da4e9fe0cda.png",
+      "desc": "based on Random House Webster's Unabridged Dictionary"
+    },
+    {
+      "name": "Wiktionary",
+      "url": "https://www.wiktionary.org/",
+      "icon": "https://www.wiktionary.org/static/favicon/piece.ico"
     }
   ],
   "writing": [

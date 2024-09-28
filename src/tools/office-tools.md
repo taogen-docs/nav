@@ -8,9 +8,24 @@ const data = ref(newsData);
 
 # Office Tools
 
-## Dictionary and Translate
+## Translate
 
-<NavContainer :data="data.dict"/>
+<NavContainer :data="data.translate"/>
+
+## Dictionary
+
+### Learner's Dictionary
+
+> "Learner's dictionaries" are monolingual dictionaries focused on the needs of language learners; they focus on more
+> common definitions and include more usage notes.
+
+<NavContainer :data="data.learnerDictionary"/>
+
+### General Dictionary
+
+> Standard dictionaries are aimed at native speakers, but may be more complete in their listings of definitions.
+
+<NavContainer :data="data.generalDictionary"/>
 
 ## Writing
 
