@@ -26,7 +26,39 @@ const data = ref(newsData);
 
 <NavContainer :data="data.securityCompanies"/>
 
+## US Stock
+
+### Index
+
+- [Nasdaq 100 Index](https://www.tradingview.com/chart/yZRaRQET/?symbol=NASDAQ%3ANDX)
+- [S&P 500 Index](https://www.tradingview.com/chart/yZRaRQET/?symbol=SP%3ASPX)
+- [Dow Jones Industrial Average Index](https://www.tradingview.com/chart/yZRaRQET/?symbol=DJ%3ADJI)
+
+Fund
+
+- 广发纳斯达克100ETF联接（QDII）C类 - 006479，2018年，广发基金公司，刘杰，42亿。（支付宝）
+- 华夏纳斯达克100ETF - [513300](https://www.tradingview.com/chart/yZRaRQET/?symbol=SSE%3A513300)
+  ，2020年，华夏基金公司，赵宗庭，44亿。（中信证券）
+
 ## A Stock
+
+市场反应和股民情绪
+
+- 网络热榜
+  -
+  社交媒体：[微博热搜](https://weibo.com/hot/search)、[微博热搜-要闻](https://weibo.com/hot/news)、[知乎热榜](https://www.zhihu.com/hot)
+  -
+  互联网新闻：[今日头条热榜](https://www.toutiao.com/)、[百度热搜](https://top.baidu.com/board?tab=realtime)、[搜狗-全网实时热榜](https://ie.sogou.com/top/)
+  - 短视频：[抖音热点榜](https://www.douyin.com/hot)、[快手热榜](https://www.kuaishou.com/?isHome=1)
+-
+新闻门户网站：[网易-首页-要闻](https://www.163.com/)、[搜狐-24小时热点](https://www.sohu.com/xtopic/TURBd01ERTJNRE13)、[新浪网-首页-新闻](https://www.sina.com.cn/)、[腾讯网-热点榜](https://news.qq.com/)
+- 论坛：[V2EX - 投资](https://v2ex.com/go/invest)
+
+对股民情绪的影响
+
+- 冲动：市场火热，晒收益截图，离谱的故事。
+- 信心：刻舟求剑，大v预测，强行编造理由、制造因果关系，专家分析。
+- 迷惑：外界信息时真时假、真假难辨。
 
 整体趋势
 
