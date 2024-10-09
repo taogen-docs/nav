@@ -45,13 +45,10 @@ Fund
 市场反应和股民情绪
 
 - 网络热榜
-  -
-  社交媒体：[微博热搜](https://weibo.com/hot/search)、[微博热搜-要闻](https://weibo.com/hot/news)、[知乎热榜](https://www.zhihu.com/hot)
-  -
-  互联网新闻：[今日头条热榜](https://www.toutiao.com/)、[百度热搜](https://top.baidu.com/board?tab=realtime)、[搜狗-全网实时热榜](https://ie.sogou.com/top/)
+  - 社交媒体：[微博热搜](https://weibo.com/hot/search)、[微博热搜-要闻](https://weibo.com/hot/news)、[知乎热榜](https://www.zhihu.com/hot)
+  - 互联网新闻：[今日头条热榜](https://www.toutiao.com/)、[百度热搜](https://top.baidu.com/board?tab=realtime)、[搜狗-全网实时热榜](https://ie.sogou.com/top/)
   - 短视频：[抖音热点榜](https://www.douyin.com/hot)、[快手热榜](https://www.kuaishou.com/?isHome=1)
--
-新闻门户网站：[网易-首页-要闻](https://www.163.com/)、[搜狐-24小时热点](https://www.sohu.com/xtopic/TURBd01ERTJNRE13)、[新浪网-首页-新闻](https://www.sina.com.cn/)、[腾讯网-热点榜](https://news.qq.com/)
+- 新闻门户网站：[网易-首页-要闻](https://www.163.com/)、[搜狐-24小时热点](https://www.sohu.com/xtopic/TURBd01ERTJNRE13)、[新浪网-首页-新闻](https://www.sina.com.cn/)、[腾讯网-热点榜](https://news.qq.com/)
 - 论坛：[V2EX - 投资](https://v2ex.com/go/invest)
 
 对股民情绪的影响
