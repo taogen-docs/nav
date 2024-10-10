@@ -34,11 +34,21 @@ const data = ref(newsData);
 - [S&P 500 Index](https://www.tradingview.com/chart/yZRaRQET/?symbol=SP%3ASPX)
 - [Dow Jones Industrial Average Index](https://www.tradingview.com/chart/yZRaRQET/?symbol=DJ%3ADJI)
 
+Nasdaq 100 index：基本是是震荡上涨。偶尔会有20%左右的回调，回调可以加仓。遇到比较大的经济危机、全球重大事件（新冠病毒）会出现比较大的回调。
+
 Fund
 
 - 广发纳斯达克100ETF联接（QDII）C类 - 006479，2018年，广发基金公司，刘杰，42亿。（支付宝）
 - 华夏纳斯达克100ETF - [513300](https://www.tradingview.com/chart/yZRaRQET/?symbol=SSE%3A513300)
   ，2020年，华夏基金公司，赵宗庭，44亿。（中信证券）
+
+## Japan Stock
+
+### Index
+
+- [Nikkie 225](https://www.tradingview.com/chart/yZRaRQET/?symbol=SPREADEX%3ANIKKEI): The Nikkei 225 measures the performance of 225 highly capitalised and liquid publicly owned companies in Japan from a wide array of industry sectors. 
+
+Nikkie 横批震荡两三年后涨一波（40%左右）。
 
 ## A Stock
 
@@ -62,6 +72,13 @@ Fund
 - 股票指数趋势
   - [上证指数 SSE Composite Index - 000001](https://www.tradingview.com/chart/yZRaRQET/?symbol=SSE%3A000001)
   - [沪深300指数 CSI 300 Index](https://www.tradingview.com/chart/yZRaRQET/?symbol=SSE%3A000300)
+  - [中证100 CSI 100 Index - 000903](https://www.tradingview.com/chart/yZRaRQET/?symbol=SSE%3A000903)
+  - [上证50 SSE 50 Index - 000016](https://www.tradingview.com/chart/yZRaRQET/?symbol=SSE%3A000016)
+  - [深证100 Shenzhen 100 Index - 399330](https://www.tradingview.com/chart/yZRaRQET/?symbol=SZSE%3A399330)
+
+上证指数：震荡七八年后会有一次牛市。震荡幅度小，
+
+中证100指数：行情比较多。
 
 板块趋势
 
@@ -90,9 +107,12 @@ Fund
 
 **A股指数**
 
-- 上证指数（SSE Composite Index）：上海证券综合指数简称“上证指数”或“上证综指”，其样本股是在**上海证券交易所全部上市股票**
+- 上证指数（SSE Composite Index）- 000001：上海证券综合指数简称“上证指数”或“上证综指”，其样本股是在**上海证券交易所全部上市股票**
   ，包括A股和B股，反映了上海证券交易所上市股票价格的变动情况，自1991年7月15日起正式发布。
-- 沪深300指数（CSI 300 Index）：由沪深市场中**规模大、流动性好的最具代表性的300只证券**组成，于2005年4月8日正式发布，以反映沪深市场上市公司证券的整体表现。
+- 沪深300指数（CSI 300 Index）- 000300：由沪深市场中**规模大、流动性好的最具代表性的300只证券**组成，于2005年4月8日正式发布，以反映沪深市场上市公司证券的整体表现。
+- 中证100 CSI 100 Index - 000903：由沪深300指数中规模最大的100只股票组成的股价指数。该指数可以反映上海证券交易所和深圳证券交易所中最具市场影响力的100只大市值公司的整体状况，大概覆盖了上海证券交易所和深圳证券交易所中六成左右的市值。中证100指数可以视为沪深300指数的子集以及大盘股指数。
+- 上证50 SSE 50 Index - 000016
+- 深证100 Shenzhen 100 Index - 399330
 
 **交易所和板块**
 
@@ -139,8 +159,8 @@ Fund
 
 交易日：周一～周五（法定节日除外）
 
-- 09：15 —— 09：25 集合竞价
-- 09：30 —— 11：30 前市，连续竞价
+- （09：15 —— 09：25 集合竞价）
+- 09：30 —— 11：30 前市，连续竞价。9:30 开始正式交易。
 - 13：00 —— 15：00 后市，连续竞价
 - （14：57——15：00 为收盘集合竞价）
 
