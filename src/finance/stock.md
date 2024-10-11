@@ -63,18 +63,19 @@ Nikkie 横批震荡两三年后涨一波（40%左右）。
 
 对股民情绪的影响
 
-- 冲动：市场火热，晒收益截图，离谱的故事。
+- 冲动：市场火热，晒收益截图，离谱的赚钱的故事。
 - 信心：刻舟求剑，大v预测，强行编造理由、制造因果关系，专家分析。
-- 迷惑：外界信息时真时假、真假难辨。
+- 迷惑：外界信息时真时假、真假难辨。交流群和微博平台的各种垃圾信息。
 
 整体趋势
 
 - 股票指数趋势
   - [上证指数 SSE Composite Index - 000001](https://www.tradingview.com/chart/yZRaRQET/?symbol=SSE%3A000001)
-  - [沪深300指数 CSI 300 Index](https://www.tradingview.com/chart/yZRaRQET/?symbol=SSE%3A000300)
+  - [沪深300指数 CSI 300 Index - 000300](https://www.tradingview.com/chart/yZRaRQET/?symbol=SSE%3A000300)
   - [中证100 CSI 100 Index - 000903](https://www.tradingview.com/chart/yZRaRQET/?symbol=SSE%3A000903)
   - [上证50 SSE 50 Index - 000016](https://www.tradingview.com/chart/yZRaRQET/?symbol=SSE%3A000016)
   - [深证100 Shenzhen 100 Index - 399330](https://www.tradingview.com/chart/yZRaRQET/?symbol=SZSE%3A399330)
+  - [科创50 - 000688](https://www.tradingview.com/chart/yZRaRQET/?symbol=SSE%3A588060)
 
 上证指数：震荡七八年后会有一次牛市。震荡幅度小，
 
